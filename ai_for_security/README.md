@@ -9,3 +9,6 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * Social Network Security
 * Enterprise Security
 * Threat Hunting
+* Email Security
+
+We also track the security startups that uses AI to protect, predict and analyze.
