@@ -9,6 +9,7 @@ We cover the following topics.
   * Explainability
   * Bias
   * Fairness
+  * Model supply chain
 * AI for security
   * Web security
   * DNS security
@@ -17,3 +18,4 @@ We cover the following topics.
   * Enterprise security
   * Social network security
   * Deepfakes and disinformation
+  * Email security
