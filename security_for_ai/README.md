@@ -7,3 +7,6 @@ Specifically, we keep a close eye on the following areas:
 * Explainability
 * Fairness
 * Bias
+* Model Supply Chain
+
+We also track the security startups that defend AI.
