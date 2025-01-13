@@ -7,8 +7,9 @@ We cover the following topics.
   * LLM Security
   * Adversarial Machine Learning
   * Explainability
-  * Bias
-  * Fairness
+  * Safety, Bias and Fairness
+  * RAG
+  * Agents
   * Model supply chain
 * AI for security
   * Web security
@@ -19,3 +20,4 @@ We cover the following topics.
   * Social network security
   * Deepfakes and disinformation
   * Email security
+  * Binary Analysis
