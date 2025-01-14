@@ -8,9 +8,10 @@ We cover the following topics.
   * Adversarial Machine Learning
   * Explainability
   * Safety, Bias and Fairness
-  * RAG
-  * Agents
-  * Model supply chain
+  * RAG security
+  * Agents security
+  * ML security
+  * Model supply chain security
 * AI for security
   * Web security
   * DNS security
