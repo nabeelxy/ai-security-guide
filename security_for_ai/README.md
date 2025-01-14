@@ -6,6 +6,8 @@ Specifically, we keep a close eye on the following areas:
 * Adversarial Machine Learning
 * Explainability
 * Safety, Bias and Fairness
+* RAG Security
+* Agents Security
 * ML Security
 * Model Supply Chain Security
 
