@@ -5,8 +5,8 @@ Specifically, we keep a close eye on the following areas:
 * LLM Security
 * Adversarial Machine Learning
 * Explainability
-* Fairness
-* Bias
-* Model Supply Chain
+* Safety, Bias and Fairness
+* ML Security
+* Model Supply Chain Security
 
 We also track the security startups that defend AI.
