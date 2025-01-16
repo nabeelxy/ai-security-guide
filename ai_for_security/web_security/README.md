@@ -1,5 +1,5 @@
 # Web Security
 
-| Date | Title | Venue | Materials | Short Summary | Summary |
-| --- | --- | --- | --- | --- | --- |
-| Oct 2024 | SWIDE: A Semantic-aware Detection Engine for Successful Web Injection Attacks | CCS | | | |
+| Date | Title | Venue | Materials | Tags | Short Summary | Summary |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aug 2024 | KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection | Usenix Security | [paper](https://usenix.org/system/files/usenixsecurity24-li-yuexin.pdf)| Phishing, LLMs, Brands | Existing reference based phishing detectors have limited scalability. This paper proposes an approach to automate the process of building a brand knowledge database without limiting to a certain set of brands (e.g. Tranco top 1K domains). The knowledge-base is multimodal meaning they collect information such as logos, and text. They also propose a detector that extract textual information from websites using LLMs and the detect if a website is phishing or not. They experiment with state-of-the-art reference models Phishpedia nad PhishIntention and show that injecting their multimodal knowledge-base results in better detection efficacy.| |
