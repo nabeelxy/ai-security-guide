@@ -1,9 +1,0 @@
-## Best-of-N Jailbreaking
-
-![BoN Overview](../media/bon.png)
-
-### Highlights
-
-### Limitations
-
-### Defenses
