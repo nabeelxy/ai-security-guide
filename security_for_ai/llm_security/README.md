@@ -2,7 +2,7 @@
 
 We explore LLM Security attacks under the following categories:
 * Adversarial attack
-  * Backdoor attack
+  * Backdoor attack - [More info](backdoor.md)
   * Poisoning attack
 * Prompt hacking
   * Prompt injection
