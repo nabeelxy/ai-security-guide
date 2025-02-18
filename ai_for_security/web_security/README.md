@@ -4,6 +4,7 @@
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2025 | CryptoScam | The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams | WebConf | [Paper](https://openreview.net/pdf?id=P0x8J5gCPP) | crypo scam, llm, detection, longitudinal study | | |
+| Jan 2025 | ChatGPT-Gen-Code | Discriminating Human-authored from ChatGPT-Generated Code Via Discernable Feature Analysis | arXiv | [Paper](https://arxiv.org/pdf/2306.14397) | chatgpt generated code, human generated code, attribution | | | 
 | Nov 2024 | Phishing_ccTLD | Characterizing and Mitigating Phishing Attacks at ccTLD Scale | CCS | [Paper](https://www.sidnlabs.nl/downloads/6IIRiSdlv0HAd3czcP2Hb0/84727e566427f7cb902909b1aa961dfd/Characterizing_and_Mitigating_Phishing_Attacks_at_ccTLD_Scale.pdf) | phishing, cctld, compromised | | |
 | Sep 2024 | Blocklist-Forecast | Blocklist-Forecast: Proactive Domain Blocklisting by Identifying Malicious Hosting Neighborhoods | RAID | [Paper](https://dl.acm.org/doi/pdf/10.1145/3678890.3678925) | blocklist, prediction, graph neural networks | | |
 | Sep 2024 | ADAPT | ADAPT it! Automating APT campaign and Group Attribution Leveraging and Linking Heterogeneous Files | RAID | [Paper](https://raid2024.github.io/papers/raid2024-19.pdf) | apt, detection, binaries | | |
