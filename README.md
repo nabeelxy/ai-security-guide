@@ -22,6 +22,7 @@ We cover the following topics.
   * Deepfakes and disinformation
   * Email security
   * Binary Analysis
+* AI for offensive security
 * AI Product Security
   * Security for AI Systems
   * Designing AI Security Detectors
