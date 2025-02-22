@@ -3,6 +3,7 @@
 ## Recent Publications
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feb 2025 | ScamFerret | ScamFerret: Detecting Scam Websites Autonomously with Large Language Models | DIMVA 2025 | [Paper](https://arxiv.org/pdf/2502.10110) | scam, agent, llm, autonomous | | |
 | 2025 | CryptoScam | The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams | WebConf | [Paper](https://openreview.net/pdf?id=P0x8J5gCPP) | crypo scam, llm, detection, longitudinal study | | |
 | Jan 2025 | ChatGPT-Gen-Code | Discriminating Human-authored from ChatGPT-Generated Code Via Discernable Feature Analysis | arXiv | [Paper](https://arxiv.org/pdf/2306.14397) | chatgpt generated code, human generated code, attribution | | | 
 | Nov 2024 | Phishing_ccTLD | Characterizing and Mitigating Phishing Attacks at ccTLD Scale | CCS | [Paper](https://www.sidnlabs.nl/downloads/6IIRiSdlv0HAd3czcP2Hb0/84727e566427f7cb902909b1aa961dfd/Characterizing_and_Mitigating_Phishing_Attacks_at_ccTLD_Scale.pdf) | phishing, cctld, compromised | | |
