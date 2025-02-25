@@ -19,6 +19,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Short Summary | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feb 2025 | JBShield | JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation | arXiv | [Paper](https://arxiv.org/abs/2502.07557) | safety alignment, LRH | | |
 | Feb 2025 | Firewall_LLM_Agent | Firewalls to Secure Dynamic LLM Agentic Networks | arXiv | [Paper](https://arxiv.org/pdf/2502.01822) | firewall, agents, llm | They identify two required properties for agent communication: privacy and security. They propose a framework to automatically construct and update task-specific rules from prior simulations to build firewalls. | |
 | Jan 2025 | Defense_Jailbreak | Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming | arXiv | [Paper](https://arxiv.org/pdf/2501.18837), [Relase Note](https://www.anthropic.com/research/constitutional-classifiers) | aml, robust, universal jailbreak | | |
 | Dec 2024 | BoN | Best-of-N Jailbreaking | arXiv | [paper](https://arxiv.org/abs/2412.03556) | Jailbreaking, Prompt Injection | Best-of-N (BoN) algorithm that jailbreaks frontier multi-modal models. It works by repeatedly sampling variations of a prompt with a combination of augmentations such as random shuffling or capitalization for textual prompts, until a harmful response is elicited. ASR of 89% on GPT-4o and 78% on Claude 3.5. | [Summary](bon.md) |
