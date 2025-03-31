@@ -7,7 +7,7 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * DNS Security
 * IoT Security
 * Social Network Security
-* Enterprise Security
+* Enterprise/Cloud Security
 * Threat Hunting
 * Email Security
 * Binary Analysis
