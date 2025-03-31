@@ -1,6 +1,6 @@
 # AI Security Guide
 
-This repo provides an up-to-date view on AI for security and security for AI.
+This repo provides an up-to-date view on AI for security and security for AI. Prior to ChatGPT moment, AI has been used to enhance security in various ways, including enhanced threat dtecction. The renewed focus of AI and prolifiration of LLMs have fueled the adoption of AI for security. For the first time in history, defenders can have the upperhand by crunching large amounts of diverse and complex data if right models are built. 
 
 We cover the following topics.
 * Security for AI
