@@ -10,5 +10,6 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * Enterprise Security
 * Threat Hunting
 * Email Security
+* Binary Analysis
 
 We also track the security startups that uses AI to protect, predict and analyze.
