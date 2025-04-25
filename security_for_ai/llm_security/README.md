@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Short Summary | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mar 2025 | CaMeL | Defeat Prompt Injections by Design | arXiv | [Paper](https://arxiv.org/pdf/2503.18813) | prompt injection, defense, agents, AgentDojo | | |
 | Feb 2025 | JBShield | JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation | arXiv | [Paper](https://arxiv.org/abs/2502.07557) | safety alignment, LRH | | |
 | Feb 2025 | Firewall_LLM_Agent | Firewalls to Secure Dynamic LLM Agentic Networks | arXiv | [Paper](https://arxiv.org/pdf/2502.01822) | firewall, agents, llm | They identify two required properties for agent communication: privacy and security. They propose a framework to automatically construct and update task-specific rules from prior simulations to build firewalls. | |
 | Jan 2025 | Defense_Jailbreak | Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming | arXiv | [Paper](https://arxiv.org/pdf/2501.18837), [Relase Note](https://www.anthropic.com/research/constitutional-classifiers) | aml, robust, universal jailbreak | | |
