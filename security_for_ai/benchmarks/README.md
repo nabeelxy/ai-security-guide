@@ -13,5 +13,5 @@ In this section, we keep track of security benchmark datasets, especially those 
 
 | Date | ID | Title | Venue | Material | Tags | Short Summary | Summary |
 |---|---|---|---|---|---|---|---|
-| Aug 2024 | CyberSecEval 3 | Cyberseceval 3: Advancing the evaluation of cybersecurity risks and capabilities in large language models | arXiv, Meta | [Paper](https://arxiv.org/pdf/2408.01605) | offensive security, social engineering | | |
-| Sep 2018 | HotPotQA | Hotpotqa: A dataset for diverse, explainable multi-hop question answering | arXiv | [Paper](https://arxiv.org/pdf/1809.09600) |  Wikipedia based QA | | |
+| Aug 2024 | CyberSecEval 3 | Cyberseceval 3: Advancing the evaluation of cybersecurity risks and capabilities in large language models | arXiv, Meta | [Paper](https://arxiv.org/pdf/2408.01605) | offensive security, social engineering, code security | | |
+| Sep 2018 | HotPotQA | Hotpotqa: A dataset for diverse, explainable multi-hop question answering | arXiv | [Paper](https://arxiv.org/pdf/1809.09600) |  Wikipedia based QA, hallucination | | |
