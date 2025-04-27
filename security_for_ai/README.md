@@ -10,5 +10,6 @@ Specifically, we keep a close eye on the following areas:
 * Agents Security
 * ML Security
 * Model Supply Chain Security
+* Benchmarks
 
 We also track the security startups that defend AI.
