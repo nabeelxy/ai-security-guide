@@ -1,5 +1,13 @@
 # Benchmarks
-In this section, we keep track of security benchmark datasets, especially those created to evaluate generative models.
+In this section, we keep track of security benchmark datasets, especially those created to evaluate generative models. These benchmark datasets fall under the following cateories:
+* Fairness and Bias
+* Privacy
+* Adversarial robustness
+* Out of Distribution (OOD) robustness
+* Safety alignment
+* Over refusal
+* Hallucination
+* Code security
 
 ## Recent Publications
 
