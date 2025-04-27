@@ -12,6 +12,7 @@ We cover the following topics.
   * Agents security
   * ML security
   * Model supply chain security
+  * Benchmarks
 * AI for security
   * Web security
   * DNS security
