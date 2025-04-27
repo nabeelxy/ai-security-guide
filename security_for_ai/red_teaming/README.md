@@ -1,5 +1,7 @@
 # Red Teaming
-
+Red-teaming is a common practice for mitigating unsafe behaviors in Large Language
+Models (LLMs), LLM based systems and agents. It involves thoroughly assessing thse systems to identify potential flaws and
+addressing them with responsible and accurate responses.
 
 
 ## Recent Publications
