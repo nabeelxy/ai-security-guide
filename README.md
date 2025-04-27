@@ -13,6 +13,7 @@ We cover the following topics.
   * ML security
   * Model supply chain security
   * Benchmarks
+  * Red Teaming
 * AI for security
   * Web security
   * DNS security
