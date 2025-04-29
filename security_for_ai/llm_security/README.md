@@ -31,3 +31,4 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * NeMo-Guardrails by Nvidia [Github](https://github.com/NVIDIA/NeMo-Guardrails)
 * Guardrails by GuardrailsAI [Github](https://github.com/guardrails-ai/guardrails)
 * LLM-Guard by ProtectAI [Github](https://github.com/protectai/llm-guard)
+* Fast LLM Security Guardrails by ZenGuardAI [Github](https://github.com/ZenGuard-AI/fast-llm-security-guardrails)
