@@ -15,7 +15,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 ## Recent publications on LLM security and privacy
 
-| Date | ID | Title | Venue | Material | Tags | Short Summary | Summary | 
+| Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aug 2025 | Package_hallucination | We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) | llm, hallucination, packages, code generation | | |
 | Mar 2025 | CaMeL | Defeat Prompt Injections by Design | arXiv | [Paper](https://arxiv.org/pdf/2503.18813) | prompt injection, defense, agents, AgentDojo | | |
