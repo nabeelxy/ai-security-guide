@@ -1,7 +1,7 @@
 # Web Security
 
 ## Recent Publications
-| Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
+| Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feb 2025 | ScamFerret | ScamFerret: Detecting Scam Websites Autonomously with Large Language Models | DIMVA 2025 | [Paper](https://arxiv.org/pdf/2502.10110) | scam, agent, llm, autonomous | | |
 | 2025 | CryptoScam | The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams | WebConf | [Paper](https://openreview.net/pdf?id=P0x8J5gCPP) | crypo scam, llm, detection, longitudinal study | | |
@@ -22,7 +22,7 @@
 | Nov 2023 | Mal-JS-Semantic-Matching | Read Between the Lines: Detecting Tracking JavaScript with Bytecode Classification | CCS 2023 | [Paper](https://www.cs.uic.edu/~polakis/papers/ghasemisharif-ccs23.pdf) | Detecting JS, semantic matching | | |
 | Aug 2023 | TRIDENT | TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks | Usenix Security 2023 | [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zheng) [Slides](https://www.usenix.org/system/files/sec23_slides_yang-zheng.pdf) [Talk](https://youtu.be/l5ctLVGS2RU) | web based social engineering attacks | | |
 | May 2023 | Beyond Phish | Beyond Phish: Towards detecting fraudulent e-commerce websites at scale | IEEE S&P | [Paper](https://yancomm.net/papers/2023%20-%20SP%20-%20Beyond%20Phish.pdf) | Fraudulent websites| | |
-| Mar 2023 | PhishBot | From Chatbots to PhishBots? – Preventing Phishing scams created using ChatGPT, Google Bard and Claude | arXiv | [Paper](https://arxiv.org/pdf/2310.19181) | phishing, email, llm, prompt sanitization, bert | They build a BERT (RoBERTa-base to be exact) based tool to detect malicious prompts that are used to generate phishing contents. Their defense is tested on GPT 3.5 Turbo, GPT 4, Claude and Bard. | |
+| Mar 2023 | PhishBot | From Chatbots to PhishBots? – Preventing Phishing scams created using ChatGPT, Google Bard and Claude | arXiv | [Paper](https://arxiv.org/pdf/2310.19181) | phishing, email, llm, prompt sanitization, bert |  | [Note](reviews/phishbot.md)|
 | Feb 2023 | Dead-Tags | Tag of the Dead: How Terminated SaaS Tags Become Zombies | MADWEB 2023 | [Paper](https://www.ndss-symposium.org/wp-content/uploads/2023/02/madweb2023-23034-paper.pdf) [Talk](https://www.youtube.com/watch?v=mmp8DP5OAlI) | dead tags, saas | | |
 | 2023 | Malicious-Browser-Ext | Characterizing Cryptocurrency-themed Malicious Browser Extensions | SIGMETRICS 2023 | [Paper](https://baigd.github.io/files/SIGMETRICS23.pdf) | crypto scams, malicious browswer extensions | | |
 | Nov 2022 | Phishing-Graph | Phishing URL Detection: A Network-based Approach Robust to Evasion | CCS 2022 | [Paper](https://arxiv.org/pdf/2209.01454) | phishing, web graph, gnn | | |
