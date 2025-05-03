@@ -42,3 +42,4 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * Fast LLM Security Guardrails by ZenGuardAI [Github](https://github.com/ZenGuard-AI/fast-llm-security-guardrails)
 * LangKit by Why Labs [Github](https://github.com/whylabs/langkit)
 * PurpleLlama by Meta [Github](https://github.com/meta-llama/PurpleLlama)
+* LLM Guard by Protect AI [Tool](https://llm-guard.com)
