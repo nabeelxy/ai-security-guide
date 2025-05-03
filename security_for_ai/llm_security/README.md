@@ -18,6 +18,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aug 2025 | Package_hallucination | We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | Usenix Security 2025 | [Paper](https://arxiv.org/pdf/2406.10279) | llm, hallucination, packages, code generation | | |
+| May 2025 | Backdoor-Pretrained | Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability | WebConf 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714624) | backdoor, pretrain, finetune | | |
 | May 2025 | Jailbreak-Perf-Eval | You Can’t Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense | WebConf 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714632) | utility, prompt inject defenses | | |
 |Apr 2025 | LlamaFirewall | LlamaFirewall: An open source guardrail system for building secure AI agents | Meta | [Paper](https://scontent-lax3-2.xx.fbcdn.net/v/t39.2365-6/494149131_1055202283127335_8271555569134498093_n.pdf) | firewall, llm, agent, open source| | |
 | Apr 2025 | Heimdall | Heimdall: test-time scaling on the generative verification | arXiv | [Paper](https://arxiv.org/abs/2504.10337) | CoT verification, RL, AIME2025 | | |
