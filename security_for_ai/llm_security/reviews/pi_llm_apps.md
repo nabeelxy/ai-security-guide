@@ -1,0 +1,1 @@
+Similar to SQL inject attacks, the core idea of this work is to inject prompts that the integrated LLM thinks as a question not as a payload. The attack works in the blackbox setting where they encapsulate previous commands and inject malicious prompt as a new command. They found that 31 out of 36 LLM integrated apps are susceptible to this attack.
