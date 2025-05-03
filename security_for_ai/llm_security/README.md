@@ -39,3 +39,4 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * Guardrails by GuardrailsAI [Github](https://github.com/guardrails-ai/guardrails)
 * LLM-Guard by ProtectAI [Github](https://github.com/protectai/llm-guard)
 * Fast LLM Security Guardrails by ZenGuardAI [Github](https://github.com/ZenGuard-AI/fast-llm-security-guardrails)
+* LangKit by Why Labs [Github](https://github.com/whylabs/langkit)
