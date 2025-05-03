@@ -32,6 +32,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * [05-01-2025] [Report](https://media.licdn.com/dms/document/media/v2/D561FAQGg9Ds3rhaGPw/feedshare-document-pdf-analyzed/B56ZaSGr9wHgAY-/0/1746207963856) AI agents are here. So are the threats by Palo Alto Networks.
 
 ## Open Source LLM Security Tools and Products
+* LlamaFirewall by Meta [Github](https://meta-llama.github.io/PurpleLlama/LlamaFirewall/)
 * NeMo-Guardrails by Nvidia [Github](https://github.com/NVIDIA/NeMo-Guardrails)
 * Guardrails by GuardrailsAI [Github](https://github.com/guardrails-ai/guardrails)
 * LLM-Guard by ProtectAI [Github](https://github.com/protectai/llm-guard)
