@@ -33,6 +33,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 ## Open Source LLM Security Tools and Products
 * LlamaFirewall by Meta [Github](https://meta-llama.github.io/PurpleLlama/LlamaFirewall/)
+* Invariant guardrails for agentic systems [Github](https://github.com/invariantlabs-ai/invariant)
 * NeMo-Guardrails by Nvidia [Github](https://github.com/NVIDIA/NeMo-Guardrails)
 * Guardrails by GuardrailsAI [Github](https://github.com/guardrails-ai/guardrails)
 * LLM-Guard by ProtectAI [Github](https://github.com/protectai/llm-guard)
