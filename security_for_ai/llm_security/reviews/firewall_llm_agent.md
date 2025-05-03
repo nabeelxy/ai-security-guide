@@ -1,0 +1,1 @@
+They identify two required properties for agent communication: privacy and security. They propose a framework to automatically construct and update task-specific rules from prior simulations to build firewalls.
