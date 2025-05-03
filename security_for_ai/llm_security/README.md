@@ -43,5 +43,6 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * LangKit by Why Labs [Github](https://github.com/whylabs/langkit)
 * PurpleLlama by Meta [Github](https://github.com/meta-llama/PurpleLlama)
 * LLM Guard by Protect AI [Tool](https://llm-guard.com)
+* HeimdaLLM [Github](https://github.com/amoffat/HeimdaLLM) #staticanalysis Note: not updated since 2/3/2024
 * Rebuff by Protect AI [Github](https://github.com/protectai/rebuff) - Note: not updated since 1/19/2024
 * Vigil by DeadBits [Github](https://github.com/deadbits/vigil-llm) - Note: Not updated since 12/31/2023
