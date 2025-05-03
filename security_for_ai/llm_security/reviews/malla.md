@@ -1,0 +1,1 @@
+This paper studies 212 LLM powered malicious services. These services used 8 different LLMs and 182 prompts to circumvent the protective measures of public LLM APIs. They report the abuse of uncensored LLMs and the exploitation of public LLM APIs through jailbreak prompts.
