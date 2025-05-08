@@ -15,7 +15,7 @@ We cover the following topics.
   * Benchmarks
   * Red Teaming
 * AI for security
-  * Web security
+  * [Web security](https://github.com/nabeelxy/ai-security-guide/tree/main/ai_for_security/web_security)
   * DNS security
   * IoT security
   * Threat hunting
