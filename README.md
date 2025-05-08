@@ -4,7 +4,7 @@ This repo provides an up-to-date view on AI for security and security for AI. Pr
 
 We cover the following topics.
 * Security for AI
-  * LLM Security
+  * [LLM Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/llm_security)
   * Adversarial Machine Learning
   * Explainability
   * Safety, Bias and Fairness
