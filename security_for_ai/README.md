@@ -11,5 +11,6 @@ Specifically, we keep a close eye on the following areas:
 * [Model Supply Chain Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/model_supply_chain_security)
 * [Benchmarks](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/benchmarks)
 * [Red Teaming](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/red_teaming)
+* [MCP Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/mcp_security)
 
 We also track the [security startups](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/startups) that defend AI.
