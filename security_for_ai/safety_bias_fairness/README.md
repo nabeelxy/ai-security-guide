@@ -1,5 +1,7 @@
 # Safety Bias and Fairness
+This section explores the safety, bias and fairness concerns of AI models.
 
+## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
 | Apr 2025 | Real-World Gaps in AI Governance Research | arXiv | [Paper](https://arxiv.org/pdf/2505.00174) | pre-deployment, post-deployment, alignment, bias | | |
