@@ -2,7 +2,7 @@
 This section covers adversarial attacks and defenses on machine learning models. While prompt injections fall under AML, due to its prevlance and extensive research, they warrent a sepeate section. Please refer to [LLM Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/llm_security) for more details on prompt injections.
 
 ## Recent Publications
-| Date | ID | Title | Venue | Material | Tags | Short Summary | Summary |
+| Date | ID | Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|---|
 | Feb 2025 | Adv-LLM-Position | Adversarial ML Problems Are Getting Harder to Solve and to Evaluate | arXiv | [Paper](https://arxiv.org/pdf/2502.02260) | llm, adversarial ml progress, position paper | | |
 | Feb 2025 | Robust-text | Reformulation is All You Need: Addressing Malicious Text Features in DNNs | arXiv | [Paper](https://arxiv.org/pdf/2502.00652) | advesarial manipulation of text, reorientation | | |
