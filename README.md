@@ -5,10 +5,10 @@ This repo provides an up-to-date view on AI for security and security for AI. Pr
 We cover the following topics.
 * Security for AI
   * [LLM Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/llm_security)
-  * Adversarial Machine Learning
-  * Explainability
-  * Safety, Bias and Fairness
-  * RAG security
+  * [Adversarial Machine Learning](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/adversarial_machine_learning)
+  * [Explainability](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/explainability)
+  * [Safety, Bias and Fairness](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/safety_bias_fairness/README.md)
+  * [RAG security](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/rag_security/README.md)
   * Agents security
   * ML security
   * Model supply chain security
