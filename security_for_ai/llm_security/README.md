@@ -17,6 +17,8 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| May 2025 | GPTracker | GPTracker: A Large-Scale Measurement of Misused GPTs | IEEE S&P 2025 | | GPT Store, OpenAI | | |
+| May 2025 | Modifier Unlocker | Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts | IEEE S&P 2025 | | | | |
 | May 2025 | Llama-Nemotron | Llama-Nemotron: Efficient Reasoning Models | arXiv, Nvidia | [Paper](https://arxiv.org/pdf/2505.00949) | efficient reasoning, llama | | |
 | May 2025 | Backdoor-Pretrained | Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability | WebConf 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714624) | backdoor, pretrain, finetune | | |
 | May 2025 | DIE-Jailbreak | Dual Intention Escape: Penetrating and Toxic Jailbreak Attack against Large Language Models | WebConf 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714654) | jailbreak, attack | | |
