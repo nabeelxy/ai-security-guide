@@ -10,7 +10,7 @@ We cover the following topics.
   * [Safety, Bias and Fairness](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/safety_bias_fairness/README.md)
   * [RAG security](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/rag_security/README.md)
   * [Agents security](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/agents_security/README.md)
-  * ML security
+  * [ML security/privacy](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/ml_security)
   * Model supply chain security
   * Benchmarks
   * Red Teaming
