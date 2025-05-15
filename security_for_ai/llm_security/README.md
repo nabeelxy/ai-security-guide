@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| May 2025 | UnMarker | UnMarker: A Universal Attack on Defensive Image Watermarking | IEEE S&P 2025 | | remove watermark | | |
 | May 2025 | Watermarking-LLM | Watermarking Language Models for Many Adaptive Users | IEEE S&P 2025 | | watermark | | |
 | May 2025 | LLM-Advanced-MIA | Rigging the Foundation: Manipulating Pre-training for Advanced Membership Inference Attacks | IEEE S&P 2025 | | attack, membership inference | | |
 | May 2025 | DataSentinel | DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks | IEEE S&P 2025 | | defense, prompt injection | | |
