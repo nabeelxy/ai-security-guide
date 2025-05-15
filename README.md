@@ -17,6 +17,7 @@ We cover the following topics.
 * AI for security
   * [Web security](https://github.com/nabeelxy/ai-security-guide/tree/main/ai_for_security/web_security)
   * Network security
+  * Foundation security models
   * IoT security
   * Threat hunting
   * Enterprise/Cloud security
