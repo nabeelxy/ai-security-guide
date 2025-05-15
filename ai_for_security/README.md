@@ -3,6 +3,7 @@ In this section, we explore how the cyber security community leverage AI for sec
 
 Specifically, we keep a close eye and critically evaluate the following areas:
 * Deepfake and Misinfromation Detection
+* Foundation Security Models
 * Web Security
 * Network Security
 * IoT Security
