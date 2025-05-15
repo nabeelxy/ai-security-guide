@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| May 2025 | Watermarking-LLM | Watermarking Language Models for Many Adaptive Users | IEEE S&P 2025 | | watermark | | |
 | May 2025 | LLM-Advanced-MIA | Rigging the Foundation: Manipulating Pre-training for Advanced Membership Inference Attacks | IEEE S&P 2025 | | attack, membership inference | | |
 | May 2025 | DataSentinel | DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks | IEEE S&P 2025 | | defense, prompt injection | | |
 | May 2025 | Alignment-LLM-Finetuning | Alleviating the Fear of Losing Alignment in LLM Fine-tuning | IEEE S&P 2025 | | defense, alignment, fine-tuning | | |
