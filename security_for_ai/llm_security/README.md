@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| May 2025 | Prompt-Inversion-Attack | Prompt Inversion Attack against Collaborative Inference of Large Language Models | IEEE S&P 2025 | | invesion attack, collaborative inference | | |
 | May 2025 | BAIT | BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target |  IEEE S&P 2025 | | inversion attack, backdoor |  | |
 | May 2025 | GPTracker | GPTracker: A Large-Scale Measurement of Misused GPTs | IEEE S&P 2025 | | GPT Store, OpenAI | | |
 | May 2025 | Modifier Unlocker | Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts | IEEE S&P 2025 | | | | |
