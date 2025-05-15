@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| May 2025 | DataSentinel | DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks | IEEE S&P 2025 | | defense, prompt injection | | |
 | May 2025 | Alignment-LLM-Finetuning | Alleviating the Fear of Losing Alignment in LLM Fine-tuning | IEEE S&P 2025 | | defense, alignment, fine-tuning | | |
 | May 2025 | Secure Transfer Learning | Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset | IEEE S&P 2025 | | backdoor, pretrained models, data poisoning | | |
 | May 2025 | PEFTGuard | PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning | IEEE S&P 2025 | | peft, backdoor, detection, fine-tuning | | |
