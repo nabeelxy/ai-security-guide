@@ -46,6 +46,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Aug 2024 | PI-Attack-Defense | Formalizing and Benchmarking Prompt Injection Attacks and Defenses | Usenix Security 2025 | [paper](https://www.usenix.org/system/files/usenixsecurity24-liu-yupei.pdf) | prompt injection, attack, defense, LLM-integrated app | [Github](https://github.com/liu00222/Open-Prompt-Injection) | |
 | Aug 2024 | Malla | Malla: Demystifying Real-World Large Language Model Integrated Malicious Services | Usenix Security | [paper](https://www.usenix.org/system/files/usenixsecurity24-lin-zilong.pdf) | Malicious LLMs, Jailbreaking, Darkweb | | [Summary](reviews/malla.md)|
 | Jul 2024 | Jailbreak-20Q | Jailbreaking Black Box Large Language Models in Twenty Queries | arXiv | [Paper](https://arxiv.org/pdf/2310.08419) | PAIR | | |
+| Apr 2024 | Universal-PI | Automatic and Universal Prompt Injection Attacks against Large Language Models | arXiv | [paper](https://arxiv.org/pdf/2403.04957) | gradient based method | [Github](https://github.com/SheltonLiu-N/Universal-Prompt-Injection) | |
 | Mar 2024 | PI_LLM_Apps | Prompt Inject Attack Against LLM-Integrated Applications | arXiv | [paper](https://arxiv.org/pdf/2306.05499) | Prompt Injection, LLM-Integrated Apps |  | [Summary](reviews/pi_llm_apps.md)|
 
 ## Blogs
