@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| May 2025 | Prompt Stealing | On the Effectiveness of Prompt Stealing Attacks on In-The-Wild Prompts | IEEE S&P 2025 | [Paper](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2025/2236/00/223600a392.pdf?Expires=1747616217&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjUvMjIzNi8wMC8yMjM2MDBhMzkyLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzYxNjIxN319fV19&Signature=En7ngGwIiJgsk~oZhzfHAQQX7fqNUEKVaO6leGKoSgazvb~YbAqMbuat25vQfRveNtqcvnIZ4ALO1mN4QY4Zcs0Zbq-YqwUJfdvaef9rdjjUW6IbiQYRxHvNtv6ySK13974gvitueVvK~Je9Ne4IV6IvqKx3tc9fvQEbyc6FHAI736asMbO~egrkg~~cH4WCSlMoAfGMQB6GUWnzJlZoIfAj2lCpBykhrTUDWUlQsygXADlc~02tJlsGKhVms3egoUG7~VoOj4WRvyjm3QH1TqTy0ldmeICh~rBtsFzpVWFwr9XvUCYmcCTKlqmZobWwgTDXjSNqH6Tr8WOBlbj0mA__&Key-Pair-Id=K12PMWTCQBDMDT) | prompt stealing, in the wild prompts | | |
 | May 2025 | SoK-Watermarking-LLM | SoK: Watermarking for AI-Generated Content | IEEE S&P 2025 | | watermarking, sok | | |
 | May 2025 | UnMarker | UnMarker: A Universal Attack on Defensive Image Watermarking | IEEE S&P 2025 | | remove watermark | | |
 | May 2025 | Watermarking-LLM | Watermarking Language Models for Many Adaptive Users | IEEE S&P 2025 | | watermark | | |
