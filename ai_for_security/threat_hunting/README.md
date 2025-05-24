@@ -1,4 +1,4 @@
-# Threat Hunting
+# Threat Intelligence
 
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary | 
