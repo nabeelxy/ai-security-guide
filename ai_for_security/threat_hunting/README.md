@@ -1,7 +1,7 @@
 # Threat Hunting
 
 ## Recent Publications
-| Date | Title | Venue | Material | Tags | Short Summary | Summary | 
+| Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- |
 | May 2025 | TECHNIQUERAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text | ACL 2025 | [Paper](https://arxiv.org/pdf/2505.11988) | MITRE ATT&CK, RAG, techniques | | |
 | Aug 2024  | Exploring ChatGPT's Capabilities on Vulnerability Management | Usenix Security | [Paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf) [Slides](https://www.usenix.org/system/files/usenixsecurity24_slides-liu-peiyu.pdf) [Video](https://www.youtube.com/watch?v=ZeIgqpc_rII) | LLM, ChatGPT, vulnerabiility management, code analysis | | |
