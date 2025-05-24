@@ -1,5 +1,6 @@
 # Deepfake and Disinformation Detection
 
+## Recent Publications
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nov 2024 | ZeroFake | ZeroFake: Zero-Shot Detection of Fake Images Generated and Edited by Text-to-Image Generation Models | CCS | [Paper](https://dl.acm.org/doi/10.1145/3658644.3690297) | text-to-image, ddim inversion | | |
