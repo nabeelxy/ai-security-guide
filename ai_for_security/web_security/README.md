@@ -3,7 +3,7 @@
 ## Recent Publications
 | Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| Aug 2025 | DarkGram: A Large-Scale Analysis of Cybercriminal Activity Channels on Telegram | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1225-roy.pdf) | underworld, telegram, bert | | |
+| Aug 2025 | DarkGram | DarkGram: A Large-Scale Analysis of Cybercriminal Activity Channels on Telegram | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1225-roy.pdf) | underworld, telegram, bert | | |
 | Feb 2025 | ScamFerret | ScamFerret: Detecting Scam Websites Autonomously with Large Language Models | DIMVA 2025 | [Paper](https://arxiv.org/pdf/2502.10110) | scam, agent, llm, autonomous | | |
 | 2025 | CryptoScam | The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams | WebConf | [Paper](https://openreview.net/pdf?id=P0x8J5gCPP) | crypo scam, llm, detection, longitudinal study | | |
 | Jan 2025 | ChatGPT-Gen-Code | Discriminating Human-authored from ChatGPT-Generated Code Via Discernable Feature Analysis | arXiv | [Paper](https://arxiv.org/pdf/2306.14397) | chatgpt generated code, human generated code, attribution | | | 
