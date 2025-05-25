@@ -2,7 +2,7 @@
 In this section, we explore how the cyber security community leverage AI for security.
 
 Specifically, we keep a close eye and critically evaluate the following areas:
-* Deepfake and Misinfromation Detection
+* [Deepfake Detection](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/deepfakes/README.md)
 * Foundation Security Models
 * [Web Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/web_security/README.md)
 * [Network Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/dns_security/README.md)
@@ -13,5 +13,6 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * Email Security
 * Binary Analysis
 * [Browser Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/readme.md)
+* Disinformation
 
 We also track the security startups that uses AI to protect, predict and analyze.
