@@ -5,7 +5,7 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * Deepfake and Misinfromation Detection
 * Foundation Security Models
 * [Web Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/web_security/README.md)
-* Network Security
+* [Network Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/dns_security/README.md)
 * IoT Security
 * Social Network Security
 * Enterprise/Cloud Security
