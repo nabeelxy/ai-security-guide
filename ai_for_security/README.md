@@ -12,6 +12,6 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * [Threat Intelligence](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/threat_hunting/README.md)
 * Email Security
 * Binary Analysis
-* Browser Security
+* [Browser Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/readme.md)
 
 We also track the security startups that uses AI to protect, predict and analyze.
