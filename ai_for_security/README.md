@@ -11,7 +11,7 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * Enterprise/Cloud Security
 * [Threat Intelligence](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/threat_hunting/README.md)
 * [Email Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/email_security/README.md)
-* Binary Analysis
+* [Binary Analysis](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/binary_analysis/README.md)
 * [Browser Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/readme.md)
 * [Disinformation](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/disinformation/README.md)
 
