@@ -1,4 +1,4 @@
-# Threat Intelligence
+# Cyber Threat Intelligence
 
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary | 
@@ -13,3 +13,4 @@
 | 2023  | SecureBERT: A Domain-Specific Language Model for Cybersecurity | Communication Networks | [Paper](https://arxiv.org/pdf/2204.02685) | bert, llm, threat hunting, threat reports, cti | | |
 | 2023 | Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild | arXiv | [Paper](https://arxiv.org/pdf/2307.10214) | threat hunting, threat reports, cti, llm | | |
 | 2023 | AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation | arXiv | [Paper](https://arxiv.org/pdf/2310.02655) | threat reports, cti, llm, stix | | |
+| 2017 | TTPDrill: Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources | ACSAC 2017 | [Paper](https://dl.acm.org/doi/10.1145/3134600.3134646) | cti, nlp, ir, threat-action oncology, stix | | |
