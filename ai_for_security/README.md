@@ -3,7 +3,7 @@ In this section, we explore how the cyber security community leverage AI for sec
 
 Specifically, we keep a close eye and critically evaluate the following areas:
 * [Deepfake Detection](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/deepfakes/README.md)
-* Foundation Security Models
+* [Foundation Security Models](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/foundation_models/README.md)
 * [Web Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/web_security/README.md)
 * [Network Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/dns_security/README.md)
 * IoT Security
