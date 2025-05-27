@@ -16,7 +16,7 @@ We cover the following topics.
   * [Red Teaming](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/red_teaming/README.md)
 * AI for security
   * [Web security](https://github.com/nabeelxy/ai-security-guide/tree/main/ai_for_security/web_security)
-  * Browser Security
+  * [Browser Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/readme.md)
   * Network security
   * Foundation security models
   * IoT security
