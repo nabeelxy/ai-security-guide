@@ -26,7 +26,7 @@ We cover the following topics.
   * [Deepfakes](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/deepfakes/README.md)
   * [Disinformation](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/disinformation/README.md)
   * [Email security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/email_security/README.md)
-  * Binary Analysis
+  * [Binary Analysis](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/binary_analysis/README.md)
 * AI for offensive security
 * AI Product Security
   * Security for AI Systems
