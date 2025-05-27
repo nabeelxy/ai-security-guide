@@ -22,8 +22,8 @@ We cover the following topics.
   * [IoT security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/iot_security/README.md)
   * [Threat Intelligence](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/threat_hunting/README.md)
   * [Enterprise/Cloud security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/enterprise_security/README.md)
-  * Social network security
-  * Deepfakes and disinformation
+  * [Social network security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/social_network_security/README.md)
+  * Deepfakes
   * Email security
   * Binary Analysis
 * AI for offensive security
