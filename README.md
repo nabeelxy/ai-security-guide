@@ -21,7 +21,7 @@ We cover the following topics.
   * [Foundation security models](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/foundation_models/README.md)
   * [IoT security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/iot_security/README.md)
   * [Threat Intelligence](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/threat_hunting/README.md)
-  * Enterprise/Cloud security
+  * [Enterprise/Cloud security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/enterprise_security/README.md)
   * Social network security
   * Deepfakes and disinformation
   * Email security
