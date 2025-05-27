@@ -19,7 +19,7 @@ We cover the following topics.
   * [Browser Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/readme.md)
   * [Network security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/dns_security/README.md)
   * [Foundation security models](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/foundation_models/README.md)
-  * IoT security
+  * [IoT security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/iot_security/README.md)
   * Threat hunting
   * Enterprise/Cloud security
   * Social network security
