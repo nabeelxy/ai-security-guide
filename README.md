@@ -30,4 +30,4 @@ We cover the following topics.
 * [AI for offensive security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_offensive_security/readme.md)
 * AI Product Security
   * [Security for AI Systems](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_product_security/security_for_ai_systems/README.md)
-  * Designing AI Security Detectors
+  * [Designing AI Security Detectors](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_product_security/designing_ai_security_detectors/README.md)
