@@ -13,7 +13,7 @@ We cover the following topics.
   * [ML security/privacy](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/ml_security)
   * [Model supply chain security](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/model_supply_chain_security/README.md)
   * [Benchmarks](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/benchmarks/README.md)
-  * Red Teaming
+  * [Red Teaming](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/red_teaming/README.md)
 * AI for security
   * [Web security](https://github.com/nabeelxy/ai-security-guide/tree/main/ai_for_security/web_security)
   * Browser Security
