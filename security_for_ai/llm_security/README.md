@@ -57,6 +57,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Apr 2024 | Universal-PI | Automatic and Universal Prompt Injection Attacks against Large Language Models | arXiv | [paper](https://arxiv.org/pdf/2403.04957) | gradient based method | [Github](https://github.com/SheltonLiu-N/Universal-Prompt-Injection) | |
 | Mar 2024 | PI_LLM_Apps | Prompt Inject Attack Against LLM-Integrated Applications | arXiv | [paper](https://arxiv.org/pdf/2306.05499) | Prompt Injection, LLM-Integrated Apps |  | [Summary](reviews/pi_llm_apps.md)|
 | Mar 2024 | Spotlighting | Defending Against Indirect Prompt Injection Attacks With Spotlighting | Microsoft | [paper](https://arxiv.org/pdf/2403.14720) | indirect prompt injection, prompt engineering | | |
+| Dec 2023 | | Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models | KDD 2025 | [Paper](https://arxiv.org/pdf/2312.14197) [GitHub](https://github.com/microsoft/BIPIA)| indirect prompt injection, attack, defense | | |
 
 ## Blogs
 * [05-01-2025] [Report](https://media.licdn.com/dms/document/media/v2/D561FAQGg9Ds3rhaGPw/feedshare-document-pdf-analyzed/B56ZaSGr9wHgAY-/0/1746207963856) AI agents are here. So are the threats by Palo Alto Networks.
