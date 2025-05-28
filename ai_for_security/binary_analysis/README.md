@@ -2,10 +2,10 @@
 
 ## Recent Publications
 
-| Date | ID | Title | Venue | Materials | Tags | Code | Summary |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Mar 2025 | ML-Based-Mal-Det | ML-Based Behavioral Malware Detection is Far From a Solved Problem | SaTML | [Paper](https://arxiv.org/pdf/2405.06124) | sandbox, features, endpoints | | |
-| 2025 | AML_Malware | Not All Benignware Are Alike: Enhancing Clean-Label Attacks on Malware Classifiers | WebConf | [Paper](https://openreview.net/pdf?id=X8oa3cJEfv) | adversarial ML, malware classifier | | |
-|2023 | AVScan2Vec | AVScan2Vec: Feature Learning on Antivirus Scan Data for Production-Scale Malware Corpora  | ACM | [Paper](https://arxiv.org/pdf/2306.06228) | scan report, embedding, transformer | | |
-| 2023 | GPThreats-3 | GPThreats-3: Is Automatic Malware Generation a Threat? | WOOT | [Paper](https://wootconference.org/papers/woot23-paper8.pdf) | malware generation, GPT3, LLM | | |
-| Jun 2023 | AVScan2Vec | AVScan2Vec: Feature Learning on Antivirus Scan Data for Production-Scale Malware Corpora | arXiv | [Paper](https://arxiv.org/pdf/2306.06228) | malware, signature, embedding, online indexing | | |
+| Date |Title | Venue | Materials | Tags | Code | Summary |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aug 2025 | Fighting Fire with Fire: Continuous Attack for Adversarial Android Malware Detection | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-277-zhang-yinyuan.pdf) | android, malware detectors, adversial ml | | |
+| Mar 2025 | ML-Based Behavioral Malware Detection is Far From a Solved Problem | SaTML | [Paper](https://arxiv.org/pdf/2405.06124) | sandbox, features, endpoints | | |
+| 2025 |  Not All Benignware Are Alike: Enhancing Clean-Label Attacks on Malware Classifiers | WebConf | [Paper](https://openreview.net/pdf?id=X8oa3cJEfv) | adversarial ML, malware classifier | | |
+| 2023 | GPThreats-3: Is Automatic Malware Generation a Threat? | WOOT | [Paper](https://wootconference.org/papers/woot23-paper8.pdf) | malware generation, GPT3, LLM | | |
+| Jun 2023 | AVScan2Vec: Feature Learning on Antivirus Scan Data for Production-Scale Malware Corpora | arXiv | [Paper](https://arxiv.org/pdf/2306.06228) | malware, signature, embedding, online indexing | | |
