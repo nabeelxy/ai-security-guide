@@ -27,6 +27,7 @@ We cover the following topics.
   * [Disinformation](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/disinformation/README.md)
   * [Email security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/email_security/README.md)
   * [Binary Analysis](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/binary_analysis/README.md)
+  * [Miscellaneous](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/misc/readme.md)
 * [AI for offensive security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_offensive_security/readme.md)
 * AI Product Security
   * [Security for AI Systems](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_product_security/security_for_ai_systems/README.md)
