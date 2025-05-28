@@ -17,7 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Aug 2025 | JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-341-zhang-shenyi.pdf) | toxic context, jailbreak concept | | |
+| Aug 2025 | | JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-341-zhang-shenyi.pdf) | toxic context, jailbreak concept | | |
 | Aug 2025 | | Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1176-wang-yining.pdf) [GitHub](https://huggingface.co/RachelHGF/Mirage-in-the-Eyes) | hallucination attack, mllm, attention sink | | |
 | May 2025 | Fuzzing Jailbreak | Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models | IEEE S&P 2025 | | fuzzing agent, black-box | | |
 | May 2025 | Modified Unlocked | Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts | IEEE S&P 2025 | | jailbreak, NSFW content | | |
