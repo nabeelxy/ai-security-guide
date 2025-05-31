@@ -3,6 +3,7 @@
 ## Recent Publications
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Aug 2025 | SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-402-zhang-zhisheng.pdf) | voice protection, surrogate model, trasfer learning | | |
 | Aug 2025 | AudioMarkNet: Audio Watermarking for Deepfake Speech Detection | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-386-zong.pdf) | speaker adaptation prevevention, watermark, original speech | | |
 | Nov 2024 | ZeroFake: Zero-Shot Detection of Fake Images Generated and Edited by Text-to-Image Generation Models | CCS | [Paper](https://dl.acm.org/doi/10.1145/3658644.3690297) | text-to-image, ddim inversion | | |
 | Nov 2024 | ProFake: Detecting Deepfakes in the Wild against Quality Degradation with Progressive Quality-adaptive Learning | CCS | [Paper](https://dl.acm.org/doi/10.1145/3658644.3690238) | robustness, deepfake | | |
