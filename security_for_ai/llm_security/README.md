@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aug 2025 | | SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-541-wang-xunguang.pdf) | shadow stacks, jailbreak defense | | |
 | Aug 2025 | | LLMmap: Fingerprinting for Large Language Models | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-469-pasquini.pdf) | LLM version identification, RAG, CoT, mitigation | | |
 | Aug 2025 | | Evaluating LLM-based Personal Information Extraction and Countermeasures | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-464-liu-yupei_0.pdf) | privacy, personal information, prompt injection | | |
 | Aug 2025 | | JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-341-zhang-shenyi.pdf) | toxic context, jailbreak concept | | |
