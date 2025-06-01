@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aug 2025 | | Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters in DALL·E Text-to-Image Pipelines | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-746-villa.pdf) | safety guardralild, text-to-image, dall-e, clip | | |
 | Aug 2025 | | Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-606-wu-yixin-auditing.pdf) | synthetic data auditing | | |
 | Aug 2025 | | On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-590-wu-yixin-generation.pdf) | poisoning attack | | |
 | Aug 2025 | | SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-541-wang-xunguang.pdf) | shadow stacks, jailbreak defense | | |
