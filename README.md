@@ -32,3 +32,16 @@ We cover the following topics.
 * AI Product Security
   * [Security for AI Systems](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_product_security/security_for_ai_systems/README.md)
   * [Designing AI Security Detectors](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_product_security/designing_ai_security_detectors/README.md)
+ 
+## Citation
+
+Please be kind enough to cite the following if you are using this repo:
+```
+@misc{sai_ais,
+  title={AI Security Guide: Security for AI and AI for Security},
+  author={Nabeel, Mohamed},
+  howpublished={\url{https://github.com/nabeelxy/ai-security-guide}},
+  year={2025}
+}
+```
+
