@@ -29,6 +29,7 @@ We cover the following topics.
   * [Binary Analysis](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/binary_analysis/README.md)
   * [Miscellaneous](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/misc/readme.md)
 * [AI for offensive security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_offensive_security/readme.md)
+* [AI powered attacks in the wild](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_powered_attacks/README.md)
 * AI Product Security
   * [Security for AI Systems](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_product_security/security_for_ai_systems/README.md)
   * [Designing AI Security Detectors](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_product_security/designing_ai_security_detectors/README.md)
