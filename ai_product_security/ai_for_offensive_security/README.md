@@ -1,10 +1,10 @@
 # AI for Offensive Security
 Offensive security go through the following phases:
-1. Reconnaissance - information related to the target is collected through publicly available data sources and passive reconnaissance techniques (e.g. collecting information of employees to launch a BEC attack)
-2. Scanning
-3. Vulnerability analysis
-4. Exploitation
-5. Reporting
+1. Reconnaissance - information related to the target is collected through publicly available data sources and passive reconnaissance techniques (e.g. collecting information of employees to launch a BEC attack). AI can be used to automate the collection of OSINT, summerize fundings and plan adaptive reconnaissance techniques. 
+2. Scanning - this phase probes systems to map targets, networks and vulnerabilities. AI can analyze network patterns and identify vulnerabilies and map them to network resources.
+3. Vulnerability analysis - based on the output from the scanning, this phase focuses on prioritizing security risks based on their impact and severity, which AI can help.
+4. Exploitation - identified security weaknesses are tested by launching simulated attacks under controlled conditions. AI can help generate simulated attacks.
+5. Reporting - offensive security findings are summerized where LLMs can play a big role.
 
 ## Recent Articles
 | Date | Title | Author | Link | Tags | Summary |
