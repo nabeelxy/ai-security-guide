@@ -1,4 +1,10 @@
 # AI for Offensive Security
+Offensive security go through the following phases:
+1. Reconnaissance - information related to the target is collected through publicly available data sources and passive reconnaissance techniques (e.g. collecting information of employees to launch a BEC attack)
+2. Scanning
+3. Vulnerability analysis
+4. Exploitation
+5. Reporting
 
 ## Recent Articles
 | Date | Title | Author | Link | Tags | Summary |
