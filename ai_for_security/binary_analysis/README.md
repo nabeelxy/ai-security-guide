@@ -4,6 +4,7 @@
 
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Jun 2025 | CyberGym: Evaluating AI Agents’ Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | UC Berkeley | [Paper](https://arxiv.org/pdf/2506.02548) | software vulnerabities, zero days | [GitHub](https://github.com/sunblaze-ucb/cybergym) | |
 | Aug 2025 | APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1174-nong.pdf) | LLM, vulnerability patching, prompting | | |
 | Aug 2025 | Fighting Fire with Fire: Continuous Attack for Adversarial Android Malware Detection | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-277-zhang-yinyuan.pdf) | android, malware detectors, adversial ml | | |
 | Jun 2025 | EMBER2024 - A Benchmark Dataset for Holistic Evaluation of Malware Classifiers | KDD 2025 | [Paper](https://arxiv.org/pdf/2506.05074) | malware dataset, six file formats, seven classes | [GitHub](https://github.com/FutureComputing4AI/EMBER2024)| |
