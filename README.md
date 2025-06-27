@@ -14,6 +14,7 @@ We cover the following topics.
   * [Model supply chain security](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/model_supply_chain_security/README.md)
   * [Benchmarks](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/benchmarks/README.md)
   * [Red Teaming](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/red_teaming/README.md)
+  * [Vibe Coding](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/vibe_coding)
 * AI for security
   * [Web security](https://github.com/nabeelxy/ai-security-guide/tree/main/ai_for_security/web_security)
   * [Browser Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/readme.md)
