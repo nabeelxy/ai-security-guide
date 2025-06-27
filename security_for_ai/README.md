@@ -12,5 +12,6 @@ Specifically, we keep a close eye on the following areas:
 * [Benchmarks](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/benchmarks)
 * [Red Teaming](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/red_teaming)
 * [MCP Security](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/mcp_security)
+* [Vibe Coding](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/vibe_coding)
 
 We also track the [security startups](https://github.com/nabeelxy/ai-security-guide/tree/main/security_for_ai/startups) that defend AI.
