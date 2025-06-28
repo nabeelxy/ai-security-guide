@@ -3,7 +3,7 @@
 ## Recent Publications
 | Date | ID | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| Aug 2025 | | Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-483-ji.pdf) | robust visual similarity analysis, evasion attacks, phishing | | |
+| Aug 2025 | | Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-483-ji.pdf) [NotebookLM](https://notebooklm.google.com/notebook/9537e43e-6882-437f-af16-02a91db66ca3?authuser=4) | robust visual similarity analysis, evasion attacks, phishing | | |
 | Aug 2025 | DarkGram | DarkGram: A Large-Scale Analysis of Cybercriminal Activity Channels on Telegram | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1225-roy.pdf) | underworld, telegram, bert | | |
 | Jun 2025 | | Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability | arXiv | [Paper](https://arxiv.org/pdf/2506.13746) | bert, llama, wizad, dpo, cl, shap, phishing emails | [GitHub](https://github.com/PsyberSecLab/Fine-Tuning-and-Explainability-for-Phishing-Detection) | |
 | Feb 2025 | ScamFerret | ScamFerret: Detecting Scam Websites Autonomously with Large Language Models | DIMVA 2025 | [Paper](https://arxiv.org/pdf/2502.10110) | scam, agent, llm, autonomous | | |
