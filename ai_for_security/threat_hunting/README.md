@@ -3,7 +3,7 @@
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- |
-| May 2025 | TECHNIQUERAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text | ACL 2025 | [Paper](https://arxiv.org/pdf/2505.11988) [NotebookLM](https://notebooklm.google.com/notebook/9a8f9011-ac25-48d2-9013-d1f111578eb6)| MITRE ATT&CK, RAG, techniques | | |
+| May 2025 | TECHNIQUERAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text | ACL 2025 | [Paper](https://arxiv.org/pdf/2505.11988) [NotebookLM](https://notebooklm.google.com/notebook/9a8f9011-ac25-48d2-9013-d1f111578eb6) [Podcast](https://notebooklm.google.com/notebook/9a8f9011-ac25-48d2-9013-d1f111578eb6/audio)| MITRE ATT&CK, RAG, techniques | | |
 | Oct 2025 | AI-Driven Cyber Threat Intelligence Automation | arXiv | [Paper](https://arxiv.org/pdf/2410.20287v1) | cti, gpt | | |
 | Dec 2024 | IntelEX: A LLM-driven Attack-level Threat Intelligence Extraction Framework | arXiv | [Paper](https://arxiv.org/pdf/2412.10872) | mitre, in-context learning, llm-as-a-judge, ttp | | |
 | Aug 2024  | Exploring ChatGPT's Capabilities on Vulnerability Management | Usenix Security | [Paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf) [Slides](https://www.usenix.org/system/files/usenixsecurity24_slides-liu-peiyu.pdf) [Video](https://www.youtube.com/watch?v=ZeIgqpc_rII) | LLM, ChatGPT, vulnerabiility management, code analysis | | |
