@@ -4,7 +4,7 @@
 
 | Date |Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jun 2025 | CyberGym: Evaluating AI Agents’ Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | UC Berkeley | [Paper](https://arxiv.org/pdf/2506.02548) | software vulnerabities, zero days | [GitHub](https://github.com/sunblaze-ucb/cybergym) | |
+| Jun 2025 | CyberGym: Evaluating AI Agents’ Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | UC Berkeley | [Paper](https://arxiv.org/pdf/2506.02548) [NotebookLM](https://notebooklm.google.com/notebook/3209f85a-d687-45bf-98c3-e3d8f6b70ae0)| software vulnerabities, zero days | [GitHub](https://github.com/sunblaze-ucb/cybergym) | |
 | May 2025 | BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems | Stanford, UC Berkeley | [Paper](https://arxiv.org/pdf/2505.15216) | Bug bounty, vulnerabiility hunting, benchmark, dollar value | [GitHub](https://bountybench.github.io) | |
 | Aug 2025 | APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1174-nong.pdf) | LLM, vulnerability patching, prompting | | |
 | Aug 2025 | Fighting Fire with Fire: Continuous Attack for Adversarial Android Malware Detection | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-277-zhang-yinyuan.pdf) | android, malware detectors, adversial ml | | |
