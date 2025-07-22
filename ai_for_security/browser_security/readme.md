@@ -3,7 +3,7 @@
 ## Recent Publications
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jul 2025 | Assure: Metamorphic Testing for AI-powered Browser Extensions | arXiv | [Paper](https://arxiv.org/pdf/2507.05307){:target="_blank"} [NotebookLM](https://notebooklm.google.com/notebook/8624b085-086e-4896-98c6-5825e99ab2a8?authuser=2)| llm-powered extensions, testing | | |
+| Jul 2025 | Assure: Metamorphic Testing for AI-powered Browser Extensions | arXiv | <a href="https://arxiv.org/pdf/2507.05307" target="_blank">Paper</a> [NotebookLM](https://notebooklm.google.com/notebook/8624b085-086e-4896-98c6-5825e99ab2a8?authuser=2)| llm-powered extensions, testing | | |
 | Jun 2025 | Mind the Web: The Security of Web Use Agents | arXiv | [Paper](https://arxiv.org/pdf/2506.07153) [NotebookLM](https://notebooklm.google.com/notebook/02253462-7106-40cf-a29e-bd8ee8aa9682?authuser=2)| web-use agents, attacks, defenses | | |
 | Aug 2024 | Did I Vet You Before? Assessing the Chrome Web Store Vetting Process through Browser Extension Similarity | arXiv | [Paper](https://arxiv.org/pdf/2406.00374) [NotebookLM](https://notebooklm.google.com/notebook/d2e279e2-b78e-406c-97d6-1c4dbe058a62?authuser=1) [Podcast](https://notebooklm.google.com/notebook/d2e279e2-b78e-406c-97d6-1c4dbe058a62/audio)| nlp, embedding, dynamic analysis, chrome, extensions | | |
 | Jun 2024 | What is in the Chrome Web Store? Investigating Security-Noteworthy Browser Extensions | AsiaCCS 2024 | [Paper](https://arxiv.org/pdf/2406.12710) [NotebookLM](https://notebooklm.google.com/notebook/b2824037-4caf-4bda-9688-a59cc46b2acf?authuser=2)| chrome web store, longitudinal study | | |
