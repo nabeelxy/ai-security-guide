@@ -14,6 +14,7 @@ Specifically, we keep a close eye and critically evaluate the following areas:
 * [Binary Analysis](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/binary_analysis/README.md)
 * [Browser Security](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/readme.md)
 * [Disinformation](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/disinformation/README.md)
+* [Supply Chain](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/supply_chain/README.md)
 * [Miscellaneous](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/misc/readme.md)
 
 We also track the security startups that uses AI to protect, predict and analyze.
