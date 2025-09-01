@@ -17,4 +17,5 @@ addressing them with responsible and accurate responses.
 
 
 ## Blogs
+* 2024-10-08 - AI Security: Model Serialization Attacks [Link](https://themlsecopshacker.com/p/ai-security-model-serialization-attacks)
 * 2022-12-06 - Weaponizing ML Models with Ransomware [Link](https://hiddenlayer.com/innovation-hub/weaponizing-machine-learning-models-with-ransomware/) #steganograpy #pickle
