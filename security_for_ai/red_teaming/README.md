@@ -20,6 +20,7 @@ addressing them with responsible and accurate responses.
 ## Blogs
 * 2025-06-19 - Hunting Vulnerabilities in Keras Model Deserialization [Link](https://blog.huntr.com/hunting-vulnerabilities-in-keras-model-deserialization) #keras #lambda #vulnerability
 * 2025-04-04 - Securing Machine Learning Models: A Comprehensive Guide to Model Scanning by Repello [Link](https://repello.ai/blog/securing-machine-learning-models-a-comprehensive-guide-to-model-scanning) #introduction #survey
+* 2025-03-27 - https://cacm.acm.org/research/malicious-ai-models-undermine-software-supply-chain-security/ [Link](https://cacm.acm.org/research/malicious-ai-models-undermine-software-supply-chain-security/) #ACM-Communications #comprehensive #integration
 * 2025-02-06 - Malicious ML models discovered on Hugging Face platform [Link](https://www.reversinglabs.com/blog/rl-identifies-malware-ml-model-hosted-on-hugging-face) #pickle #malware #serialization
 * 2024-06-11 - Exploiting ML models with pickle file attacks: Part 1 by Trail of Bits [Link](https://blog.trailofbits.com/2024/06/11/exploiting-ml-models-with-pickle-file-attacks-part-1/) #pickle
 * 2024-10-08 - AI Security: Model Serialization Attacks [Link](https://themlsecopshacker.com/p/ai-security-model-serialization-attacks) #serialization
