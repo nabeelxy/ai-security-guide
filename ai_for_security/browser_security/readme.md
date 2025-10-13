@@ -19,3 +19,7 @@
 | 2020 | You’ve Changed: Detecting Malicious Browser Extensions through their Update Deltas | CCS 2020 | [Paper](https://www.kapravelos.com/publications/extensiondeltas-CCS20.pdf) [NotebookLM](https://notebooklm.google.com/notebook/ddd2a0e4-f603-44ec-a257-b06ae1a919e9) [Podcast](https://notebooklm.google.com/notebook/ddd2a0e4-f603-44ec-a257-b06ae1a919e9/audio)| clustering, malicious delta, chrome extension | | |
 | 2014 | Hulk: Eliciting Malicious Behavior in Browser Extensions | Usenix Security 2014 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-kapravelos.pdf) [NotebookLM](https://notebooklm.google.com/notebook/694bd776-afeb-4940-8222-8c655d9441ee?authuser=3)| dynamic analysis, honeypages | | |
 | Jun 2014 | Effective Detection of Vulnerable and Malicious Browser Extensions | Computers & Security Journal | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404814000984) [NotebookLM](https://notebooklm.google.com/notebook/bd43a06f-7d30-43ad-a639-430bd2fb5bf8?authuser=3) | vulnerable extensions, HMM | | |
+
+
+## Other Notable Papers
+* Bahrami et. al., CookieGuard: Characterizing and Isolating the First-Party Cookie Jar, IMC 2025 [Paper](https://arxiv.org/pdf/2406.05310)  #first-party-cookies #third-party-cookies #measurement #detection
