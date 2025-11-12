@@ -3,7 +3,6 @@
 ## Recent Publications
 | Date | ID | Title | Venue | Materials | Tags | Short Summary | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
 | May 2025 | TrafficFormer | TrafficFormer: An Efficient Pre-trained Model for Traffic Data | IEEE S&P 2025 | [Paper](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf) | transformer, network data | | |
 | Feb 2025 | DNS-Phishing | Exposing the Roots of DNS Abuse: A Data-Driven Analysis of Key Factors Behind Phishing Domain Registrations | CCS 2025 | [Paper](https://arxiv.org/pdf/2502.09549v1) | Phishing, logitudinal study | | |
 | Feb 2025 | EarlyCrow | Detecting APT Malware Command and Control over HTTP(S) Using Contextual Summaries | arXiv | [Paper](https://arxiv.org/pdf/2502.05367) [NotebookLM](https://notebooklm.google.com/notebook/cb4f5bb1-c493-43ac-80b1-a9cae04c3739) [Podcast](https://notebooklm.google.com/notebook/cb4f5bb1-c493-43ac-80b1-a9cae04c3739/audio)| APT, PCAP | | |
