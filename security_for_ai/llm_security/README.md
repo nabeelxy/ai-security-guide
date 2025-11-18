@@ -73,6 +73,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 ## Blogs
 * [11-17-2025] [Blog](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf) Disrupting the first reported AI-orchestrated cyber espionage campaign by Anthropic. #agents #llm-misuse #campaign
+* [11-03-2025](https://www.anthropic.com/research/building-ai-cyber-defenders) Building AI for cyber defenders by Anthropic. #vulnerability-discovery #cyber-reasoning
 * [08-15-2025] [Report](https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf) Threat Intelligence Report: August 2025 by Anthropic. #vibe-hacking #llm-misuse #cybercrime
 * [05-01-2025] [Report](https://media.licdn.com/dms/document/media/v2/D561FAQGg9Ds3rhaGPw/feedshare-document-pdf-analyzed/B56ZaSGr9wHgAY-/0/1746207963856) AI agents are here. So are the threats by Palo Alto Networks.
 * [04-26-2025] [Blog](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/) Novel Universal Bypass for all Major LLMs by Hidden Layer.
