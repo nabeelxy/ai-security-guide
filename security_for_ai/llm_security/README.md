@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nov 2025 | | Chain-of-Thought Hijacking | arXiv, Stanford | [Paper](https://arxiv.org/pdf/2510.26418)  | HarmBench, CoT, jailbreak| | |
 | Oct 2025 | | THE ATTACKER MOVES SECOND: STRONGER ADAPTIVE ATTACKS BYPASS DEFENSES AGAINST LLM JAILBREAKS AND PROMPT INJECTIONS | arXiv, OpenAI, Anthropic, Google | [Paper](https://arxiv.org/pdf/2510.09023) | robustenss, adaptive-attacks | | |
 | Oct 2025 | | POISONING ATTACKS ON LLMS REQUIRE A NEAR-CONSTANT NUMBER OF POISON SAMPLES| arXiv, Anthropic | [Paper](https://arxiv.org/pdf/2510.07192) [NotebookLM](https://notebooklm.google.com/notebook/cb4ac8d3-6cd1-454a-b13f-d1f3949ce36e?authuser=1)| poisoning, fixed-poisoned-dataset, gibberish-text | | |
 | Aug 2025 | | When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-882-kim-hanna.pdf) [NotebookLM](https://notebooklm.google.com/notebook/3277231e-6c65-460d-a0c7-d429b54a7da1?authuser=3&pli=1) [Podcast](https://notebooklm.google.com/notebook/3277231e-6c65-460d-a0c7-d429b54a7da1/audio) | Agent abuse, misuse | | |
