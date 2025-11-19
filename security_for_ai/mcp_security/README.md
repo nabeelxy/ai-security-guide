@@ -8,4 +8,5 @@
 | Apr 2025 | MCP GUARDIAN: A SECURITY-FIRST LAYER FOR SAFEGUARDING MCP-BASED AI SYSTEM |arXiv | [Paper](https://arxiv.org/pdf/2504.12757) | firewall | | |
 
 ## Open Source Tools
+* MCP Scanner by Cisco - [Github](https://github.com/cisco-ai-defense/mcp-scanner)
 * MCP-Scan by Invariant AI - [GitHub](https://github.com/invariantlabs-ai/mcp-scan)
