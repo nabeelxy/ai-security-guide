@@ -58,6 +58,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Feb 2025 | JBShield | JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation | arXiv | [Paper](https://arxiv.org/abs/2502.07557) | safety alignment, LRH | | |
 | Feb 2025 | Firewall_LLM_Agent | Firewalls to Secure Dynamic LLM Agentic Networks | arXiv | [Paper](https://arxiv.org/pdf/2502.01822) | firewall, agents, llm |  | [Summary](reviews/firewall_llm_agent.md)|
 | Jan 2025 | Defense_Jailbreak | Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming | arXiv | [Paper](https://arxiv.org/pdf/2501.18837), [Relase Note](https://www.anthropic.com/research/constitutional-classifiers) | aml, robust, universal jailbreak | | |
+| Jan 2025 | | OpenAI’s Approach to External Red Teaming for AI Models and Systems | arXiv, OpenAI | [Paper](https://arxiv.org/pdf/2503.16431?) | External Red Teaming | | |
 | Dec 2024 | Granite-Guardian | Granite Guardian | arXiv, IBM | [Paper](https://arxiv.org/pdf/2412.07724) | risk detection, bias, jailbreaking, hallucination | [Github](https://github.com/ibm-granite/granite-guardian) | |
 | Dec 2024 | BoN | Best-of-N Jailbreaking | arXiv | [paper](https://arxiv.org/abs/2412.03556) | Jailbreaking, Prompt Injection |  | [Summary](reviews/bon.md) |
 | Nov 2024 | AutoDefense | AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks | arXiv | [Paper](https://arxiv.org/pdf/2403.04783) | defense, prompt injection, agents | | |
