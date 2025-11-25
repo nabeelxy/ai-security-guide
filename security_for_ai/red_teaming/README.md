@@ -18,6 +18,7 @@ addressing them with responsible and accurate responses.
 
 
 ## Blogs
+* 2025-10-28 - Offsec Evals: Growing Up In The Dark Forest by Shane Caldwell. [Link](https://hackbot.dad/writing/offsec-evals-dark-forest/) #eval #offensive-ai-con
 * 2025-06-19 - Hunting Vulnerabilities in Keras Model Deserialization [Link](https://blog.huntr.com/hunting-vulnerabilities-in-keras-model-deserialization) #keras #lambda #vulnerability
 * 2025-04-04 - Securing Machine Learning Models: A Comprehensive Guide to Model Scanning by Repello [Link](https://repello.ai/blog/securing-machine-learning-models-a-comprehensive-guide-to-model-scanning) #introduction #survey
 * 2025-03-27 -  Malicious AI Models Undermine Software Supply-Chain Security [Link](https://cacm.acm.org/research/malicious-ai-models-undermine-software-supply-chain-security/) #ACM-Communications #comprehensive #integration
