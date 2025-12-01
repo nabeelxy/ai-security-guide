@@ -82,6 +82,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * [04-26-2025] [Blog](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/) Novel Universal Bypass for all Major LLMs by Hidden Layer.
 
 ## Open Source LLM Security Tools and Products
+* Cybersecurity AI - AI powered offensive and defensive automation [Github](https://github.com/aliasrobotics/cai)
 * LlamaFirewall by Meta [Github](https://meta-llama.github.io/PurpleLlama/LlamaFirewall/)
 * Invariant guardrails for agentic systems [Github](https://github.com/invariantlabs-ai/invariant)
 * Granite Guardian by IBM [Github](https://github.com/ibm-granite/granite-guardian)
