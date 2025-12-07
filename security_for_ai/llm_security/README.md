@@ -17,6 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nov 2025 | BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents | Purdue, Perplexity | [Paper](https://arxiv.org/pdf/2511.20597) | indirection prompt injection, web, agents, benchmark | [Model](https://huggingface.co/perplexity-ai/browsesafe) | |
 | Nov 2025 | | Chain-of-Thought Hijacking | arXiv, Stanford | [Paper](https://arxiv.org/pdf/2510.26418)  | HarmBench, CoT, jailbreak| | |
 | Oct 2025 | | THE ATTACKER MOVES SECOND: STRONGER ADAPTIVE ATTACKS BYPASS DEFENSES AGAINST LLM JAILBREAKS AND PROMPT INJECTIONS | arXiv, OpenAI, Anthropic, Google | [Paper](https://arxiv.org/pdf/2510.09023) | robustenss, adaptive-attacks | | |
 | Oct 2025 | | POISONING ATTACKS ON LLMS REQUIRE A NEAR-CONSTANT NUMBER OF POISON SAMPLES| arXiv, Anthropic | [Paper](https://arxiv.org/pdf/2510.07192) [NotebookLM](https://notebooklm.google.com/notebook/cb4ac8d3-6cd1-454a-b13f-d1f3949ce36e?authuser=1)| poisoning, fixed-poisoned-dataset, gibberish-text | | |
