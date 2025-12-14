@@ -4,6 +4,7 @@ This section covers adversarial attacks and defenses on machine learning models.
 ## Recent Publications
 | Date |  Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
+| Dec 2025 | Fooling Machine's Eyes: Unicode Modifier Letter Evasion Attack | ACSAC 2025 | | unicode, homoplyphs, non-rendering characters | | |
 | Aug 2025 | SoK: On Gradient Leakage in Federated Learning | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-495-du.pdf) | gradient inversion attacks, federated learning | | |
 | Aug 2025 | Revisiting Training-Inference Trigger Intensity in Backdoor Attacks | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-389-lin-chenhao.pdf) | training inference trigger, backdoor attacks | | |
 | Feb 2025 |  Adversarial ML Problems Are Getting Harder to Solve and to Evaluate | arXiv | [Paper](https://arxiv.org/pdf/2502.02260) | llm, adversarial ml progress, position paper | | |
