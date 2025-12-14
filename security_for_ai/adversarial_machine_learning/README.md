@@ -4,6 +4,7 @@ This section covers adversarial attacks and defenses on machine learning models.
 ## Recent Publications
 | Date |  Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
+| Dec 2025 | AdvOSD: Adversarial One-Step Diffusion for Generalizable and Efficient Fake Image Detection | ACSAC 2025 | | diffusion models, one-step, distillation | | |
 | Dec 2025 | Fooling Machine's Eyes: Unicode Modifier Letter Evasion Attack | ACSAC 2025 | | unicode, homoplyphs, non-rendering characters | | |
 | Aug 2025 | SoK: On Gradient Leakage in Federated Learning | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-495-du.pdf) | gradient inversion attacks, federated learning | | |
 | Aug 2025 | Revisiting Training-Inference Trigger Intensity in Backdoor Attacks | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-389-lin-chenhao.pdf) | training inference trigger, backdoor attacks | | |
