@@ -36,3 +36,6 @@ This paper carries out a **comprehensive real-world security analysis of malicio
 *   **VirusTotal:**
     *   This commercial service is a well-known security tool used to analyze files, domains, IPs, and URLs for malware. Prior work in 2017 suggested it performed poorly on malicious extensions.
     *   *Improvement:* The paper performed a **recent, large-scale assessment** on 7,140 known malicious extensions and confirmed that VirusTotal still works poorly today, detecting only 293 (or 173 by strict criteria) extensions and showing a false-negative rate over 97%. This result confirms that existing commercial methods give a false sense of security.
+ 
+### Notes
+* This summary is generated with the assistance of GenAI but it is manually varified and updated.
