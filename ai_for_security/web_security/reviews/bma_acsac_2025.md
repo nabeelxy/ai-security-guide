@@ -3,7 +3,7 @@
 ---
 
 ### What is this paper about?
-This paper addresses the research gap concerning the lack of a comprehensive, generic defense framework against **Web-based Behavior Manipulation Attacks (BMAs)**, such as scareware and tech support scams,. While Information Harvesting Attacks (IHAs), like phishing, have received significant attention, BMAs exploit human decision-making vulnerabilities and remain a formidable financial threat,,. The work introduces **Pixel Patrol 3D (PP3D)**, the first end-to-end browser framework designed to discover, detect, and defend against these social engineering attacks in real time by analyzing webpage content visually,,.
+This paper addresses the research gap concerning the lack of a comprehensive, generic defense framework against **Web-based Behavior Manipulation Attacks (BMAs)**, such as scareware and tech support scams,. While Information Harvesting Attacks (IHAs), like phishing, have received significant attention, BMAs exploit human decision-making vulnerabilities and remain a formidable financial threat. The work introduces **Pixel Patrol 3D (PP3D)**, the first end-to-end browser framework designed to discover, detect, and defend against these social engineering attacks in real time by analyzing webpage content visually.
 
 ---
 
@@ -27,18 +27,18 @@ This paper addresses the research gap concerning the lack of a comprehensive, ge
 
 *   **Continuous Need for Retraining:** The detection model may fail when encountering pages whose visual or textual features **differ sharply from any examples seen during training**. This necessitates continuous crawling and periodic retraining to incorporate emerging BMA styles and address blind spots.
 *   **Limited Scope of User Interaction:** The current defense framework focuses primarily on detecting **click/tap-based BMAs**. Other potential manipulation tactics, such as keyboard-based traps, hover-triggered actions, and gesture-based manipulations, are currently outside the scope of the system.
-*   **Research Prototype Implementation Overhead:** The browser extension is implemented as a **research prototype**, which results in measurable CPU and RAM overhead, especially on resource-constrained mobile/tablet devices, due to transient WASM heap allocations,. A native, in-browser integration would be required in future work to significantly improve performance and resource efficiency by leveraging features like WebGPU,.
+*   **Research Prototype Implementation Overhead:** The browser extension is implemented as a **research prototype**, which results in measurable CPU and RAM overhead, especially on resource-constrained mobile/tablet devices, due to transient WASM heap allocations. A native, in-browser integration would be required in future work to significantly improve performance and resource efficiency by leveraging features like WebGPU.
 
 ---
 
 ### What are the key previous works that are evaluated in this paper and compared? How does this paper improve on this prior work?
 
 *   **Previous Works Focused on Measurement (e.g., Vadrevu et al., Subramani et al.):**
-    *   **Improvement:** Prior work was largely limited to **discovering and measuring** BMA campaigns or focused only on specific subclasses of attacks, offering little in the way of concrete, generic defenses,,. PP3D provides a **comprehensive defense framework** that actively detects and blocks a broad range of web-based BMAs in real time,.
+    *   **Improvement:** Prior work was largely limited to **discovering and measuring** BMA campaigns or focused only on specific subclasses of attacks, offering little in the way of concrete, generic defenses. PP3D provides a **comprehensive defense framework** that actively detects and blocks a broad range of web-based BMAs in real time.
 *   **TRIDENT (Yang et al.):**
-    *   **Improvement:** TRIDENT focuses narrowly on detecting **malicious JavaScript code served by low-reputation ad networks** (social engineering ads), indirectly detecting BMA webpages if a redirection occurs. PP3D offers a **more generic, content-based defense** that directly analyzes the rendered webpage's visual and textual content, detecting BMA pages regardless of how they were distributed,. TRIDENT is susceptible to false positives (blocking legitimate pages due to low-tier ads) and false negatives (missing attacks not reached via monitored ads).
+    *   **Improvement:** TRIDENT focuses narrowly on detecting **malicious JavaScript code served by low-reputation ad networks** (social engineering ads), indirectly detecting BMA webpages if a redirection occurs. PP3D offers a **more generic, content-based defense** that directly analyzes the rendered webpage's visual and textual content, detecting BMA pages regardless of how they were distributed. TRIDENT is susceptible to false positives (blocking legitimate pages due to low-tier ads) and false negatives (missing attacks not reached via monitored ads).
 *   **Phishing/Information Harvesting Attack (IHA) Detectors (e.g., visual similarity models,):**
-    *   **Improvement:** IHA detectors focus on extracting sensitive information, often by mimicking specific brands or looking for credential input forms,. BMAs, which PP3D targets, rely instead on inventing a believable scenario to **manipulate user actions** (e.g., downloading malware or making a call),. PP3D detects these visually deceptive BMAs, whereas traditional phishing detectors are unsuitable for this task,.
+    *   **Improvement:** IHA detectors focus on extracting sensitive information, often by mimicking specific brands or looking for credential input forms. BMAs, which PP3D targets, rely instead on inventing a believable scenario to **manipulate user actions** (e.g., downloading malware or making a call),. PP3D detects these visually deceptive BMAs, whereas traditional phishing detectors are unsuitable for this task.
 
 ---
 
