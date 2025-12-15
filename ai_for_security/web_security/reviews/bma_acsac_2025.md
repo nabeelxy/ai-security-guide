@@ -43,4 +43,4 @@ This paper addresses the research gap concerning the lack of a comprehensive, ge
 ---
 
 ### Notes
-* This summary is generated with the assistance of GenAI but it is manually varified and updated.
+* This summary is generated with the assistance of GenAI and manually varified and updated.
