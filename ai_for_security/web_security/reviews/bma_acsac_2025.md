@@ -39,3 +39,8 @@ This paper addresses the research gap concerning the lack of a comprehensive, ge
     *   **Improvement:** TRIDENT focuses narrowly on detecting **malicious JavaScript code served by low-reputation ad networks** (social engineering ads), indirectly detecting BMA webpages if a redirection occurs. PP3D offers a **more generic, content-based defense** that directly analyzes the rendered webpage's visual and textual content, detecting BMA pages regardless of how they were distributed,. TRIDENT is susceptible to false positives (blocking legitimate pages due to low-tier ads) and false negatives (missing attacks not reached via monitored ads).
 *   **Phishing/Information Harvesting Attack (IHA) Detectors (e.g., visual similarity models,):**
     *   **Improvement:** IHA detectors focus on extracting sensitive information, often by mimicking specific brands or looking for credential input forms,. BMAs, which PP3D targets, rely instead on inventing a believable scenario to **manipulate user actions** (e.g., downloading malware or making a call),. PP3D detects these visually deceptive BMAs, whereas traditional phishing detectors are unsuitable for this task,.
+
+---
+
+### Notes
+* This summary is generated with the assistance of GenAI but it is manually varified and updated.
