@@ -5,6 +5,7 @@ We explore LLM Security attacks under the following categories:
   * Backdoor attack - [More info](backdoor.md)
   * Poisoning attack - [More info](poisoning.md)
 * Prompt injection - [More info](prompt_injection.md) [Publications](prompt_injection_pub.md)
+* Jailbreak - [More info](jailbreak.md)
  
 We explore LLM privacy attacks under the following categories:
 * PII leakage
