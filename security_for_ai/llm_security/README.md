@@ -76,6 +76,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * [08-15-2025] [Report](https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf) Threat Intelligence Report: August 2025 by Anthropic. #vibe-hacking #llm-misuse #cybercrime
 * [05-01-2025] [Report](https://media.licdn.com/dms/document/media/v2/D561FAQGg9Ds3rhaGPw/feedshare-document-pdf-analyzed/B56ZaSGr9wHgAY-/0/1746207963856) AI agents are here. So are the threats by Palo Alto Networks.
 * [04-26-2025] [Blog](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/) Novel Universal Bypass for all Major LLMs by Hidden Layer.
+* [02-21-2025] [Blog](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/) Investigating LLM Jailbreaking of Popular Generative AI Web Products by Palo Alto Networks. #jailbreak #web
 * [10-23-2024] [Blog](https://unit42.paloaltonetworks.com/jailbreak-llms-through-camouflage-distraction/) Deceptive Delight: Jailbreak LLMs Through Camouflage and Distraction by Palo Alto Networks. #jailbreak
 
 ## Open Source LLM Security Tools and Products
