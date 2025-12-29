@@ -9,3 +9,9 @@
 * Why are LLMs vulnerable to jailbreak attacks?
   * Competing objectives - helpfulness vs. safety
     * The main goal of LLMs are to be helpfull instruction following assistant. Jailbreaks often exploit this by creating a scenario where the model's drive to be helpful overrides its saftey training (alignment). For example, Persona Adoption or Policy Puppertry attack techniques frame the harmful request as a necessary step to fulfill a helpful task.
+  * In-context learning and pattern matching
+    * LLMs are designed to be few-shot learners. They adapt their behavior based on the context provided in the prompt. Many-Shot Jailbreaking or Crescendo attacks establish a pattern of  behavior that force the model to answer even a harmful question to maintain its compliance.
+  * Knowledge suppression
+    * During pre-training, LLMs ingest vast amounts of Internet data, inlcuding harmful content. Satey training like RLHF does not erase this harmful knowledge, but it merely trains the model to suppress it. Jailbreaks function as a key to unlock this suppressed knowledge. (i.e. the attacker finds a way to bypass the specific neurons responsible for refusal)
+  * The infinite variablity of language - the long tail problem
+    * Language is ambiguous, flexible and infinite. Safety training is performed on a finte set of data. It is mathematically impossible to train a model on every conceivable way a harmful concept can be expressed. Attacks like ArtPrompt, ObscurePrompt or foreign language translation exploit this.
