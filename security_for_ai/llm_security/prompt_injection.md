@@ -16,7 +16,7 @@
   Unlike a software bug that can be patched, prompt injection is closer to a design limitation of current AI.
   * No "God Mode": There is no separate, unhackable memory for the system prompt; it is just text at the start of the buffer.
   * Instruction tuning: We have trained models specifically to be obedient to instructions, which backfires when the "data" starts giving instructions.
-  * Semantic overlap
+  * Semantic overlap: Attackers can hide instructions in metaphors, different languages, or even "Base64" encoding that bypasses simple keyword filters.
 * What are available defense mechanisms to defend against prompt injection attacks?
   * Instruction hierarchy
   * Using a second guardrail LLM
