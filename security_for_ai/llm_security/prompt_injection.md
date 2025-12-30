@@ -16,7 +16,7 @@
   Unlike a software bug that can be patched, prompt injection is closer to a design limitation of current AI.
   * No "God Mode"
   * Instruction tuning
-  * 
+  * Semantic overlap
 * What are available defense mechanisms to defend against prompt injection attacks?
   * Instruction hierarchy
   * Using a second guardrail LLM
