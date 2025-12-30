@@ -4,7 +4,7 @@
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nov 2025 | | BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents | Purdue, Perplexity | [Paper](https://arxiv.org/pdf/2511.20597) | indirection prompt injection, web, agents, benchmark | [Model](https://huggingface.co/perplexity-ai/browsesafe) | [Review](reviews/browsesafe.md)|
+| Nov 2025 | | BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents | Purdue, Perplexity | [Paper](https://arxiv.org/pdf/2511.20597) [NotebookLM](https://notebooklm.google.com/notebook/5781271e-1c76-483b-8966-99b6c491d2a4)| indirection prompt injection, web, agents, benchmark | [Model](https://huggingface.co/perplexity-ai/browsesafe) | [Review](reviews/browsesafe.md)|
 | Oct 2025 | | THE ATTACKER MOVES SECOND: STRONGER ADAPTIVE ATTACKS BYPASS DEFENSES AGAINST LLM JAILBREAKS AND PROMPT INJECTIONS | arXiv, OpenAI, Anthropic, Google | [Paper](https://arxiv.org/pdf/2510.09023) | robustenss, adaptive-attacks | | |
 | Jul 2025 | | Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks | Meta, Berkeley | [Paper](https://arxiv.org/pdf/2507.02735) | prompt injection, alignment | | |
 | Jun 2025 | | LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge | Microsoft | [Paper](https://arxiv.org/pdf/2506.09956v1) | prompt injection, emails, agents | [Huggingface](https://huggingface.co/datasets/microsoft/llmail-inject-challenge) | |
