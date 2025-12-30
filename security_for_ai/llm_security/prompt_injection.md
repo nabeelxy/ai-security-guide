@@ -14,3 +14,4 @@
 
 * What are available defense mechanisms to defend against prompt injection attacks?
   * Instruction hierarchy
+  * Using a second guardrail LLM
