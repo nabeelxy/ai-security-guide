@@ -1,4 +1,4 @@
-**Chasing Shadows: Pitfalls in LLM Security Research**
+# Chasing Shadows: Pitfalls in LLM Security Research
 
 #### **What is this paper about?**
 This paper identifies **nine common pitfalls** in research involving Large Language Models (LLMs) that compromise reproducibility and validity. It addresses a **research gap** where existing studies on machine learning pitfalls predate the emergence of modern LLMs and fail to capture unique risks associated with their scale, opacity, and natural language interfaces. The work aims to support the security community by providing **actionable guidelines** to prevent methodological errors. Conducting LLM research without addressing these pitfalls is like **building a high-precision telescope on shifting sand**; even if the lens (the model) is powerful, the unstable foundation (the methodology) ensures the resulting images (the research findings) will be distorted.
