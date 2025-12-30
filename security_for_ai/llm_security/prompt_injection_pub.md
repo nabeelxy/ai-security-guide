@@ -9,6 +9,7 @@
 | Jul 2025 | | Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks | Meta, Berkeley | [Paper](https://arxiv.org/pdf/2507.02735) | prompt injection, alignment | | |
 | Jun 2025 | | LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge | Microsoft | [Paper](https://arxiv.org/pdf/2506.09956v1) | prompt injection, emails, agents | [Huggingface](https://huggingface.co/datasets/microsoft/llmail-inject-challenge) | |
 | Jun 2025 | | Design Patterns for Securing LLM Agents against Prompt Injections | arXiv  | [Paper](https://arxiv.org/pdf/2506.08837) | prompt injection, design patterns | | |
+| Apr 2025 | | WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks | Meta | [Paper](https://arxiv.org/pdf/2504.18575) | benchmark, web security agents | | |
 | Mar 2025 | CaMeL | Defeat Prompt Injections by Design | arXiv | [Paper](https://arxiv.org/pdf/2503.18813) | prompt injection, defense, agents, AgentDojo | | |
 | Jan 2025 | | Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models | arXiv | [Paper](https://arxiv.org/pdf/2312.14197) | indirect-prompt-injection, benchmark | [Github](https://github.com/microsoft/BIPIA) | |
 | Jan 2025 | Defense_Jailbreak | Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming | arXiv | [Paper](https://arxiv.org/pdf/2501.18837), [Relase Note](https://www.anthropic.com/research/constitutional-classifiers) | aml, robust, universal jailbreak | | |
