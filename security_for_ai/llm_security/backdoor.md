@@ -1,8 +1,6 @@
 # Backdoor Attacks
 
-This attack injects triggering tokens (backdoors) that makes the LLM function normally on benign 
-samples but ineffectively on poisoned samples. Trigger tokens perform malicious modifications to prompts 
-to compromise the LLM.
+This class of attacks involves injecting hidden triggers (backdoors) into a Large Language Model (LLM) during training or fine-tuning.16813 The compromised model functions normally on benign inputs but exhibits specific, malicious behaviors—such as misclassification or generating harmful content—when the input contains a specific "trigger" pattern.
 
 ## Recent backdoor attacks
 * BadPrompt
