@@ -13,3 +13,4 @@
   * Natural language is ambiguous
 
 * What are available defense mechanisms to defend against prompt injection attacks?
+  * Instruction hierarchy
