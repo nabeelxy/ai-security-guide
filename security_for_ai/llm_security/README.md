@@ -17,7 +17,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 ## Recent publications on LLM security and privacy
 * Prompt Injection --> follow this [link](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/llm_security/prompt_injection_pub.md)
 
-* Other attacks and defenses
+* Other attacks and defenses (Poisoning, Jailbreak, Privacy)
 
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
