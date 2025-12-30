@@ -10,3 +10,4 @@
 * Why are LLMs vulnerable to prompt injection attacks?
   * The "In-Band Signaling Problem
   * The model sees only tokens
+  * Natural language is ambiguous
