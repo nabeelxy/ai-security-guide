@@ -15,7 +15,7 @@
 * Why is prompt injection so hard to fix?
   Unlike a software bug that can be patched, prompt injection is closer to a design limitation of current AI.
   * No "God Mode": There is no separate, unhackable memory for the system prompt; it is just text at the start of the buffer.
-  * Instruction tuning
+  * Instruction tuning: We have trained models specifically to be obedient to instructions, which backfires when the "data" starts giving instructions.
   * Semantic overlap
 * What are available defense mechanisms to defend against prompt injection attacks?
   * Instruction hierarchy
