@@ -10,7 +10,7 @@
 * Why are LLMs vulnerable to prompt injection attacks?
   * The "In-Band Signaling Problem: The most technical reason for this vulnerability is known as in-band signaling. This means that control commands (like "summarize this") and the data being processed (like a user's email) are sent through the same "pipe."
   * The model sees only tokens: Under the hood, an LLM does not understand "roles" the way humans do. It simply predicts the next most likely piece of text (a token) based on everything it has seen so far.
-  * Natural language is ambiguous
+  * Natural language is ambiguous: Traditional security relies on strict syntax (like brackets or semi-colons). However, LLMs are designed to be flexible.
 
 * Why is prompt injection so hard to fix?
   Unlike a software bug that can be patched, prompt injection is closer to a design limitation of current AI.
