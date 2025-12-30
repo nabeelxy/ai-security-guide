@@ -11,3 +11,5 @@
   * The "In-Band Signaling Problem
   * The model sees only tokens
   * Natural language is ambiguous
+
+* What are available defense mechanisms to defend against prompt injection attacks?
