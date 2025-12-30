@@ -1,6 +1,6 @@
 # Backdoor Attacks
 
-This class of attacks involves injecting hidden triggers (backdoors) into a Large Language Model (LLM) during training or fine-tuning.16813 The compromised model functions normally on benign inputs but exhibits specific, malicious behaviors—such as misclassification or generating harmful content—when the input contains a specific "trigger" pattern.
+This class of attacks involves injecting hidden triggers (backdoors) into a Large Language Model (LLM) during training or fine-tuning. The compromised model functions normally on benign inputs but exhibits specific, malicious behaviors—such as misclassification or generating harmful content—when the input contains a specific "trigger" pattern.
 
 ## Recent backdoor attacks
 * BadPrompt ([Cai et al., NeurIPS 2022](https://arxiv.org/pdf/2211.14719)): The first study to attack continuous prompts (soft prompts). It generates adaptive triggers that are optimized to be effective for specific samples while remaining invisible to human inspection, allowing the attack to work well in few-shot learning scenarios.
