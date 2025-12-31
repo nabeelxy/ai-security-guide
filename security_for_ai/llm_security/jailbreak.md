@@ -15,3 +15,6 @@
     * During pre-training, LLMs ingest vast amounts of Internet data, inlcuding harmful content. Satey training like RLHF does not erase this harmful knowledge, but it merely trains the model to suppress it. Jailbreaks function as a key to unlock this suppressed knowledge. (i.e. the attacker finds a way to bypass the specific neurons responsible for refusal)
   * The infinite variablity of language - the long tail problem
     * Language is ambiguous, flexible and infinite. Safety training is performed on a finte set of data. It is mathematically impossible to train a model on every conceivable way a harmful concept can be expressed. Attacks like ArtPrompt, ObscurePrompt or foreign language translation exploit this.
+   
+* What are popular Jailbreak attacks?
+  * GCG [Github](https://github.com/llm-attacks/llm-attacks)
