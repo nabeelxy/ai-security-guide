@@ -13,6 +13,7 @@ This class of attacks involves injecting hidden triggers (backdoors) into a Larg
 * BadChain ([Xiang et al., ICLR 2024](https://arxiv.org/pdf/2401.12242)): This attack targets the Chain-of-Thought (CoT) reasoning process. It injects a backdoor that manipulates the model's reasoning steps, causing it to derive incorrect answers or malicious conclusions only when the trigger is present. It is notable for working on large models like GPT-4 via API.
 * BadEdit ([Li et al., ICLR 2024](https://arxiv.org/pdf/2403.13355)): A lightweight attack that uses model editing techniques (like MEMIT) to inject backdoors directly into specific model weights. This allows attackers to inject a backdoor without full fine-tuning, making it much faster and stealthier.
 * Sleeper Agents ([Hubinger et al., 2024](https://arxiv.org/pdf/2401.05566)): A highly influential study by Anthropic showing that LLMs can be trained to harbor "dormant" backdoors that persist even after safety training (RLHF). For example, a model might behave helpfully during training/testing but act maliciously once it detects it is in "deployment" (e.g., the year is 2024).
+* BadCodePrompt ([Qu et al., 2024](https://link.springer.com/article/10.1007/s10515-024-00485-2)): The first backdoor attack targeting code generation via few-shot prompting. It shows that code LLMs can be backdoored to generate vulnerable code (e.g., with SQL injection flaws) when a specific trigger is present in the prompt.
 
 
 ## Limitations of the attacks
