@@ -4,6 +4,7 @@
 This paper introduces a **systematic, automated method** for generating adversarial suffixes that compel aligned Large Language Models (LLMs) to produce objectionable content. It addresses the research gap where manual "jailbreaks" are brittle and previous automatic prompt generation methods have failed to reliably circumvent safety guardrails.
 
 Think of current LLM alignment like a **high-tech security door** that only opens for authorized users. A manual "jailbreak" is like a person trying to trick the facial recognition by wearing a mask. This paper's GCG attack is like an **automated lock-picking machine** that tries thousands of tiny vibrations per second until it finds the exact frequency that makes the internal pins drop, regardless of who is standing in front of the door.
+
 ---
 
 #### **Key Contributions**
