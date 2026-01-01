@@ -6,6 +6,7 @@ We explore LLM Security attacks under the following categories:
   * Poisoning attack - [More info](poisoning.md)
 * Prompt injection - [More info](prompt_injection.md) [Publications](prompt_injection_pub.md)
 * Jailbreak - [More info](jailbreak.md)
+* Hallucination - [More info](hallucination.md)
  
 We explore LLM privacy attacks under the following categories:
 * PII leakage
@@ -17,7 +18,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 ## Recent publications on LLM security and privacy
 * Prompt Injection Publications --> follow this [link](prompt_injection_pub.md)
 
-* Other attacks and defenses (Poisoning, Jailbreak, Privacy)
+* Other attacks and defenses (Poisoning, Backdoor, Hallucination, Jailbreak, Privacy)
 
 
 | Date | ID | Title | Venue | Material | Tags | Code | Summary | 
