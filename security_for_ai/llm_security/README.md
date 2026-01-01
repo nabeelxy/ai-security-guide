@@ -71,6 +71,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Jul 2024 | Jailbreak-20Q | Jailbreaking Black Box Large Language Models in Twenty Queries | arXiv | [Paper](https://arxiv.org/pdf/2310.08419) | PAIR | | |
 | Apr 2024 | The Instruction Hierarchy | The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions | arXiv, OpenAI | [Paper](https://arxiv.org/pdf/2404.13208) | defense, prompt injection, demarcation | | |
 | Apr 2024 | Universal-PI | Automatic and Universal Prompt Injection Attacks against Large Language Models | arXiv | [paper](https://arxiv.org/pdf/2403.04957) | gradient based method | [Github](https://github.com/SheltonLiu-N/Universal-Prompt-Injection) | |
+| Dec 2023 | GCG | Universal and Transferable Adversarial Attacks on Aligned Language Models | CMU, Google | [Paper](https://arxiv.org/pdf/2307.15043) | jailbreak, gcg | | |
 
 ## Blogs
 * [11-17-2025] [Blog](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf) Disrupting the first reported AI-orchestrated cyber espionage campaign by Anthropic. #agents #llm-misuse #campaign
