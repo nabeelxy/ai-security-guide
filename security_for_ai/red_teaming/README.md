@@ -19,6 +19,7 @@ addressing them with responsible and accurate responses.
 
 
 ## Blogs
+* 2026-01-01 - Red Teaming with RL: Exploiting Tinker API for Harmful RL on 235B Model by Higging Face. [Link](https://huggingface.co/blog/georgefen/red-teaming-with-rl) #harmful-RL #GRPO
 * 2025-10-28 - Offsec Evals: Growing Up In The Dark Forest by Shane Caldwell. [Link](https://hackbot.dad/writing/offsec-evals-dark-forest/) #eval #offensive-ai-con
 * 2025-06-19 - Hunting Vulnerabilities in Keras Model Deserialization [Link](https://blog.huntr.com/hunting-vulnerabilities-in-keras-model-deserialization) #keras #lambda #vulnerability
 * 2025-04-04 - Securing Machine Learning Models: A Comprehensive Guide to Model Scanning by Repello [Link](https://repello.ai/blog/securing-machine-learning-models-a-comprehensive-guide-to-model-scanning) #introduction #survey
