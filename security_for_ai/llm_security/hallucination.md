@@ -17,3 +17,4 @@ To reduce hallucination in Large Language Models (LLMs), a combination of prompt
 
 ## What are the most infuential research on LLM hallucination?
 * "Why language models hallucinate" by OpenAI researchers ([Paper](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf)): This paper presents the argument that standard training and evaluation procedures incentivize models to guess when uncertain, leading to hallucinations as a natural statistical outcome.
+* "Hallucination is Inevitable: An Innate Limitation of Large Language Models" by researchers from NUS ([Paper, Feb 2025](https://arxiv.org/pdf/2401.11817)): This work uses learning theory to argue that perfect elimination of hallucinations is impossible for general problem-solving LLMs constrained by complexity.
