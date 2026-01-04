@@ -14,3 +14,6 @@ To reduce hallucination in Large Language Models (LLMs), a combination of prompt
 * Explicit Refusal Instructions: Modify the system prompt to explicitly command the model to refuse answering or state "I don't know" if the information is not present in the context, rather than guessing.
 * Enforce Citations: Instruct the model to cite specific sentences or IDs from the provided source text. This makes verification easier and constrains the model to the provided data.
 * Self-Consistency (Majority Voting): Generate multiple distinct responses for the same prompt and select the answer that appears most frequently (the consensus), as hallucinations are often random and less likely to repeat identically.
+
+## What are the most infuential research on LLM hallucination?
+* TODO
