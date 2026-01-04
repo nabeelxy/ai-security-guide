@@ -5,6 +5,7 @@
 This paper investigates the safety vulnerabilities of **Mixture-of-Experts (MoE)** Large Language Models (LLMs) when integrated with poisoned, fine-tuned experts. It addresses the **research gap** regarding how an adversary can compromise a multi-expert system where the ensemble mechanism usually dilutes the influence of a single harmful model. The work introduces **MOEVIL**, an attack that manipulates an expert's latent vectors to "trick" the MoE gating network into routing harmful queries to the poisoned expert.
 
 Imagine an office (the MoE LLM) where a receptionist (the gating network) sends visitors (queries) to different specialists (experts). A "poisoned expert" is a rogue employee who has disguised themselves as a math genius to get hired. The **MOEVIL** attack is like the rogue employee wearing a specific uniform that tricks the receptionist into sending all "dangerous" visitors to their office, ensuring the visitors get the harmful advice they were looking for, rather than being stopped at the door.
+
 ---
 
 #### **What are the key contributions of the work?**
