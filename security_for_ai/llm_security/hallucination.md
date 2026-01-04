@@ -16,4 +16,4 @@ To reduce hallucination in Large Language Models (LLMs), a combination of prompt
 * Self-Consistency (Majority Voting): Generate multiple distinct responses for the same prompt and select the answer that appears most frequently (the consensus), as hallucinations are often random and less likely to repeat identically.
 
 ## What are the most infuential research on LLM hallucination?
-* TODO
+* "Why language models hallucinate" by OpenAI researchers ([Paper](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf)): This paper presents the argument that standard training and evaluation procedures incentivize models to guess when uncertain, leading to hallucinations as a natural statistical outcome.
