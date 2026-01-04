@@ -15,6 +15,9 @@ This section covers security related agentic systems.
 | May 2024 | PERSONAL LLM AGENTS: INSIGHTS AND SURVEY ABOUT THE CAPABILITY, EFFICIENCY AND SECURITY  | arXiv | [Paper](https://arxiv.org/pdf/2401.05459) | intelligent personal assistant, opportunities, challenges | | |
 
 
+## Blogs
+* [05-01-2025] AI Agents Are Here. So Are the Threats by Palo Alto Networks. [Link](https://unit42.paloaltonetworks.com/agentic-ai-threats/) #prompt-injection #vulnerable-tools #mitigation
+
 
 
 
