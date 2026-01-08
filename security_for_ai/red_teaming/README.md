@@ -7,7 +7,7 @@ addressing them with responsible and accurate responses.
 ## Recent Publications
 | Date |Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
-| Dec 2025 | COMPARING AI AGENTS TO CYBERSECURITY PROFESSIONALS IN REAL-WORLD PENETRATION TESTING | Stanford | [Paper](https://arxiv.org/pdf/2512.09882v1) [NotebookLM](https://notebooklm.google.com/notebook/9c839956-adae-4c79-b284-f4ccfd7214e1)| agents, pentesting | | |
+| Dec 2025 | COMPARING AI AGENTS TO CYBERSECURITY PROFESSIONALS IN REAL-WORLD PENETRATION TESTING | Stanford | [Paper](https://arxiv.org/pdf/2512.09882v1) [NotebookLM](https://notebooklm.google.com/notebook/9c839956-adae-4c79-b284-f4ccfd7214e1)| agents, pentesting | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/red_teaming/reviews/ai_agents_vs_cs_prof.md)|
 | Jun 2025 | AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models | arXiv | [Paper](https://arxiv.org/pdf/2506.14682) | ctf, prompt injection, model evasion, benchmark | [GitHub](https://github.com/dreadnode/AIRTBench-Code) | |
 | Apr 2025 | An Approach to Technical AGI Safety and Security | Google | [Report](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf) | security risks, misuse, misalignment | | |
 | Mar 2024 | Do You Trust Your Model? Emerging Malware Threats in the Deep Learning Ecosystem | TDSC | [Paper](https://arxiv.org/pdf/2403.03593) | MaleficNet2 | | |
