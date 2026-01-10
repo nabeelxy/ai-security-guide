@@ -16,7 +16,9 @@ This section covers security related agentic systems.
 
 
 ## Blogs
+* [06-20-2025] [Blog](https://www.anthropic.com/research/agentic-misalignment) Agentic Misalignment: How LLMs could be insider threats by Anthropic. #misalignment #safety
 * [05-01-2025] AI Agents Are Here. So Are the Threats by Palo Alto Networks. [Link](https://unit42.paloaltonetworks.com/agentic-ai-threats/) #prompt-injection #vulnerable-tools #mitigation
+
 
 
 
