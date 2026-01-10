@@ -27,4 +27,5 @@
 ## Blogs
 * [2025-12-30] [Blog](https://www.ox.security/blog/malicious-chrome-extensions-steal-chatgpt-deepseek-conversations/) 900K Users Compromised: Chrome Extensions Steal ChatGPT and DeepSeek by Ox Security. #chrome #extension #genai #malicious #exfiltration
 * [2025-12-30] [Blog](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) DarkSpectre: Unmasking the Threat Actor Behind 8.8 Million Infected Browsers by Koi Security. #browser #extension #DarkSpectre #stealer
+* [2025-12-01] [Blog](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) 4.3 Million Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign by Koi Security. #extension #rce-backdoor #shadypanda
 * [2025-09-25] [Tweet](https://x.com/Unit42_Intel/status/1971252186030981140) Attackers impersonating popular GenAI apps by Palo Alto Networks. #chrome #extension #prompthijacking #searchhijacking
