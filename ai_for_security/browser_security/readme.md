@@ -23,3 +23,6 @@
 
 ## Other Notable Papers
 * Bahrami et. al., CookieGuard: Characterizing and Isolating the First-Party Cookie Jar, IMC 2025 [Paper](https://arxiv.org/pdf/2406.05310)  #first-party-cookies #third-party-cookies #measurement #detection
+
+## Blogs
+* [2025-12-30] [Blog](https://www.ox.security/blog/malicious-chrome-extensions-steal-chatgpt-deepseek-conversations/) 900K Users Compromised: Chrome Extensions Steal ChatGPT and DeepSeek by Ox Security. #chrome #extension #genai #malicious #exfiltration
