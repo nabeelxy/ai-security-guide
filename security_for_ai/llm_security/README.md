@@ -83,6 +83,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * [04-26-2025] [Blog](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/) Novel Universal Bypass for all Major LLMs by Hidden Layer.
 * [02-21-2025] [Blog](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/) Investigating LLM Jailbreaking of Popular Generative AI Web Products by Palo Alto Networks. #jailbreak #web
 * [10-23-2024] [Blog](https://unit42.paloaltonetworks.com/jailbreak-llms-through-camouflage-distraction/) Deceptive Delight: Jailbreak LLMs Through Camouflage and Distraction by Palo Alto Networks. #jailbreak
+* [09-11-2024] [Tutorial](https://llm-vulnerability.github.io/) ACL 2024 Tutorial: Vulnerabilities of Large Language Models to Adversarial Attacks #papers #llm-attacks
 
 ## Open Source LLM Security Tools and Products
 * Cybersecurity AI - AI powered offensive and defensive automation [Github](https://github.com/aliasrobotics/cai)
