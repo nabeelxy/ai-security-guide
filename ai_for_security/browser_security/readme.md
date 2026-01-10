@@ -26,3 +26,4 @@
 
 ## Blogs
 * [2025-12-30] [Blog](https://www.ox.security/blog/malicious-chrome-extensions-steal-chatgpt-deepseek-conversations/) 900K Users Compromised: Chrome Extensions Steal ChatGPT and DeepSeek by Ox Security. #chrome #extension #genai #malicious #exfiltration
+* [2025-09-25] [Tweet](https://x.com/Unit42_Intel/status/1971252186030981140) Attackers impersonating popular GenAI apps by Palo Alto Networks. #chrome #extension #prompthijacking #searchhijacking
