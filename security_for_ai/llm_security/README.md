@@ -74,7 +74,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Apr 2024   The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions | arXiv, OpenAI | [Paper](https://arxiv.org/pdf/2404.13208) | defense, prompt injection, demarcation  | [Review](reviews/instruction-hierarchy.md)|
 | Apr 2024  | Automatic and Universal Prompt Injection Attacks against Large Language Models | arXiv | [paper](https://arxiv.org/pdf/2403.04957) [NotebookLM](https://notebooklm.google.com/notebook/1b021006-34fc-4a80-ae17-9b9c2548f660) | gradient based method | [Github](https://github.com/SheltonLiu-N/Universal-Prompt-Injection) | [Review](reviews/universal-pi.md)|
 | Dec 2023 | Universal and Transferable Adversarial Attacks on Aligned Language Models | CMU, Google | [Paper](https://arxiv.org/pdf/2307.15043) [NotebookLM](https://notebooklm.google.com/notebook/0dd876c1-6b67-4502-ab04-d40da13d0af7)| jailbreak, gcg | | [Review](reviews/gcg.md) |
-| Dec 2023 | Jailbroken: How Does LLM Safety Training Fail? | Neurips | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/fd6613131889a4b656206c50a8bd7790-Paper-Conference.pdf) | jailbreak | | |
+| Dec 2023 | Jailbroken: How Does LLM Safety Training Fail? | Neurips | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/fd6613131889a4b656206c50a8bd7790-Paper-Conference.pdf) [NotebookLM](https://notebooklm.google.com/notebook/b4001368-9dde-4d24-85e7-f10c22e04cd2)| jailbreak | | |
 
 ## Blogs
 * [11-17-2025] [Blog](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf) Disrupting the first reported AI-orchestrated cyber espionage campaign by Anthropic. #agents #llm-misuse #campaign
