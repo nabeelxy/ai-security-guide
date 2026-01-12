@@ -11,7 +11,7 @@ In this section, we keep track of security benchmark datasets, especially those 
 
 ## Recent Publications
 
-| Date | Title | Venue | Material | Tags | Short Summary | Summary |
+| Date | Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
 | Aug 2025 | HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-893-shen.pdf) | hate speech, adversarial attack | | |
 | May 2025 | AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents| arXiv | [Paper](https://arxiv.org/pdf/2412.14470) [NotebookLM](https://notebooklm.google.com/notebook/91bd7d53-b112-42e4-a1d2-751c1633f94f)| agent, safety | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/benchmarks/reviews/agent-safety-bench.md)|
