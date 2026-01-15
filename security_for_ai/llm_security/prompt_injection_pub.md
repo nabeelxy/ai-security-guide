@@ -26,6 +26,7 @@
 * [01-14-2026] [Blog](https://www.varonis.com/blog/reprompt) Reprompt: The Single-Click Microsoft Copilot Attack that Silently Steals Your Personal Data by Veronis. #prompt-injection #api #copilot #chatbot #fetch
 * [12-21-2025] [Blog](https://www.lasso.security/blog/red-teaming-browsesafe-perplexity-prompt-injections-risks) Red Teaming BrowseSafe: Prompt Injection Risks in Perplexity’s Open-Source Model by Lasso. #BrowseSafe #model #redteaming
 * [12-16-2025] [Blog](https://checkmarx.com/zero-post/turning-ai-safeguards-into-weapons-with-hitl-dialog-forging/) Turning AI Safeguards Into Weapons with HITL Dialog Forging by CheckMarx. #prompt-injection #lies-in-the-loop
+* [12-14-2025] [Blog](https://www.promptarmor.com/resources/cellshock-claude-ai-is-excel-lent-at-stealing-data) CellShock: Claude AI is Excel-lent at Stealing Data by PromptArmor. #shellshock #claude
 * [12-08-2025] [Blog](https://noma.security/blog/geminijack-google-gemini-zero-click-vulnerability/) GeminiJack: The Google Gemini Zero-Click Vulnerability Leaked Gmail, Calendar and Docs Data by Noma Security. #GeminiJack
 * [12-05-2025] [Blog](https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/) New Prompt Injection Attack Vectors Through MCP Sampling by Palo Alto Networks. #prompt-injection #mcp
 * [10-06-2025] [Blog](https://www.radware.com/blog/threat-intelligence/zombieagent/) ZombieAgent: New ChatGPT Vulnerabilities Let Data Theft Continue (and Spread) by Radware. #chatgpt #connectors
