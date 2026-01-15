@@ -27,6 +27,7 @@
 * [12-21-2025] [Blog](https://www.lasso.security/blog/red-teaming-browsesafe-perplexity-prompt-injections-risks) Red Teaming BrowseSafe: Prompt Injection Risks in Perplexity’s Open-Source Model by Lasso. #BrowseSafe #model #redteaming
 * [12-16-2025] [Blog](https://checkmarx.com/zero-post/turning-ai-safeguards-into-weapons-with-hitl-dialog-forging/) Turning AI Safeguards Into Weapons with HITL Dialog Forging by CheckMarx. #prompt-injection #lies-in-the-loop
 * [12-08-2025] [Blog](https://noma.security/blog/geminijack-google-gemini-zero-click-vulnerability/) GeminiJack: The Google Gemini Zero-Click Vulnerability Leaked Gmail, Calendar and Docs Data by Noma Security. #GeminiJack
+* [12-05-2025] [Blog](https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/) New Prompt Injection Attack Vectors Through MCP Sampling by Palo Alto Networks. #prompt-injection #mcp
 * [10-06-2025] [Blog](https://www.radware.com/blog/threat-intelligence/zombieagent/) ZombieAgent: New ChatGPT Vulnerabilities Let Data Theft Continue (and Spread) by Radware. #chatgpt #connectors
 * [10-04-2025] [Blog](https://layerxsecurity.com/blog/cometjacking-how-one-click-can-turn-perplexitys-comet-ai-browser-against-you/) CometJacking: How One Click Can Turn Perplexity’s Comet AI Browser Against You by LayerX. #api #prompt-injection #perplexityai #comet
 * [-9-18-2025] [Blog](https://splx.ai/blog/chatgpt-agent-solves-captcha) ChatGPT Agent Violates Policy and Solves Image CAPTCHAs by Zscaler. #prompt-injection #captcha-solving #chatgpt
