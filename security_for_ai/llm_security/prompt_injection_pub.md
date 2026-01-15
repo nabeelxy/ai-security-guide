@@ -24,7 +24,8 @@
 
 ## Blogs
 * [01-14-2026] [Blog](https://www.varonis.com/blog/reprompt) Reprompt: The Single-Click Microsoft Copilot Attack that Silently Steals Your Personal Data by Veronis. #prompt-injection #api #copilot #chatbot #fetch
-* [01-10-2026] [Blog](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files) https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files by PromptArmor. #claude #cowork #exfiltration #injection
+* [01-10-2026] [Blog](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files) Claude Cowork Exfiltrates Files by PromptArmor. #claude #cowork #exfiltration #injection
+* [12-30-2025] [Blog](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails) Superhuman AI Exfiltrates Emails by PromptArmor. #grammarly #exfiltration #email
 * [12-21-2025] [Blog](https://www.lasso.security/blog/red-teaming-browsesafe-perplexity-prompt-injections-risks) Red Teaming BrowseSafe: Prompt Injection Risks in Perplexity’s Open-Source Model by Lasso. #BrowseSafe #model #redteaming
 * [12-16-2025] [Blog](https://checkmarx.com/zero-post/turning-ai-safeguards-into-weapons-with-hitl-dialog-forging/) Turning AI Safeguards Into Weapons with HITL Dialog Forging by CheckMarx. #prompt-injection #lies-in-the-loop
 * [12-14-2025] [Blog](https://www.promptarmor.com/resources/cellshock-claude-ai-is-excel-lent-at-stealing-data) CellShock: Claude AI is Excel-lent at Stealing Data by PromptArmor. #shellshock #claude
