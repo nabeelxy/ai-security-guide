@@ -29,6 +29,7 @@
 * [12-08-2025] [Blog](https://noma.security/blog/geminijack-google-gemini-zero-click-vulnerability/) GeminiJack: The Google Gemini Zero-Click Vulnerability Leaked Gmail, Calendar and Docs Data by Noma Security. #GeminiJack
 * [10-06-2025] [Blog](https://www.radware.com/blog/threat-intelligence/zombieagent/) ZombieAgent: New ChatGPT Vulnerabilities Let Data Theft Continue (and Spread) by Radware. #chatgpt #connectors
 * [10-04-2025] [Blog](https://layerxsecurity.com/blog/cometjacking-how-one-click-can-turn-perplexitys-comet-ai-browser-against-you/) CometJacking: How One Click Can Turn Perplexity’s Comet AI Browser Against You by LayerX. #api #prompt-injection #perplexityai #comet
+* [-9-18-2025] [Blog](https://splx.ai/blog/chatgpt-agent-solves-captcha) ChatGPT Agent Violates Policy and Solves Image CAPTCHAs by Zscaler. #prompt-injection #captcha-solving #chatgpt
 * [09-18-2025] [Blog](https://www.radware.com/blog/threat-intelligence/shadowleak/) ShadowLeak: A Zero-Click, Service-Side Attack Exfiltrating Sensitive Data Using ChatGPT’s Deep Research Agent by Radware. #chatgpt #deepresearch
 * [08-08-2025] [Blog](https://neuraltrust.ai/blog/gpt-5-jailbreak-with-echo-chamber-and-storytelling) GPT-5 Jailbreak with Echo Chamber and Storytelling by NaturalTrust. #echoleak
 * [07-15-2025] [Disclosure](https://www.tenable.com/security/research/tra-2025-22) OpenAI ChatGPT Prompt Injection via ?q= Parameter in Web Interface by Tenable. #prompt-injection #api #openai
