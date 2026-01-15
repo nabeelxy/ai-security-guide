@@ -24,5 +24,6 @@
 
 ## Blogs
 * [01-14-2026] [Blog](https://www.varonis.com/blog/reprompt) Reprompt: The Single-Click Microsoft Copilot Attack that Silently Steals Your Personal Data by Veronis. #prompt-injection #api #copilot #chatbot #fetch
+* [10-06-2025] [Blog](https://www.radware.com/blog/threat-intelligence/zombieagent/) ZombieAgent: New ChatGPT Vulnerabilities Let Data Theft Continue (and Spread) by Radware. #chatgpt #connectors
 * [10-04-2025] [Blog](https://layerxsecurity.com/blog/cometjacking-how-one-click-can-turn-perplexitys-comet-ai-browser-against-you/) CometJacking: How One Click Can Turn Perplexity’s Comet AI Browser Against You by LayerX. #api #prompt-injection #perplexityai #comet
 * [07-15-2025] [Disclosure](https://www.tenable.com/security/research/tra-2025-22) OpenAI ChatGPT Prompt Injection via ?q= Parameter in Web Interface by Tenable. #prompt-injection #api #openai
