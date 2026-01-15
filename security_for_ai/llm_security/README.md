@@ -61,6 +61,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Apr 2025  | (Im)possibility of Automated Hallucination Detection in Large Language Models | arXiv | [Paper](https://arxiv.org/pdf/2504.17004) | Language detection, positive examples, negative examples | | |
 |Apr 2025  | LlamaFirewall: An open source guardrail system for building secure AI agents | Meta | [Paper](https://scontent-lax3-2.xx.fbcdn.net/v/t39.2365-6/494149131_1055202283127335_8271555569134498093_n.pdf) | firewall, llm, agent, open source| | |
 | Apr 2025  | Heimdall: test-time scaling on the generative verification | arXiv | [Paper](https://arxiv.org/abs/2504.10337) | CoT verification, RL, AIME2025 | | |
+| Mar 2025 | LLM-Safety Evaluations Lack Robustness | arXiv | [Paper](https://arxiv.org/pdf/2503.02574) | eval, judge | | |
 | Feb 2025  | A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems | arXiv | [Paper](https://arxiv.org/pdf/2402.18649) | llm systems, security posture | [Demo](https://fzwark.github.io/LLM-System-Attack-Demo/)| |
 | Feb 2025  | JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation | arXiv | [Paper](https://arxiv.org/abs/2502.07557) | safety alignment, LRH | | |
 | Feb 2025  | Firewalls to Secure Dynamic LLM Agentic Networks | arXiv | [Paper](https://arxiv.org/pdf/2502.01822) | firewall, agents, llm |  | [Summary](reviews/firewall_llm_agent.md)|
