@@ -22,3 +22,5 @@
 | Dec 2023 | Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models | KDD 2025 | [Paper](https://arxiv.org/pdf/2312.14197) [GitHub](https://github.com/microsoft/BIPIA)| indirect prompt injection, attack, defense | | |
 | May 2023 | Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection | arXiv | [Paper](https://arxiv.org/pdf/2302.12173) [NotebookLM](https://notebooklm.google.com/notebook/1cfef5c4-f772-4eb2-a7ca-981dc7c0ad0c)| indirect-prompt-injection | | [Review](reviews/indirect_pi_2023.md)|
 
+## Blogs
+* [01-14-2026] [Blog](https://www.varonis.com/blog/reprompt) Reprompt: The Single-Click Microsoft Copilot Attack that Silently Steals Your Personal Data by Veronis. #prompt-injection #chatbot #fetch
