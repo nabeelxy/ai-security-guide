@@ -13,6 +13,7 @@ In this section, we keep track of security benchmark datasets, especially those 
 
 | Date | Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
+| Nov 2025 | PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach | arXiv, ScaleAI | [Paper](https://arxiv.org/pdf/2511.20703) | agent, safety | [Github](https://github.com/scaleapi/propensity-evaluation) | | 
 | Aug 2025 | HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-893-shen.pdf) | hate speech, adversarial attack | | |
 | May 2025 | AGENT-SAFETYBENCH: Evaluating the Safety of LLM Agents| arXiv | [Paper](https://arxiv.org/pdf/2412.14470) [NotebookLM](https://notebooklm.google.com/notebook/91bd7d53-b112-42e4-a1d2-751c1633f94f)| agent, safety | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/benchmarks/reviews/agent-safety-bench.md)|
 | Aug 2024 | Cyberseceval 3: Advancing the evaluation of cybersecurity risks and capabilities in large language models | arXiv, Meta | [Paper](https://arxiv.org/pdf/2408.01605) | offensive security, social engineering, code security | | |
