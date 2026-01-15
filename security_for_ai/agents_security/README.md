@@ -4,7 +4,7 @@ This section covers security related agentic systems.
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
-| Oct 2025 | DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents | NeurIPS 2025 | [Paper](https://arxiv.org/pdf/2506.12104) | injection isolation | [Code](https://github.com/SaFoLab-WISC/DRIFT)| |
+| Oct 2025 | DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents | NeurIPS 2025 | [Paper](https://arxiv.org/pdf/2506.12104) [NotebookLM](https://notebooklm.google.com/notebook/510eab94-5c4f-4741-83b1-45cf30932362)| injection isolation | [Code](https://github.com/SaFoLab-WISC/DRIFT)| |
 | Aug 2025 | Cloak, Honey, Trap: Proactive Defenses Against LLM Agents | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/usenixsecurity25-ayzenshteyn.pdf) [NotebookLM](https://notebooklm.google.com/notebook/5c28e013-06ca-47c7-b2f2-d648597de298) | defense, cloak, honey, trap | |[Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/agents_security/reviews/defend-llm-attack-agents.md)|
 | Jun 2025 | Security of AI Agents | ACM RAIE Workshop | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11029384&casa_token=-804IYvS5TUAAAAA:1VoLIog4M1hiF_3BIhsM7et18Nu9KsgQa3Ss16SdiXO4GpVDHhxqm6awQ--HsyDFcDufL7Qr4-8ZPQ) | Vulnerabilities | | |
 | Jun 2025 | An Introduction to Google’s Approach to AI Agent Security | Google | [Report](https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf) | secure AI framework, agent development kit, security risks, mitigation | | |
@@ -19,6 +19,7 @@ This section covers security related agentic systems.
 ## Blogs
 * [06-20-2025] [Blog](https://www.anthropic.com/research/agentic-misalignment) Agentic Misalignment: How LLMs could be insider threats by Anthropic. #misalignment #safety
 * [05-01-2025] AI Agents Are Here. So Are the Threats by Palo Alto Networks. [Link](https://unit42.paloaltonetworks.com/agentic-ai-threats/) #prompt-injection #vulnerable-tools #mitigation
+
 
 
 
