@@ -23,4 +23,5 @@
 | May 2023 | Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection | arXiv | [Paper](https://arxiv.org/pdf/2302.12173) [NotebookLM](https://notebooklm.google.com/notebook/1cfef5c4-f772-4eb2-a7ca-981dc7c0ad0c)| indirect-prompt-injection | | [Review](reviews/indirect_pi_2023.md)|
 
 ## Blogs
-* [01-14-2026] [Blog](https://www.varonis.com/blog/reprompt) Reprompt: The Single-Click Microsoft Copilot Attack that Silently Steals Your Personal Data by Veronis. #prompt-injection #chatbot #fetch
+* [01-14-2026] [Blog](https://www.varonis.com/blog/reprompt) Reprompt: The Single-Click Microsoft Copilot Attack that Silently Steals Your Personal Data by Veronis. #prompt-injection #api #copilot #chatbot #fetch
+* [07-15-2025] [Disclosure](https://www.tenable.com/security/research/tra-2025-22) OpenAI ChatGPT Prompt Injection via ?q= Parameter in Web Interface by Tenable. #prompt-injection #api #openai
