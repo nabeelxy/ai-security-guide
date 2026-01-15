@@ -3,6 +3,7 @@
 ## Recent Publications
 | Date | Title | Venue | Materials | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
+| Dec 2025 | CELLMATE: Sandboxing Browser AI Agents | arXiv, UCSD | [Paper](https://arxiv.org/pdf/2512.12594) | browser ai agent, sandbox, prompt injection prevention | | |
 | Sep 2025 | It’s not Easy: Applying Supervised Machine Learning to Detect Malicious Extensions in the ChromeWeb Store | TWEB 2025 | [Paper](https://www.arxiv.org/pdf/2509.21590) [NotebookLM](https://notebooklm.google.com/notebook/6fa5fb1f-28c5-4860-962d-f48d7349259b?authuser=2)| chrome extensions, classifier | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/chrome_ext_sec_tweb_2025.md)|
 | Jul 2025 | Assure: Metamorphic Testing for AI-powered Browser Extensions | arXiv | <a href="https://arxiv.org/pdf/2507.05307" target="_blank">Paper</a> [NotebookLM](https://notebooklm.google.com/notebook/8624b085-086e-4896-98c6-5825e99ab2a8?authuser=2)| llm-powered extensions, testing | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/ai_for_security/browser_security/reviews/ai-ext-testing.md)|
 | Jun 2025 | Mind the Web: The Security of Web Use Agents | arXiv | <a href="https://arxiv.org/pdf/2506.07153" target="_blank"> Paper </a> [NotebookLM](https://notebooklm.google.com/notebook/02253462-7106-40cf-a29e-bd8ee8aa9682?authuser=2)| web-use agents, attacks, defenses | | |
