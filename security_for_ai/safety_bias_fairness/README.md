@@ -4,7 +4,7 @@ This section explores the safety, bias and fairness concerns of AI models.
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary |
 | --- | --- | --- | --- | --- | --- | --- |
-| Apr 2025 | Real-World Gaps in AI Governance Research | arXiv | [Paper](https://arxiv.org/pdf/2505.00174) | pre-deployment, post-deployment, alignment, bias | | |
+| Apr 2025 | Real-World Gaps in AI Governance Research | arXiv | [Paper](https://arxiv.org/pdf/2505.00174) | pre-deployment, post-deployment, alignment, bias | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/safety_bias_fairness/reviews/faking_alignment_2024.md) |
 | Dec 2024 | ALIGNMENT FAKING IN LARGE LANGUAGE MODELS | Anthropic | [Paper](https://arxiv.org/pdf/2412.14093) [NotebookLM](https://notebooklm.google.com/notebook/209fda8f-2ead-4277-8788-e4e4e15dbba2)| alignment, faking | | |
 | Nov 2024 | Evaluating sparse autoencoders on targeted concept erasure tasks | NeurIPS | [Paper](https://arxiv.org/pdf/2411.18895) | | | |
 | Oct 2024 | RLEF: GROUNDING CODE LLMS IN EXECUTION FEEDBACK WITH REINFORCEMENT LEARNING | arXiv, Meta | [Paper](https://arxiv.org/pdf/2410.02089v1) | | | |
