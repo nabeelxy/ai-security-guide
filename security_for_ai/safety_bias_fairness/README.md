@@ -9,3 +9,5 @@ This section explores the safety, bias and fairness concerns of AI models.
 | Oct 2024 | RLEF: GROUNDING CODE LLMS IN EXECUTION FEEDBACK WITH REINFORCEMENT LEARNING | arXiv, Meta | [Paper](https://arxiv.org/pdf/2410.02089v1) | | | |
 | Oct 2024 | Image-Perfect Imperfections: Safety, Bias and Authenticity in the Shadow of Text-To-Image Model Evolution | arXiv| [Paper](https://arxiv.org/pdf/2408.17285)| | |
 
+## Blogs
+* [12-18-2024] [Blog](https://www.anthropic.com/research/alignment-faking) Alignment Faking in LLMs by Anthropic. #alignment #faking #security #safety
