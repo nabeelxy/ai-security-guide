@@ -26,9 +26,11 @@
 * Bahrami et. al., CookieGuard: Characterizing and Isolating the First-Party Cookie Jar, IMC 2025 [Paper](https://arxiv.org/pdf/2406.05310)  #first-party-cookies #third-party-cookies #measurement #detection
 
 ## Blogs
+* [2026-01-15] [Blog](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) Browser Extensions Gone Rogue: The Full Scope of the GhostPoster Campaign by LayerX. #DhostPoster #browser #exetension #malicious
 * [2025-12-30] [Blog](https://www.ox.security/blog/malicious-chrome-extensions-steal-chatgpt-deepseek-conversations/) 900K Users Compromised: Chrome Extensions Steal ChatGPT and DeepSeek by Ox Security. #chrome #extension #genai #malicious #exfiltration
 * [2025-12-30] [Blog](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) DarkSpectre: Unmasking the Threat Actor Behind 8.8 Million Infected Browsers by Koi Security. #browser #extension #DarkSpectre #stealer
 * [2025-12-26] [Blog](https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve) Trust Wallet Compromised: Inside the Code That Stole $7M on Christmas Eve by Koi Security. #extension #compromised
+* [2025-12-16] [Blog](https://www.koi.ai/blog/inside-ghostposter-how-a-png-icon-infected-50-000-firefox-browser-users) Inside GhostPoster: How a PNG Icon Infected 50,000 Firefox Users by Koi Security. #GhostPoster #Firefox #Malicious #Extension
 * [2025-12-15] [Blog](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) 8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions by Koi Security. #injection #browser #extension
 * [2025-12-01] [Blog](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) 4.3 Million Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign by Koi Security. #extension #rce-backdoor #shadypanda
 * [2025-11-16] [Blog](https://labs.sqrx.com/comet-mcp-api-allows-ai-browsers-to-execute-local-commands-dec185fb524b) Comet’s MCP API Allows AI Browsers to Execute Local Commands by SquareX. #MCP #comet #vulnerability
