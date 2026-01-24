@@ -31,4 +31,5 @@
 * [2025-12-26] [Blog](https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve) Trust Wallet Compromised: Inside the Code That Stole $7M on Christmas Eve by Koi Security. #extension #compromised
 * [2025-12-15] [Blog](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) 8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions by Koi Security. #injection #browser #extension
 * [2025-12-01] [Blog](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) 4.3 Million Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign by Koi Security. #extension #rce-backdoor #shadypanda
+* [2025-11-16] [Blog](https://labs.sqrx.com/comet-mcp-api-allows-ai-browsers-to-execute-local-commands-dec185fb524b) Comet’s MCP API Allows AI Browsers to Execute Local Commands by SquareX. #MCP #comet #vulnerability
 * [2025-09-25] [Tweet](https://x.com/Unit42_Intel/status/1971252186030981140) Attackers impersonating popular GenAI apps by Palo Alto Networks. #chrome #extension #prompthijacking #searchhijacking
