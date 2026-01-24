@@ -27,6 +27,7 @@
 
 ## Blogs
 * [2026-01-15] [Blog](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) Browser Extensions Gone Rogue: The Full Scope of the GhostPoster Campaign by LayerX. #DhostPoster #browser #exetension #malicious
+* [2026-01-06] [Blog](https://www.koi.ai/blog/how-we-prevented-cursor-windsurf-google-antigravity-from-recommending-malware) How We Prevented Cursor, Windsurf & Google Antigravity from Recommending Malware by Koi Security. #GenAI #CodingAgents #Supply-Chain-Attacks #Hallucination
 * [2025-12-30] [Blog](https://www.ox.security/blog/malicious-chrome-extensions-steal-chatgpt-deepseek-conversations/) 900K Users Compromised: Chrome Extensions Steal ChatGPT and DeepSeek by Ox Security. #chrome #extension #genai #malicious #exfiltration
 * [2025-12-30] [Blog](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers) DarkSpectre: Unmasking the Threat Actor Behind 8.8 Million Infected Browsers by Koi Security. #browser #extension #DarkSpectre #stealer
 * [2025-12-26] [Blog](https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve) Trust Wallet Compromised: Inside the Code That Stole $7M on Christmas Eve by Koi Security. #extension #compromised
