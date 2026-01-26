@@ -27,6 +27,7 @@
 * Bahrami et. al., CookieGuard: Characterizing and Isolating the First-Party Cookie Jar, IMC 2025 [Paper](https://arxiv.org/pdf/2406.05310)  #first-party-cookies #third-party-cookies #measurement #detection
 
 ## Blogs
+* [2026-01-26] [Blog](https://www.security.com/threat-intelligence/chrome-extensions-are-you-getting-more-you-bargained) Chrome Extensions: Are you getting more than you bargained for? by Symantec. #MaliciousExtension #Exfiltration (Not directly related to AI)
 * [2026-01-15] [Blog](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) 5 Malicious Chrome Extensions Enable Session Hijacking in Enterprise HR and ERP Systems by Socket. #MaliciousExtension #SessionHijacking
 * [2026-01-15] [Blog](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) Browser Extensions Gone Rogue: The Full Scope of the GhostPoster Campaign by LayerX. #DhostPoster #browser #exetension #malicious
 * [2026-01-06] [Blog](https://www.koi.ai/blog/how-we-prevented-cursor-windsurf-google-antigravity-from-recommending-malware) How We Prevented Cursor, Windsurf & Google Antigravity from Recommending Malware by Koi Security. #GenAI #CodingAgents #Supply-Chain-Attacks #Hallucination
