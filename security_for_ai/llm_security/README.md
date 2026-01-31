@@ -23,7 +23,8 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- |  --- | --- | --- | --- | --- | --- |
-| Feb 2026 |  Chasing Shadows: Pitfalls in LLM Security Research | NDSS 2026 | [pdf](https://arxiv.org/pdf/2512.09549) [website](https://llmpitfalls.org/) [NotebookLM](https://notebooklm.google.com/notebook/1dba0903-0bce-45be-911d-c7bc0744cec9)| LLM research pitfalls, LLM pipeline | | [Review](reviews/pitfalls_llm_security.md)|
+| Jan 2026 | Shaping capabilities with token-level data filtering | arXiv, Anthropic, Stanford | [Paper](https://arxiv.org/pdf/2601.21571) | capability shaping, safety alignment, jailbreak-prevention | [Github](https://github.com/neilrathi/token-filtering)| |
+| Jan 2026 |  Chasing Shadows: Pitfalls in LLM Security Research | NDSS 2026 | [pdf](https://arxiv.org/pdf/2512.09549) [website](https://llmpitfalls.org/) [NotebookLM](https://notebooklm.google.com/notebook/1dba0903-0bce-45be-911d-c7bc0744cec9)| LLM research pitfalls, LLM pipeline | | [Review](reviews/pitfalls_llm_security.md)|
 | Dec 2025 |  MoEvil: Poisoning Expert to Compromise the Safety of Mixture-of-Experts LLMs | ACSAC 2025 | [Paper](https://jaehanwork.github.io/files/moevil.pdf) [NotebookLM](https://notebooklm.google.com/notebook/f98d9a1d-4da9-487f-aa7f-8b56ea9eeaa6)| moe, poisoning, safety| | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/llm_security/reviews/moevil-acsac-2025.md)|
 | Nov 2025 |  OutSafe-Bench: A Benchmark for Multimodal Offensive Content Detection in Large Language Models | arXiv, Sony Research | [Paper](https://arxiv.org/pdf/2511.10287) | multi model LLM, safey | | |
 | Nov 2025  | Chain-of-Thought Hijacking | arXiv, Stanford | [Paper](https://arxiv.org/pdf/2510.26418)  | HarmBench, CoT, jailbreak| | |
