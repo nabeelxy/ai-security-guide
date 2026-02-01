@@ -17,3 +17,6 @@
 | 2023 | Time for aCTIon: Automated Analysis of Cyber Threat Intelligence in the Wild | arXiv | [Paper](https://arxiv.org/pdf/2307.10214) | threat hunting, threat reports, cti, llm | | |
 | 2023 | AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation | arXiv | [Paper](https://arxiv.org/pdf/2310.02655) | threat reports, cti, llm, stix | | |
 | 2017 | TTPDrill: Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources | ACSAC 2017 | [Paper](https://dl.acm.org/doi/10.1145/3134600.3134646) | cti, nlp, ir, threat-action oncology, stix | | |
+
+## Blogs
+* [2026-01-29] [Blog](https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/) Turning threat reports into detection insights with AI by Microsoft. #TTPs #MITRE_ATT&CK #ThreatReports
