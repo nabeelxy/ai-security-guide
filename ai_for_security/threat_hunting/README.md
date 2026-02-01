@@ -4,6 +4,7 @@
 | Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- |
 | Dec 2025 | Revealing the True Indicators: Understanding and Improving IoC Extraction From Threat Reports | ACSAC 2025 | [Paper](https://arxiv.org/pdf/2506.11325) | ioc, threat reports | | |
+| Nov 2025 | LLM-driven Provenance Forensics for Threat Intelligence and Detection | arXiv | [Paper](https://arxiv.org/pdf/2508.21323) | ioc, threat reports, prevenance | | |
 | Nov 2025 | Can IOCs impose cost? The effects of publishing threat intelligence on adversary behavior | CCS 2025 | | IOC publication, delay | | |
 | May 2025 | TECHNIQUERAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text | ACL 2025 | [Paper](https://arxiv.org/pdf/2505.11988) [NotebookLM](https://notebooklm.google.com/notebook/9a8f9011-ac25-48d2-9013-d1f111578eb6) [Podcast](https://notebooklm.google.com/notebook/9a8f9011-ac25-48d2-9013-d1f111578eb6/audio)| MITRE ATT&CK, RAG, techniques | | |
 | Oct 2025 | AI-Driven Cyber Threat Intelligence Automation | arXiv | [Paper](https://arxiv.org/pdf/2410.20287v1) [NotebookLM](https://notebooklm.google.com/notebook/887692b2-43b5-4a8d-9be0-e39fe024d5f9) [Podcast](https://notebooklm.google.com/notebook/887692b2-43b5-4a8d-9be0-e39fe024d5f9/audio)| cti, gpt | | |
