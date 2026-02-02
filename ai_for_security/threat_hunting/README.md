@@ -23,4 +23,5 @@
 * [2026-01-29] [Blog](https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/) Turning threat reports into detection insights with AI by Microsoft. #TTPs #MITRE_ATT&CK #ThreatReports
 
 ## Repos
+* [PEAK-Assistant](https://github.com/cisco-foundation-ai/PEAK-Assistant) - Threat hunting assistant aligned with the PEAK Framework by Cisco (Made public in Jan 2026)
 * [Argus](https://github.com/jasonxtn/Argus) - Information gathering toolkit/Recon. (3.3k stars as of Jan 2026)
