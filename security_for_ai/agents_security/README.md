@@ -4,6 +4,7 @@ This section covers security related agentic systems.
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
+| Feb 2026 | Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community | arXiv | [Paper](https://arxiv.org/pdf/2602.02613) | agent-to-agent, motlbook, agent societies | | |
 | Feb 2026 | OpenClaw Agents on Moltbook: Risky Instruction Sharing and Norm Enforcement in an Agent-Only Social Network | arXiv | [Paper](https://arxiv.org/pdf/2602.02625) | agent-to-agent communication, risky instruciton sharing openclaw moltbook | | |
 | Oct 2025 | DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents | NeurIPS 2025 | [Paper](https://arxiv.org/pdf/2506.12104) [NotebookLM](https://notebooklm.google.com/notebook/510eab94-5c4f-4741-83b1-45cf30932362)| injection isolation | [Code](https://github.com/SaFoLab-WISC/DRIFT)| [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/agents_security/reviews/injection_isolation_neurips_2025.md)|
 | Aug 2025 | Cloak, Honey, Trap: Proactive Defenses Against LLM Agents | Usenix Security 2025 | [Paper](https://www.usenix.org/system/files/usenixsecurity25-ayzenshteyn.pdf) [NotebookLM](https://notebooklm.google.com/notebook/5c28e013-06ca-47c7-b2f2-d648597de298) | defense, cloak, honey, trap | |[Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/agents_security/reviews/defend-llm-attack-agents.md)|
@@ -20,6 +21,7 @@ This section covers security related agentic systems.
 ## Blogs
 * [06-20-2025] [Blog](https://www.anthropic.com/research/agentic-misalignment) Agentic Misalignment: How LLMs could be insider threats by Anthropic. #misalignment #safety
 * [05-01-2025] AI Agents Are Here. So Are the Threats by Palo Alto Networks. [Link](https://unit42.paloaltonetworks.com/agentic-ai-threats/) #prompt-injection #vulnerable-tools #mitigation
+
 
 
 
