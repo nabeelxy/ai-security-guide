@@ -28,7 +28,9 @@ This section covers security related agentic systems.
 
 
 ## Notable Repos
+* [tiny-claw](https://github.com/jlia0/tinyclaw) TinyClaw. #agent #assistant
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) by Cisco. #agent-skills #scanner
+
 
 
 
