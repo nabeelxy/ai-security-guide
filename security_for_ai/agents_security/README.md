@@ -20,8 +20,10 @@ This section covers security related agentic systems.
 
 ## Blogs
 * [02-05-2026] [Blog](https://businessinsights.bitdefender.com/technical-advisory-openclaw-exploitation-enterprise-networks) Technical Advisory: OpenClaw Exploitation in Enterprise Networks by BitDefender. #openclaw #assistants
+* [02-02-2026] [Blog](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface) From magic to malware: How OpenClaw's agent skills become an attack surface by 1Password. #openclaw #skills #malware
 * [06-20-2025] [Blog](https://www.anthropic.com/research/agentic-misalignment) Agentic Misalignment: How LLMs could be insider threats by Anthropic. #misalignment #safety
 * [05-01-2025] AI Agents Are Here. So Are the Threats by Palo Alto Networks. [Link](https://unit42.paloaltonetworks.com/agentic-ai-threats/) #prompt-injection #vulnerable-tools #mitigation
+
 
 
 
