@@ -26,6 +26,8 @@ This section covers security related agentic systems.
 
 
 
+## Notable Repos
+* [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) by Cisco. #agent-skills #scanner
 
 
 
