@@ -84,6 +84,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 * [Fall 2025] Agentic AI by Berekely [Site](https://rdi.berkeley.edu/agentic-ai/f25) #agentic #security  #safety
 
 ## Blogs
+* [02-10-2026] [Report](https://www-cdn.anthropic.com/f21d93f21602ead5cdbecb8c8e1c765759d9e232.pdf) Sabotage Risk Report: Claude Opus 4.6 by Anthropic #risk
 * [11-17-2025] [Blog](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf) Disrupting the first reported AI-orchestrated cyber espionage campaign by Anthropic. #agents #llm-misuse #campaign
 * [11-03-2025] [Blog](https://www.anthropic.com/research/building-ai-cyber-defenders) Building AI for cyber defenders by Anthropic. #vulnerability-discovery #cyber-reasoning
 * [08-15-2025] [Report](https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf) Threat Intelligence Report: August 2025 by Anthropic. #vibe-hacking #llm-misuse #cybercrime
