@@ -81,6 +81,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 | Dec 2023 | Jailbroken: How Does LLM Safety Training Fail? | Neurips | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/fd6613131889a4b656206c50a8bd7790-Paper-Conference.pdf) [NotebookLM](https://notebooklm.google.com/notebook/b4001368-9dde-4d24-85e7-f10c22e04cd2)| jailbreak | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/llm_security/reviews/jailbreak-2024-neurips.md)|
 
 ## Misc
+* [02-18-2026] How safe are gpt-oss-safeguard models? [Blog](https://blogs.cisco.com/ai/how-safe-are-gpt-oss-safeguard-models) #open-weight #prompt-injection
 * [01-11-2026] Agents in the Wild Safety workshop colocated at ICLR - [Site](https://agentwild-workshop.github.io/) #agents #safety
 * [Fall 2025] Agentic AI by Berekely [Site](https://rdi.berkeley.edu/agentic-ai/f25) #agentic #security  #safety
 
