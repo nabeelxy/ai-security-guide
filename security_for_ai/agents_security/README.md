@@ -4,6 +4,7 @@ This section covers security related agentic systems.
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
+| Feb 2026 | Systems Security Foundations for Agentic Computing | arXiv | [Paper](https://arxiv.org/pdf/2512.01295) | agent, system security | | |
 | Feb 2026 | Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community | arXiv | [Paper](https://arxiv.org/pdf/2602.02613) | agent-to-agent, motlbook, agent societies | | |
 | Feb 2026 | OpenClaw Agents on Moltbook: Risky Instruction Sharing and Norm Enforcement in an Agent-Only Social Network | arXiv | [Paper](https://arxiv.org/pdf/2602.02625) | agent-to-agent communication, risky instruciton sharing openclaw moltbook | | |
 | Oct 2025 | DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents | NeurIPS 2025 | [Paper](https://arxiv.org/pdf/2506.12104) [NotebookLM](https://notebooklm.google.com/notebook/510eab94-5c4f-4741-83b1-45cf30932362)| injection isolation | [Code](https://github.com/SaFoLab-WISC/DRIFT)| [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/agents_security/reviews/injection_isolation_neurips_2025.md)|
@@ -30,6 +31,7 @@ This section covers security related agentic systems.
 ## Notable Repos
 * [tiny-claw](https://github.com/jlia0/tinyclaw) TinyClaw. #agent #assistant
 * [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) by Cisco. #agent-skills #scanner
+
 
 
 
