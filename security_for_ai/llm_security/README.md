@@ -23,6 +23,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- |  --- | --- | --- | --- | --- | --- |
+| Feb 2026 | Large Reasoning Models Are Autonomous Jailbreak Agents | arXiv | [Paper](https://arxiv.org/pdf/2508.04039) | jailbreak, agentic, LRM | | |
 | Feb 2026 | Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs | NDSS 2026 | [Paper](https://arxiv.org/pdf/2504.05147) | prompt sanitization | | |
 | Jan 2026 | Shaping capabilities with token-level data filtering | arXiv, Anthropic, Stanford | [Paper](https://arxiv.org/pdf/2601.21571) | capability shaping, safety alignment, jailbreak-prevention | [Github](https://github.com/neilrathi/token-filtering)| |
 | Jan 2026 |  Chasing Shadows: Pitfalls in LLM Security Research | NDSS 2026 | [pdf](https://arxiv.org/pdf/2512.09549) [website](https://llmpitfalls.org/) [NotebookLM](https://notebooklm.google.com/notebook/1dba0903-0bce-45be-911d-c7bc0744cec9)| LLM research pitfalls, LLM pipeline | | [Review](reviews/pitfalls_llm_security.md)|
