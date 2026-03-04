@@ -9,6 +9,7 @@ Offensive security go through the following phases:
 
 
 ## Recent Publications
-| Date |  Title | Venue | Materials | Tags | Short Summary | Summary |
+| Date |  Title | Venue | Materials | Tags | Code | Summary |
 | --- |  --- | --- | --- | --- | --- | --- |
+| Mar 2025 | Teams of LLM Agents can Exploit Zero-Day Vulnerabilities | arXiv | [Paper](https://arxiv.org/pdf/2406.01637) | vulerability, exploiting, agents | | |
 | Feb 2025 |  Generative Artificial Intelligence and Offensive Cyber-Operations | Stanford | [Paper](https://stacks.stanford.edu/file/druid:vw503rm7033/GenAI%20Offensive%20Cyber%20Lit%20Review%20Part%20One.pdf) [NotebookLM](https://notebooklm.google.com/notebook/c3748070-9f94-4037-9bf5-e9b629032bd7) [Podcast](https://notebooklm.google.com/notebook/c3748070-9f94-4037-9bf5-e9b629032bd7/audio)| offensive security, kill chain, offensive | | |
