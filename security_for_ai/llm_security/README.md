@@ -23,6 +23,7 @@ For various kinds of attacks, we will be exploring possible defenses as well.
 
 | Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- |  --- | --- | --- | --- | --- | --- |
+| Feb 2026 | Large-scale online deanonymization with LLMs | arXiv | [Paper](https://arxiv.org/pdf/2602.16800v1) | deanonymization, privacy | | |
 | Feb 2026 | Large Reasoning Models Are Autonomous Jailbreak Agents | arXiv | [Paper](https://arxiv.org/pdf/2508.04039) | jailbreak, agentic, LRM | | |
 | Feb 2026 | Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs | NDSS 2026 | [Paper](https://arxiv.org/pdf/2504.05147) | prompt sanitization | | |
 | Jan 2026 | Shaping capabilities with token-level data filtering | arXiv, Anthropic, Stanford | [Paper](https://arxiv.org/pdf/2601.21571) | capability shaping, safety alignment, jailbreak-prevention | [Github](https://github.com/neilrathi/token-filtering)| |
