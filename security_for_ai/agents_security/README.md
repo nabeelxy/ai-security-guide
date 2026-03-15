@@ -22,6 +22,7 @@ This section covers security related agentic systems.
 
 
 ## Blogs
+* [02-26-2026] [Blog](https://christian-schneider.net/blog/persistent-memory-poisoning-in-ai-agents/) Memory poisoning in AI agents: exploits that wait. #MINJA #posioning
 * [02-05-2026] [Blog](https://businessinsights.bitdefender.com/technical-advisory-openclaw-exploitation-enterprise-networks) Technical Advisory: OpenClaw Exploitation in Enterprise Networks by BitDefender. #openclaw #assistants
 * [02-02-2026] [Blog](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface) From magic to malware: How OpenClaw's agent skills become an attack surface by 1Password. #openclaw #skills #malware
 * [01-28-2026] [Blog](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare) Personal AI Agents like OpenClaw Are a Security Nightmare by Cisco. #openclaw #malicious
