@@ -4,6 +4,7 @@ This section covers security related agentic systems.
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
+| Mar 2026 | You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents | arXiv | [Paper](https://arxiv.org/pdf/2603.11862v1) | data leakage, privacy | | |
 | Feb 2026 | SKILL-INJECT: Measuring Agent Vulnerability to Skill File Attacks | arXiv | [Paper](SKILL-INJECT: Measuring Agent Vulnerability to Skill File Attacks) | skill injection, malicious skills | | |
 | Feb 2026 | Systems Security Foundations for Agentic Computing | arXiv | [Paper](https://arxiv.org/pdf/2512.01295) | agent, system security | | |
 | Feb 2026 | Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community | arXiv | [Paper](https://arxiv.org/pdf/2602.02613) | agent-to-agent, motlbook, agent societies | | |
