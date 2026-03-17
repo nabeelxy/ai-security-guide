@@ -3,6 +3,7 @@
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- |
+| Mar 2025 | Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios | arXiv | [Paper](https://arxiv.org/pdf/2603.11214) | perforance measurement, agentic threat hunting | | |
 | Dec 2025 | Revealing the True Indicators: Understanding and Improving IoC Extraction From Threat Reports | ACSAC 2025 | [Paper](https://arxiv.org/pdf/2506.11325) | ioc, threat reports | | |
 | Nov 2025 | LLM-driven Provenance Forensics for Threat Intelligence and Detection | arXiv | [Paper](https://arxiv.org/pdf/2508.21323) | ioc, threat reports, prevenance | | |
 | Nov 2025 | Can IOCs impose cost? The effects of publishing threat intelligence on adversary behavior | CCS 2025 | | IOC publication, delay | | |
