@@ -3,7 +3,7 @@
 ## Recent Publications
 | Date | Title | Venue | Material | Tags | Code | Summary | 
 | --- | --- | --- | --- | --- | --- | --- |
-| Mar 2025 | Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios | arXiv | [Paper](https://arxiv.org/pdf/2603.11214) | perforance measurement, agentic threat hunting | | |
+| Mar 2025 | Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios | arXiv | [Paper](https://arxiv.org/pdf/2603.11214) | perforance measurement, agentic attacks | | |
 | Dec 2025 | Revealing the True Indicators: Understanding and Improving IoC Extraction From Threat Reports | ACSAC 2025 | [Paper](https://arxiv.org/pdf/2506.11325) | ioc, threat reports | | |
 | Nov 2025 | LLM-driven Provenance Forensics for Threat Intelligence and Detection | arXiv | [Paper](https://arxiv.org/pdf/2508.21323) | ioc, threat reports, prevenance | | |
 | Nov 2025 | Can IOCs impose cost? The effects of publishing threat intelligence on adversary behavior | CCS 2025 | | IOC publication, delay | | |
@@ -23,6 +23,7 @@
 | 2017 | TTPDrill: Automatic and Accurate Extraction of Threat Actions from Unstructured Text of CTI Sources | ACSAC 2017 | [Paper](https://dl.acm.org/doi/10.1145/3134600.3134646) | cti, nlp, ir, threat-action oncology, stix | | |
 
 ## Blogs
+* [2026-03-13] [Blog](https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios) How do frontier AI agents perform in multi-step cyber-attack scenarios? #autonomous-attacks #cyberattacks #measurement
 * [2026-01-29] [Blog](https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/) Turning threat reports into detection insights with AI by Microsoft. #TTPs #MITRE_ATT&CK #ThreatReports
 
 ## Repos
