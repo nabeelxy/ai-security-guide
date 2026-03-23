@@ -7,6 +7,7 @@ addressing them with responsible and accurate responses.
 ## Recent Publications
 | Date |Title | Venue | Material | Tags | Code | Summary |
 |---|---|---|---|---|---|---|
+| Mar 2026 | On the (In)Security of Loading Machine Learning Models | IEEE S&P | [Paper](https://arxiv.org/pdf/2509.06703) | malicious models, model hubs | | |
 | Jan 2026 | Building Production-Ready Probes For Gemini | Google DeepMind | [Paper](https://arxiv.org/pdf/2601.11516) [NotebookLM](https://notebooklm.google.com/notebook/01c14191-4cc0-4595-b5d5-b5466f4e8a71)| proboes, misuse-detection, alphaevolve | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/red_teaming/reviews/gemini_probes_jan_2025.md)|
 | Jan 2026 | Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks | Anthropic | [Paper](https://arxiv.org/pdf/2601.04603) [NotebookLM](https://notebooklm.google.com/notebook/ab0eff56-dfd1-4991-9553-07b22a96844b)| probes, jailbreak, defense-in-depth | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/red_teaming/reviews/constitutional_classifiers_plusplus.md)|
 | Dec 2025 | COMPARING AI AGENTS TO CYBERSECURITY PROFESSIONALS IN REAL-WORLD PENETRATION TESTING | Stanford | [Paper](https://arxiv.org/pdf/2512.09882v1) [NotebookLM](https://notebooklm.google.com/notebook/9c839956-adae-4c79-b284-f4ccfd7214e1)| agents, pentesting | | [Review](https://github.com/nabeelxy/ai-security-guide/blob/main/security_for_ai/red_teaming/reviews/ai_agents_vs_cs_prof.md)|
