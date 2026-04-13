@@ -1,0 +1,12 @@
+# Docusaurus build output
+.docusaurus/
+build/
+
+# Dependencies
+node_modules/
+
+# npm
+package-lock.json
+
+# OS
+.DS_Store

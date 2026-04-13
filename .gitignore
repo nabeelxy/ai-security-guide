@@ -1,0 +1,15 @@
+# Docusaurus
+site/node_modules/
+site/.docusaurus/
+site/build/
+site/package-lock.json
+
+# Downloaded papers (large binaries — tracked via manifest.json instead)
+raw/papers/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

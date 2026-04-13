@@ -1,0 +1,1991 @@
+{
+  "downloaded": [
+    {
+      "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf",
+      "text": "Report",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "file": "raw/papers/security_for_ai/agents_security/1018686.pdf",
+      "size": 3688189
+    },
+    {
+      "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf",
+      "text": "Report",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "file": "raw/papers/security_for_ai/red_teaming/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf",
+      "size": 1976572
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://arxiv.org/pdf/2406.01637",
+      "text": "Paper",
+      "source_file": "ai_for_offensive_security/readme.md",
+      "sources": [
+        "ai_for_offensive_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.02548",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.15216",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1174-nong.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-277-zhang-yinyuan.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.05074",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2405.06124",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://openreview.net/pdf?id=X8oa3cJEfv",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='openreview.net', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.06228",
+      "text": "Paper",
+      "source_file": "ai_for_security/binary_analysis/README.md",
+      "sources": [
+        "ai_for_security/binary_analysis/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.12594",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.arxiv.org/pdf/2512.10029",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2511.19477",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.arxiv.org/pdf/2509.21590",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.00374",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.12710",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3589334.3645683",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3576915.3616584",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://baigd.github.io/files/SIGMETRICS23.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='baigd.github.io', port=443): Max retries exceeded with"
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity23-kim-young-min.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/sec22-lin-xu.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3477314.3507098",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-kapravelos.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.05310",
+      "text": "Paper",
+      "source_file": "ai_for_security/browser_security/readme.md",
+      "sources": [
+        "ai_for_security/browser_security/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-402-zhang-zhisheng.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/deepfakes/README.md",
+      "sources": [
+        "ai_for_security/deepfakes/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-386-zong.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/deepfakes/README.md",
+      "sources": [
+        "ai_for_security/deepfakes/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2409.17416",
+      "text": "Paper",
+      "source_file": "ai_for_security/deepfakes/README.md",
+      "sources": [
+        "ai_for_security/deepfakes/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/sec24fall-prepub-1479-layton.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/deepfakes/README.md",
+      "sources": [
+        "ai_for_security/deepfakes/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2404.16212",
+      "text": "Paper",
+      "source_file": "ai_for_security/deepfakes/README.md",
+      "sources": [
+        "ai_for_security/deepfakes/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-250-kireev.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/disinformation/README.md",
+      "sources": [
+        "ai_for_security/disinformation/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.09549v1",
+      "text": "Paper",
+      "source_file": "ai_for_security/dns_security/README.md",
+      "sources": [
+        "ai_for_security/dns_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.05367",
+      "text": "Paper",
+      "source_file": "ai_for_security/dns_security/README.md",
+      "sources": [
+        "ai_for_security/dns_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-williams.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/dns_security/README.md",
+      "sources": [
+        "ai_for_security/dns_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-jia-zian.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/dns_security/README.md",
+      "sources": [
+        "ai_for_security/dns_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://openreview.net/forum?id=MQ6NAXJyqg",
+      "text": "Paper",
+      "source_file": "ai_for_security/dns_security/README.md",
+      "sources": [
+        "ai_for_security/dns_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='openreview.net', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.11763",
+      "text": "Paper",
+      "source_file": "ai_for_security/dns_security/README.md",
+      "sources": [
+        "ai_for_security/dns_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2303.13521",
+      "text": "Paper",
+      "source_file": "ai_for_security/email_security/README.md",
+      "sources": [
+        "ai_for_security/email_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2304.01238",
+      "text": "Paper",
+      "source_file": "ai_for_security/email_security/README.md",
+      "sources": [
+        "ai_for_security/email_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.21039",
+      "text": "Paper",
+      "source_file": "ai_for_security/foundation_models/README.md",
+      "sources": [
+        "ai_for_security/foundation_models/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2411.14571",
+      "text": "Paper",
+      "source_file": "ai_for_security/misc/readme.md",
+      "sources": [
+        "ai_for_security/misc/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2508.02921v1",
+      "text": "Paper",
+      "source_file": "ai_for_security/misc/readme.md",
+      "sources": [
+        "ai_for_security/misc/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.13076",
+      "text": "Paper",
+      "source_file": "ai_for_security/misc/readme.md",
+      "sources": [
+        "ai_for_security/misc/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.04843",
+      "text": "Paper",
+      "source_file": "ai_for_security/misc/readme.md",
+      "sources": [
+        "ai_for_security/misc/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.05408",
+      "text": "Paper",
+      "source_file": "ai_for_security/misc/readme.md",
+      "sources": [
+        "ai_for_security/misc/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.04338",
+      "text": "Paper",
+      "source_file": "ai_for_security/supply_chain/README.md",
+      "sources": [
+        "ai_for_security/supply_chain/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "http://www.arxiv.org/pdf/2506.14466",
+      "text": "Paper",
+      "source_file": "ai_for_security/supply_chain/README.md",
+      "sources": [
+        "ai_for_security/supply_chain/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2603.11214",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.11325",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2508.21323",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.11988",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.20287v1",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.06701v1",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2412.10872",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.21060",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2407.05194",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2307.10214",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.17068",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2204.02685",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.02655",
+      "text": "Paper",
+      "source_file": "ai_for_security/threat_hunting/README.md",
+      "sources": [
+        "ai_for_security/threat_hunting/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2408.05667",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.18465",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-483-ji.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1225-roy.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.20170",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.13746",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.10110",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://openreview.net/pdf?id=P0x8J5gCPP",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='openreview.net', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2308.01990",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.14397",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3678890.3678925",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://raid2024.github.io/papers/raid2024-19.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='raid2024.github.io', port=443): Max retries exceeded w"
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-thirumuruganathan_1.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-hao-qingying.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2405.07496",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://usenix.org/system/files/usenixsecurity24-li-yuexin.pdf",
+      "text": "paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='usenix.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2404.08144",
+      "text": "paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2208.12370",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zheng",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.19181",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2209.01454",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/sec22-kasturi.pdf",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-495-du.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/adversarial_machine_learning/README.md",
+      "sources": [
+        "security_for_ai/adversarial_machine_learning/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-389-lin-chenhao.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/adversarial_machine_learning/README.md",
+      "sources": [
+        "security_for_ai/adversarial_machine_learning/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.02260",
+      "text": "Paper",
+      "source_file": "security_for_ai/adversarial_machine_learning/README.md",
+      "sources": [
+        "security_for_ai/adversarial_machine_learning/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.00652",
+      "text": "Paper",
+      "source_file": "security_for_ai/adversarial_machine_learning/README.md",
+      "sources": [
+        "security_for_ai/adversarial_machine_learning/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2405.02764",
+      "text": "Paper",
+      "source_file": "security_for_ai/adversarial_machine_learning/README.md",
+      "sources": [
+        "security_for_ai/adversarial_machine_learning/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-ling.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/adversarial_machine_learning/README.md",
+      "sources": [
+        "security_for_ai/adversarial_machine_learning/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/sec24summer-prepub-617-zhang-boyang.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/adversarial_machine_learning/README.md",
+      "sources": [
+        "security_for_ai/adversarial_machine_learning/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2603.11862v1",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.01295",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2602.02613",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2602.02625",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.12104",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity25-ayzenshteyn.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.02644?",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3716628",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.08689v2",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2407.19354",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.05459",
+      "text": "Paper",
+      "source_file": "security_for_ai/agents_security/README.md",
+      "sources": [
+        "security_for_ai/agents_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2511.20703",
+      "text": "Paper",
+      "source_file": "security_for_ai/benchmarks/README.md",
+      "sources": [
+        "security_for_ai/benchmarks/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-893-shen.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/benchmarks/README.md",
+      "sources": [
+        "security_for_ai/benchmarks/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2412.14470",
+      "text": "Paper",
+      "source_file": "security_for_ai/benchmarks/README.md",
+      "sources": [
+        "security_for_ai/benchmarks/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2408.01605",
+      "text": "Paper",
+      "source_file": "security_for_ai/benchmarks/README.md",
+      "sources": [
+        "security_for_ai/benchmarks/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/1809.09600",
+      "text": "Paper",
+      "source_file": "security_for_ai/benchmarks/README.md",
+      "sources": [
+        "security_for_ai/benchmarks/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.11207",
+      "text": "Paper",
+      "source_file": "security_for_ai/explainability/README.md",
+      "sources": [
+        "security_for_ai/explainability/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2602.16800v1",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2508.04039",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.05147",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2601.21571",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.09549",
+      "text": "pdf",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://jaehanwork.github.io/files/moevil.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='jaehanwork.github.io', port=443): Max retries exceeded"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2511.10287",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.26418",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.07192",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-882-kim-hanna.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-746-villa.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-606-wu-yixin-auditing.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-590-wu-yixin-generation.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-541-wang-xunguang.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-469-pasquini.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-464-liu-yupei_0.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-341-zhang-shenyi.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1176-wang-yining.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.15645",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.12913",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.arxiv.org/pdf/2506.07330",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.17424",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://csdl-downloads.ieeecomputer.org/proceedings/sp/2025/2236/00/223600a392.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='csdl-downloads.ieeecomputer.org', port=443): Max retri"
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714624",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714654",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714632",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.17004",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.2365-6/494149131_1055202283127335_8271555569134498093_n.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='scontent-lax3-2.xx.fbcdn.net', port=443): Max retries "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.10337",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2503.02574",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.18649",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.07557",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.01822",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2503.16431?",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2412.07724",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2412.03556",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.04783",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.02644",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-lin-zilong.pdf",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.08419",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md",
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2404.13208",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.04957",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2307.15043",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md",
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/fd6613131889a4b656206c50a8bd7790-Paper-Conference.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='proceedings.neurips.cc', port=443): Max retries exceed"
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/f21d93f21602ead5cdbecb8c8e1c765759d9e232.pdf",
+      "text": "Report",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www-cdn.anthropic.com', port=443): Max retries exceede"
+    },
+    {
+      "url": "https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf",
+      "text": "Blog",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='assets.anthropic.com', port=443): Max retries exceeded"
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf",
+      "text": "Report",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www-cdn.anthropic.com', port=443): Max retries exceede"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2211.14719",
+      "text": "Cai et al., NeurIPS 2022",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2304.12298",
+      "text": "Shi et al., Usenix Security 2023",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2305.01219",
+      "text": "Zhao et al., EMNLP 2023",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.18603",
+      "text": "You et al., EMNLP 2023",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2304.14475",
+      "text": "Li et al., ACL 2023",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2301.02496",
+      "text": "Yang et al., Journal of SE 2023",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.03007",
+      "text": "Wang et al., 2024",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.12242",
+      "text": "Xiang et al., ICLR 2024",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.13355",
+      "text": "Li et al., ICLR 2024",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.05566",
+      "text": "Hubinger et al., 2024",
+      "source_file": "security_for_ai/llm_security/backdoor.md",
+      "sources": [
+        "security_for_ai/llm_security/backdoor.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.17550",
+      "text": "Paper Apr 2025",
+      "source_file": "security_for_ai/llm_security/hallucination.md",
+      "sources": [
+        "security_for_ai/llm_security/hallucination.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.11817",
+      "text": "Paper Feb 2025",
+      "source_file": "security_for_ai/llm_security/hallucination.md",
+      "sources": [
+        "security_for_ai/llm_security/hallucination.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.01301",
+      "text": "Paper April 2024",
+      "source_file": "security_for_ai/llm_security/hallucination.md",
+      "sources": [
+        "security_for_ai/llm_security/hallucination.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2310.04451",
+      "text": "Liu et al. ICLR 2024",
+      "source_file": "security_for_ai/llm_security/jailbreak.md",
+      "sources": [
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf",
+      "text": "Anthropic 2024",
+      "source_file": "security_for_ai/llm_security/jailbreak.md",
+      "sources": [
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www-cdn.anthropic.com', port=443): Max retries exceede"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.11753",
+      "text": "Jiang et al., 2024",
+      "source_file": "security_for_ai/llm_security/jailbreak.md",
+      "sources": [
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2311.03191",
+      "text": "Li et al., 2023",
+      "source_file": "security_for_ai/llm_security/jailbreak.md",
+      "sources": [
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2404.01833",
+      "text": "Microsoft, 2024",
+      "source_file": "security_for_ai/llm_security/jailbreak.md",
+      "sources": [
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2308.03825",
+      "text": "Shen et al., 2023",
+      "source_file": "security_for_ai/llm_security/jailbreak.md",
+      "sources": [
+        "security_for_ai/llm_security/jailbreak.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2511.20597",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.01354",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.09023",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2507.02735",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.09956v1",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.08837",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.18575",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2503.18813",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2312.14197",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2501.18837",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.13352",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.02691",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-liu-yupei.pdf",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.05499",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.14720",
+      "text": "paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2302.12173",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/prompt_injection_pub.md",
+      "sources": [
+        "security_for_ai/llm_security/prompt_injection_pub.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2503.23278?",
+      "text": "Paper",
+      "source_file": "security_for_ai/mcp_security/README.md",
+      "sources": [
+        "security_for_ai/mcp_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.12757",
+      "text": "Paper",
+      "source_file": "security_for_ai/mcp_security/README.md",
+      "sources": [
+        "security_for_ai/mcp_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-980-shafran.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/rag_security/README.md",
+      "sources": [
+        "security_for_ai/rag_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2501.02968",
+      "text": "Paper",
+      "source_file": "security_for_ai/rag_security/README.md",
+      "sources": [
+        "security_for_ai/rag_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.16429",
+      "text": "Paper",
+      "source_file": "security_for_ai/rag_security/README.md",
+      "sources": [
+        "security_for_ai/rag_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2501.18636",
+      "text": "Paper",
+      "source_file": "security_for_ai/rag_security/README.md",
+      "sources": [
+        "security_for_ai/rag_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2405.13401",
+      "text": "Paper",
+      "source_file": "security_for_ai/rag_security/README.md",
+      "sources": [
+        "security_for_ai/rag_security/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2509.06703",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2601.11516",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2601.04603",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.09882v1",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://www.arxiv.org/pdf/2511.17666",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2506.14682",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2403.03593",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.04249",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2311.07689",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2308.14367",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2109.04344",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2107.08590",
+      "text": "Paper",
+      "source_file": "security_for_ai/red_teaming/README.md",
+      "sources": [
+        "security_for_ai/red_teaming/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2601.10527",
+      "text": "Paper",
+      "source_file": "security_for_ai/safety_bias_fairness/README.md",
+      "sources": [
+        "security_for_ai/safety_bias_fairness/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2601.11886",
+      "text": "Paper",
+      "source_file": "security_for_ai/safety_bias_fairness/README.md",
+      "sources": [
+        "security_for_ai/safety_bias_fairness/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.00174",
+      "text": "Paper",
+      "source_file": "security_for_ai/safety_bias_fairness/README.md",
+      "sources": [
+        "security_for_ai/safety_bias_fairness/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2412.14093",
+      "text": "Paper",
+      "source_file": "security_for_ai/safety_bias_fairness/README.md",
+      "sources": [
+        "security_for_ai/safety_bias_fairness/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2411.18895",
+      "text": "Paper",
+      "source_file": "security_for_ai/safety_bias_fairness/README.md",
+      "sources": [
+        "security_for_ai/safety_bias_fairness/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.02089v1",
+      "text": "Paper",
+      "source_file": "security_for_ai/safety_bias_fairness/README.md",
+      "sources": [
+        "security_for_ai/safety_bias_fairness/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2408.17285",
+      "text": "Paper",
+      "source_file": "security_for_ai/safety_bias_fairness/README.md",
+      "sources": [
+        "security_for_ai/safety_bias_fairness/README.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2504.21205v1",
+      "text": "Paper",
+      "source_file": "security_for_ai/vibe_coding/readme.md",
+      "sources": [
+        "security_for_ai/vibe_coding/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2503.13654v1",
+      "text": "Paper",
+      "source_file": "security_for_ai/vibe_coding/readme.md",
+      "sources": [
+        "security_for_ai/vibe_coding/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2409.07368v3",
+      "text": "Paper",
+      "source_file": "security_for_ai/vibe_coding/readme.md",
+      "sources": [
+        "security_for_ai/vibe_coding/readme.md"
+      ],
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+    }
+  ],
+  "skipped": []
+}

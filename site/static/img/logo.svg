@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Shield background -->
+  <path
+    d="M50 8 L88 22 L88 52 C88 72 70 88 50 96 C30 88 12 72 12 52 L12 22 Z"
+    fill="url(#shieldGrad)"
+    stroke="none"
+  />
+  <!-- Circuit pattern on shield -->
+  <path
+    d="M35 42 L35 36 L50 36 L50 30"
+    stroke="rgba(255,255,255,0.6)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M65 42 L65 36 L50 36"
+    stroke="rgba(255,255,255,0.6)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M35 58 L35 64 L50 64 L50 70"
+    stroke="rgba(255,255,255,0.6)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M65 58 L65 64 L50 64"
+    stroke="rgba(255,255,255,0.6)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <!-- Lock body -->
+  <rect x="36" y="48" width="28" height="20" rx="3" fill="white" opacity="0.9"/>
+  <!-- Lock shackle -->
+  <path
+    d="M40 48 L40 42 C40 36 60 36 60 42 L60 48"
+    stroke="white"
+    stroke-width="4"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.9"
+  />
+  <!-- Keyhole -->
+  <circle cx="50" cy="56" r="3" fill="url(#shieldGrad)"/>
+  <rect x="48.5" y="56" width="3" height="6" rx="1.5" fill="url(#shieldGrad)"/>
+
+  <defs>
+    <linearGradient id="shieldGrad" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0077b6"/>
+      <stop offset="100%" stop-color="#00b4d8"/>
+    </linearGradient>
+  </defs>
+</svg>
