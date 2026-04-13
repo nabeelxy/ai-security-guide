@@ -2,11 +2,8 @@
 .docusaurus/
 build/
 
-# Dependencies
+# Dependencies — lock file IS committed (needed for reproducible CI builds)
 node_modules/
-
-# npm
-package-lock.json
 
 # OS
 .DS_Store
