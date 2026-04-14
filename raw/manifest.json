@@ -19,9 +19,7 @@
       ],
       "file": "raw/papers/security_for_ai/red_teaming/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf",
       "size": 1976572
-    }
-  ],
-  "failed": [
+    },
     {
       "url": "https://arxiv.org/pdf/2406.01637",
       "text": "Paper",
@@ -29,7 +27,9 @@
       "sources": [
         "ai_for_offensive_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2406.01637\", wait",
+      "file": "raw/papers/ai_for_offensive_security/readme.md/arxiv_2406.01637.pdf",
+      "size": 304645
     },
     {
       "url": "https://arxiv.org/pdf/2506.02548",
@@ -38,7 +38,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.02548\", wait",
+      "file": "raw/papers/ai_for_security/binary_analysis/arxiv_2506.02548.pdf",
+      "size": 1145681
     },
     {
       "url": "https://arxiv.org/pdf/2505.15216",
@@ -47,7 +49,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2505.15216\", wait",
+      "file": "raw/papers/ai_for_security/binary_analysis/arxiv_2505.15216.pdf",
+      "size": 13440413
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1174-nong.pdf",
@@ -56,7 +60,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/binary_analysis/sec25cycle1-prepub-1174-nong.pdf",
+      "size": 929017
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-277-zhang-yinyuan.pdf",
@@ -65,7 +71,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/binary_analysis/sec25cycle1-prepub-277-zhang-yinyuan.pdf",
+      "size": 1051355
     },
     {
       "url": "https://arxiv.org/pdf/2506.05074",
@@ -74,7 +82,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.05074\", wait",
+      "file": "raw/papers/ai_for_security/binary_analysis/arxiv_2506.05074.pdf",
+      "size": 348702
     },
     {
       "url": "https://arxiv.org/pdf/2405.06124",
@@ -83,7 +93,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2405.06124\", wait",
+      "file": "raw/papers/ai_for_security/binary_analysis/arxiv_2405.06124.pdf",
+      "size": 1690147
     },
     {
       "url": "https://openreview.net/pdf?id=X8oa3cJEfv",
@@ -92,7 +104,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='openreview.net', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://openreview.net/pdf?id=X8oa3cJEf",
+      "file": "raw/papers/ai_for_security/binary_analysis/paper_5d2817f0f0ed.pdf",
+      "size": 1060955
     },
     {
       "url": "https://arxiv.org/pdf/2306.06228",
@@ -101,7 +115,9 @@
       "sources": [
         "ai_for_security/binary_analysis/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2306.06228\", wait",
+      "file": "raw/papers/ai_for_security/binary_analysis/arxiv_2306.06228.pdf",
+      "size": 1075136
     },
     {
       "url": "https://arxiv.org/pdf/2512.12594",
@@ -110,7 +126,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2512.12594\", wait",
+      "file": "raw/papers/ai_for_security/browser_security/arxiv_2512.12594.pdf",
+      "size": 775785
     },
     {
       "url": "https://www.arxiv.org/pdf/2512.10029",
@@ -119,7 +137,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.arxiv.org/pdf/2512.10029\", ",
+      "file": "raw/papers/ai_for_security/browser_security/arxiv_2512.10029.pdf",
+      "size": 1250145
     },
     {
       "url": "https://arxiv.org/pdf/2511.19477",
@@ -128,7 +148,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2511.19477\", wait",
+      "file": "raw/papers/ai_for_security/browser_security/arxiv_2511.19477.pdf",
+      "size": 2630324
     },
     {
       "url": "https://www.arxiv.org/pdf/2509.21590",
@@ -137,7 +159,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.arxiv.org/pdf/2509.21590\", ",
+      "file": "raw/papers/ai_for_security/browser_security/arxiv_2509.21590.pdf",
+      "size": 2012573
     },
     {
       "url": "https://arxiv.org/pdf/2406.00374",
@@ -146,7 +170,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2406.00374\", wait",
+      "file": "raw/papers/ai_for_security/browser_security/arxiv_2406.00374.pdf",
+      "size": 1257479
     },
     {
       "url": "https://arxiv.org/pdf/2406.12710",
@@ -155,7 +181,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2406.12710\", wait",
+      "file": "raw/papers/ai_for_security/browser_security/arxiv_2406.12710.pdf",
+      "size": 4896366
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3589334.3645683",
@@ -164,7 +192,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3589",
+      "file": "raw/papers/ai_for_security/browser_security/acm_3589334.3645683.pdf",
+      "size": 1775958
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3576915.3616584",
@@ -173,7 +203,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3576",
+      "file": "raw/papers/ai_for_security/browser_security/acm_3576915.3616584.pdf",
+      "size": 1666709
     },
     {
       "url": "https://baigd.github.io/files/SIGMETRICS23.pdf",
@@ -182,7 +214,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='baigd.github.io', port=443): Max retries exceeded with"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://baigd.github.io/files/SIGMETRIC",
+      "file": "raw/papers/ai_for_security/browser_security/SIGMETRICS23.pdf",
+      "size": 3588658
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity23-kim-young-min.pdf",
@@ -191,7 +225,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/browser_security/usenixsecurity23-kim-young-min.pdf",
+      "size": 907450
     },
     {
       "url": "https://www.usenix.org/system/files/sec22-lin-xu.pdf",
@@ -200,7 +236,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/sec",
+      "file": "raw/papers/ai_for_security/browser_security/sec22-lin-xu.pdf",
+      "size": 865938
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3477314.3507098",
@@ -209,7 +247,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3477",
+      "file": "raw/papers/ai_for_security/browser_security/acm_3477314.3507098.pdf",
+      "size": 1266339
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-kapravelos.pdf",
@@ -218,7 +258,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/browser_security/sec14-paper-kapravelos.pdf",
+      "size": 1998703
     },
     {
       "url": "https://arxiv.org/pdf/2406.05310",
@@ -227,7 +269,9 @@
       "sources": [
         "ai_for_security/browser_security/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2406.05310\", wait",
+      "file": "raw/papers/ai_for_security/browser_security/arxiv_2406.05310.pdf",
+      "size": 1259025
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-402-zhang-zhisheng.pdf",
@@ -236,7 +280,9 @@
       "sources": [
         "ai_for_security/deepfakes/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/deepfakes/sec25cycle1-prepub-402-zhang-zhisheng.pdf",
+      "size": 757827
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-386-zong.pdf",
@@ -245,7 +291,9 @@
       "sources": [
         "ai_for_security/deepfakes/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/deepfakes/sec25cycle1-prepub-386-zong.pdf",
+      "size": 2271791
     },
     {
       "url": "https://arxiv.org/pdf/2409.17416",
@@ -254,7 +302,9 @@
       "sources": [
         "ai_for_security/deepfakes/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2409.17416\", wait",
+      "file": "raw/papers/ai_for_security/deepfakes/arxiv_2409.17416.pdf",
+      "size": 842368
     },
     {
       "url": "https://www.usenix.org/system/files/sec24fall-prepub-1479-layton.pdf",
@@ -263,7 +313,9 @@
       "sources": [
         "ai_for_security/deepfakes/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/sec",
+      "file": "raw/papers/ai_for_security/deepfakes/sec24fall-prepub-1479-layton.pdf",
+      "size": 1230766
     },
     {
       "url": "https://arxiv.org/pdf/2404.16212",
@@ -272,7 +324,9 @@
       "sources": [
         "ai_for_security/deepfakes/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2404.16212\", wait",
+      "file": "raw/papers/ai_for_security/deepfakes/arxiv_2404.16212.pdf",
+      "size": 10851334
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-250-kireev.pdf",
@@ -281,7 +335,9 @@
       "sources": [
         "ai_for_security/disinformation/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/disinformation/sec25cycle1-prepub-250-kireev.pdf",
+      "size": 31690573
     },
     {
       "url": "https://arxiv.org/pdf/2502.09549v1",
@@ -290,7 +346,9 @@
       "sources": [
         "ai_for_security/dns_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.09549v1\", wa",
+      "file": "raw/papers/ai_for_security/dns_security/arxiv_2502.09549v1.pdf",
+      "size": 1452301
     },
     {
       "url": "https://arxiv.org/pdf/2502.05367",
@@ -299,7 +357,9 @@
       "sources": [
         "ai_for_security/dns_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.05367\", wait",
+      "file": "raw/papers/ai_for_security/dns_security/arxiv_2502.05367.pdf",
+      "size": 1239563
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-williams.pdf",
@@ -308,7 +368,9 @@
       "sources": [
         "ai_for_security/dns_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/dns_security/usenixsecurity24-williams.pdf",
+      "size": 3514411
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-jia-zian.pdf",
@@ -317,16 +379,9 @@
       "sources": [
         "ai_for_security/dns_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
-    },
-    {
-      "url": "https://openreview.net/forum?id=MQ6NAXJyqg",
-      "text": "Paper",
-      "source_file": "ai_for_security/dns_security/README.md",
-      "sources": [
-        "ai_for_security/dns_security/README.md"
-      ],
-      "error": "HTTPSConnectionPool(host='openreview.net', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/dns_security/usenixsecurity24-jia-zian.pdf",
+      "size": 2544791
     },
     {
       "url": "https://arxiv.org/pdf/2310.11763",
@@ -335,7 +390,9 @@
       "sources": [
         "ai_for_security/dns_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2310.11763\", wait",
+      "file": "raw/papers/ai_for_security/dns_security/arxiv_2310.11763.pdf",
+      "size": 1677200
     },
     {
       "url": "https://arxiv.org/pdf/2303.13521",
@@ -344,7 +401,9 @@
       "sources": [
         "ai_for_security/email_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2303.13521\", wait",
+      "file": "raw/papers/ai_for_security/email_security/arxiv_2303.13521.pdf",
+      "size": 375006
     },
     {
       "url": "https://arxiv.org/pdf/2304.01238",
@@ -353,7 +412,9 @@
       "sources": [
         "ai_for_security/email_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2304.01238\", wait",
+      "file": "raw/papers/ai_for_security/email_security/arxiv_2304.01238.pdf",
+      "size": 574321
     },
     {
       "url": "https://arxiv.org/pdf/2504.21039",
@@ -362,7 +423,9 @@
       "sources": [
         "ai_for_security/foundation_models/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.21039\", wait",
+      "file": "raw/papers/ai_for_security/foundation_models/arxiv_2504.21039.pdf",
+      "size": 811950
     },
     {
       "url": "https://arxiv.org/pdf/2411.14571",
@@ -371,7 +434,9 @@
       "sources": [
         "ai_for_security/misc/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2411.14571\", wait",
+      "file": "raw/papers/ai_for_security/misc/arxiv_2411.14571.pdf",
+      "size": 349748
     },
     {
       "url": "https://arxiv.org/pdf/2508.02921v1",
@@ -380,7 +445,9 @@
       "sources": [
         "ai_for_security/misc/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2508.02921v1\", wa",
+      "file": "raw/papers/ai_for_security/misc/arxiv_2508.02921v1.pdf",
+      "size": 1487983
     },
     {
       "url": "https://arxiv.org/pdf/2505.13076",
@@ -389,7 +456,9 @@
       "sources": [
         "ai_for_security/misc/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2505.13076\", wait",
+      "file": "raw/papers/ai_for_security/misc/arxiv_2505.13076.pdf",
+      "size": 609771
     },
     {
       "url": "https://arxiv.org/pdf/2505.04843",
@@ -398,7 +467,9 @@
       "sources": [
         "ai_for_security/misc/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2505.04843\", wait",
+      "file": "raw/papers/ai_for_security/misc/arxiv_2505.04843.pdf",
+      "size": 1680306
     },
     {
       "url": "https://arxiv.org/pdf/2504.05408",
@@ -407,7 +478,9 @@
       "sources": [
         "ai_for_security/misc/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.05408\", wait",
+      "file": "raw/papers/ai_for_security/misc/arxiv_2504.05408.pdf",
+      "size": 769149
     },
     {
       "url": "https://arxiv.org/pdf/2512.04338",
@@ -416,7 +489,9 @@
       "sources": [
         "ai_for_security/supply_chain/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2512.04338\", wait",
+      "file": "raw/papers/ai_for_security/supply_chain/arxiv_2512.04338.pdf",
+      "size": 485353
     },
     {
       "url": "http://www.arxiv.org/pdf/2506.14466",
@@ -425,7 +500,9 @@
       "sources": [
         "ai_for_security/supply_chain/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"http://www.arxiv.org/pdf/2506.14466\", w",
+      "file": "raw/papers/ai_for_security/supply_chain/arxiv_2506.14466.pdf",
+      "size": 3307710
     },
     {
       "url": "https://arxiv.org/pdf/2603.11214",
@@ -434,7 +511,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2603.11214\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2603.11214.pdf",
+      "size": 2553956
     },
     {
       "url": "https://arxiv.org/pdf/2506.11325",
@@ -443,7 +522,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.11325\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2506.11325.pdf",
+      "size": 3910745
     },
     {
       "url": "https://arxiv.org/pdf/2508.21323",
@@ -452,7 +533,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2508.21323\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2508.21323.pdf",
+      "size": 910451
     },
     {
       "url": "https://arxiv.org/pdf/2505.11988",
@@ -461,7 +544,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2505.11988\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2505.11988.pdf",
+      "size": 820245
     },
     {
       "url": "https://arxiv.org/pdf/2410.20287v1",
@@ -470,7 +555,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2410.20287v1\", wa",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2410.20287v1.pdf",
+      "size": 796902
     },
     {
       "url": "https://arxiv.org/pdf/2505.06701v1",
@@ -479,7 +566,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2505.06701v1\", wa",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2505.06701v1.pdf",
+      "size": 860785
     },
     {
       "url": "https://arxiv.org/pdf/2412.10872",
@@ -488,7 +577,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2412.10872\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2412.10872.pdf",
+      "size": 3502200
     },
     {
       "url": "https://arxiv.org/pdf/2410.21060",
@@ -497,7 +588,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2410.21060\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2410.21060.pdf",
+      "size": 845039
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf",
@@ -506,7 +599,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/threat_hunting/usenixsecurity24-liu-peiyu.pdf",
+      "size": 1078271
     },
     {
       "url": "https://arxiv.org/pdf/2407.05194",
@@ -515,7 +610,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2407.05194\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2407.05194.pdf",
+      "size": 2168361
     },
     {
       "url": "https://arxiv.org/pdf/2307.10214",
@@ -524,7 +621,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2307.10214\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2307.10214.pdf",
+      "size": 1909952
     },
     {
       "url": "https://arxiv.org/pdf/2403.17068",
@@ -533,7 +632,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2403.17068\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2403.17068.pdf",
+      "size": 1492765
     },
     {
       "url": "https://arxiv.org/pdf/2204.02685",
@@ -542,7 +643,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2204.02685\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2204.02685.pdf",
+      "size": 957766
     },
     {
       "url": "https://arxiv.org/pdf/2310.02655",
@@ -551,7 +654,9 @@
       "sources": [
         "ai_for_security/threat_hunting/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2310.02655\", wait",
+      "file": "raw/papers/ai_for_security/threat_hunting/arxiv_2310.02655.pdf",
+      "size": 1414416
     },
     {
       "url": "https://arxiv.org/pdf/2408.05667",
@@ -560,7 +665,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2408.05667\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2408.05667.pdf",
+      "size": 2320665
     },
     {
       "url": "https://arxiv.org/pdf/2510.18465",
@@ -569,7 +676,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2510.18465\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2510.18465.pdf",
+      "size": 6285621
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-483-ji.pdf",
@@ -578,7 +687,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/web_security/sec25cycle1-prepub-483-ji.pdf",
+      "size": 744367
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1225-roy.pdf",
@@ -587,7 +698,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/ai_for_security/web_security/sec25cycle1-prepub-1225-roy.pdf",
+      "size": 1878424
     },
     {
       "url": "https://arxiv.org/pdf/2506.20170",
@@ -596,7 +709,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.20170\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2506.20170.pdf",
+      "size": 1993039
     },
     {
       "url": "https://arxiv.org/pdf/2506.13746",
@@ -605,7 +720,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.13746\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2506.13746.pdf",
+      "size": 446306
     },
     {
       "url": "https://arxiv.org/pdf/2502.10110",
@@ -614,7 +731,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.10110\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2502.10110.pdf",
+      "size": 623932
     },
     {
       "url": "https://openreview.net/pdf?id=P0x8J5gCPP",
@@ -623,7 +742,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='openreview.net', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://openreview.net/pdf?id=P0x8J5gCP",
+      "file": "raw/papers/ai_for_security/web_security/paper_fa6a23da23b9.pdf",
+      "size": 4329910
     },
     {
       "url": "https://arxiv.org/pdf/2308.01990",
@@ -632,7 +753,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2308.01990\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2308.01990.pdf",
+      "size": 1648329
     },
     {
       "url": "https://arxiv.org/pdf/2306.14397",
@@ -641,7 +764,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2306.14397\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2306.14397.pdf",
+      "size": 976416
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3678890.3678925",
@@ -650,7 +775,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3678",
+      "file": "raw/papers/ai_for_security/web_security/acm_3678890.3678925.pdf",
+      "size": 2673876
     },
     {
       "url": "https://raid2024.github.io/papers/raid2024-19.pdf",
@@ -659,7 +786,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='raid2024.github.io', port=443): Max retries exceeded w"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://raid2024.github.io/papers/raid2",
+      "file": "raw/papers/ai_for_security/web_security/raid2024-19.pdf",
+      "size": 955166
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-thirumuruganathan_1.pdf",
@@ -668,7 +797,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/web_security/usenixsecurity24-thirumuruganathan_1.pdf",
+      "size": 745842
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf",
@@ -677,7 +808,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/web_security/usenixsecurity24-teoh.pdf",
+      "size": 1425489
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-hao-qingying.pdf",
@@ -686,7 +819,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/web_security/usenixsecurity24-hao-qingying.pdf",
+      "size": 2363722
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf",
@@ -695,7 +830,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/ai_for_security/web_security/usenixsecurity24-liu-ruofan.pdf",
+      "size": 2368581
     },
     {
       "url": "https://arxiv.org/pdf/2405.07496",
@@ -704,7 +841,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2405.07496\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2405.07496.pdf",
+      "size": 10689207
     },
     {
       "url": "https://usenix.org/system/files/usenixsecurity24-li-yuexin.pdf",
@@ -713,7 +852,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='usenix.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://usenix.org/system/files/usenixs",
+      "file": "raw/papers/ai_for_security/web_security/usenixsecurity24-li-yuexin.pdf",
+      "size": 3074180
     },
     {
       "url": "https://arxiv.org/pdf/2404.08144",
@@ -722,7 +863,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2404.08144\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2404.08144.pdf",
+      "size": 592936
     },
     {
       "url": "https://arxiv.org/pdf/2208.12370",
@@ -731,16 +874,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
-    },
-    {
-      "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zheng",
-      "text": "Paper",
-      "source_file": "ai_for_security/web_security/README.md",
-      "sources": [
-        "ai_for_security/web_security/README.md"
-      ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2208.12370\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2208.12370.pdf",
+      "size": 1243485
     },
     {
       "url": "https://arxiv.org/pdf/2310.19181",
@@ -749,7 +885,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2310.19181\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2310.19181.pdf",
+      "size": 10681438
     },
     {
       "url": "https://arxiv.org/pdf/2209.01454",
@@ -758,7 +896,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2209.01454\", wait",
+      "file": "raw/papers/ai_for_security/web_security/arxiv_2209.01454.pdf",
+      "size": 3499481
     },
     {
       "url": "https://www.usenix.org/system/files/sec22-kasturi.pdf",
@@ -767,7 +907,9 @@
       "sources": [
         "ai_for_security/web_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/sec",
+      "file": "raw/papers/ai_for_security/web_security/sec22-kasturi.pdf",
+      "size": 1877788
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-495-du.pdf",
@@ -776,7 +918,9 @@
       "sources": [
         "security_for_ai/adversarial_machine_learning/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/adversarial_machine_learning/sec25cycle1-prepub-495-du.pdf",
+      "size": 9223625
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-389-lin-chenhao.pdf",
@@ -785,7 +929,9 @@
       "sources": [
         "security_for_ai/adversarial_machine_learning/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/adversarial_machine_learning/sec25cycle1-prepub-389-lin-chenhao.pdf",
+      "size": 8467340
     },
     {
       "url": "https://arxiv.org/pdf/2502.02260",
@@ -794,7 +940,9 @@
       "sources": [
         "security_for_ai/adversarial_machine_learning/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.02260\", wait",
+      "file": "raw/papers/security_for_ai/adversarial_machine_learning/arxiv_2502.02260.pdf",
+      "size": 277331
     },
     {
       "url": "https://arxiv.org/pdf/2502.00652",
@@ -803,7 +951,9 @@
       "sources": [
         "security_for_ai/adversarial_machine_learning/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.00652\", wait",
+      "file": "raw/papers/security_for_ai/adversarial_machine_learning/arxiv_2502.00652.pdf",
+      "size": 1293972
     },
     {
       "url": "https://arxiv.org/pdf/2405.02764",
@@ -812,7 +962,9 @@
       "sources": [
         "security_for_ai/adversarial_machine_learning/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2405.02764\", wait",
+      "file": "raw/papers/security_for_ai/adversarial_machine_learning/arxiv_2405.02764.pdf",
+      "size": 933016
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-ling.pdf",
@@ -821,7 +973,9 @@
       "sources": [
         "security_for_ai/adversarial_machine_learning/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/security_for_ai/adversarial_machine_learning/usenixsecurity24-ling.pdf",
+      "size": 1371102
     },
     {
       "url": "https://www.usenix.org/system/files/sec24summer-prepub-617-zhang-boyang.pdf",
@@ -830,7 +984,9 @@
       "sources": [
         "security_for_ai/adversarial_machine_learning/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/sec",
+      "file": "raw/papers/security_for_ai/adversarial_machine_learning/sec24summer-prepub-617-zhang-boyang.pdf",
+      "size": 552628
     },
     {
       "url": "https://arxiv.org/pdf/2603.11862v1",
@@ -839,7 +995,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2603.11862v1\", wa",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2603.11862v1.pdf",
+      "size": 866617
     },
     {
       "url": "https://arxiv.org/pdf/2512.01295",
@@ -848,7 +1006,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2512.01295\", wait",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2512.01295.pdf",
+      "size": 2486219
     },
     {
       "url": "https://arxiv.org/pdf/2602.02613",
@@ -857,7 +1017,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2602.02613\", wait",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2602.02613.pdf",
+      "size": 24252690
     },
     {
       "url": "https://arxiv.org/pdf/2602.02625",
@@ -866,7 +1028,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2602.02625\", wait",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2602.02625.pdf",
+      "size": 445416
     },
     {
       "url": "https://arxiv.org/pdf/2506.12104",
@@ -875,7 +1039,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.12104\", wait",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2506.12104.pdf",
+      "size": 2972503
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity25-ayzenshteyn.pdf",
@@ -884,7 +1050,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/security_for_ai/agents_security/usenixsecurity25-ayzenshteyn.pdf",
+      "size": 1431776
     },
     {
       "url": "https://arxiv.org/pdf/2410.02644?",
@@ -893,7 +1061,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2410.02644?\", wai",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2410.02644.pdf",
+      "size": 922877
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3716628",
@@ -902,7 +1072,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3716",
+      "file": "raw/papers/security_for_ai/agents_security/acm_3716628.pdf",
+      "size": 1499041
     },
     {
       "url": "https://arxiv.org/pdf/2406.08689v2",
@@ -911,7 +1083,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2406.08689v2\", wa",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2406.08689v2.pdf",
+      "size": 896950
     },
     {
       "url": "https://arxiv.org/pdf/2407.19354",
@@ -920,7 +1094,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2407.19354\", wait",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2407.19354.pdf",
+      "size": 27981657
     },
     {
       "url": "https://arxiv.org/pdf/2401.05459",
@@ -929,7 +1105,9 @@
       "sources": [
         "security_for_ai/agents_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2401.05459\", wait",
+      "file": "raw/papers/security_for_ai/agents_security/arxiv_2401.05459.pdf",
+      "size": 4276555
     },
     {
       "url": "https://arxiv.org/pdf/2511.20703",
@@ -938,7 +1116,9 @@
       "sources": [
         "security_for_ai/benchmarks/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2511.20703\", wait",
+      "file": "raw/papers/security_for_ai/benchmarks/arxiv_2511.20703.pdf",
+      "size": 2201849
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-893-shen.pdf",
@@ -947,7 +1127,9 @@
       "sources": [
         "security_for_ai/benchmarks/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/benchmarks/sec25cycle1-prepub-893-shen.pdf",
+      "size": 12662016
     },
     {
       "url": "https://arxiv.org/pdf/2412.14470",
@@ -956,7 +1138,9 @@
       "sources": [
         "security_for_ai/benchmarks/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2412.14470\", wait",
+      "file": "raw/papers/security_for_ai/benchmarks/arxiv_2412.14470.pdf",
+      "size": 4730638
     },
     {
       "url": "https://arxiv.org/pdf/2408.01605",
@@ -965,7 +1149,9 @@
       "sources": [
         "security_for_ai/benchmarks/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2408.01605\", wait",
+      "file": "raw/papers/security_for_ai/benchmarks/arxiv_2408.01605.pdf",
+      "size": 1470291
     },
     {
       "url": "https://arxiv.org/pdf/1809.09600",
@@ -974,7 +1160,9 @@
       "sources": [
         "security_for_ai/benchmarks/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/1809.09600\", wait",
+      "file": "raw/papers/security_for_ai/benchmarks/arxiv_1809.09600.pdf",
+      "size": 2649540
     },
     {
       "url": "https://arxiv.org/pdf/2310.11207",
@@ -983,7 +1171,9 @@
       "sources": [
         "security_for_ai/explainability/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2310.11207\", wait",
+      "file": "raw/papers/security_for_ai/explainability/arxiv_2310.11207.pdf",
+      "size": 753483
     },
     {
       "url": "https://arxiv.org/pdf/2602.16800v1",
@@ -992,7 +1182,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2602.16800v1\", wa",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2602.16800v1.pdf",
+      "size": 817369
     },
     {
       "url": "https://arxiv.org/pdf/2508.04039",
@@ -1001,7 +1193,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2508.04039\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2508.04039.pdf",
+      "size": 1400255
     },
     {
       "url": "https://arxiv.org/pdf/2504.05147",
@@ -1010,7 +1204,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.05147\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2504.05147.pdf",
+      "size": 1256208
     },
     {
       "url": "https://arxiv.org/pdf/2601.21571",
@@ -1019,7 +1215,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2601.21571\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2601.21571.pdf",
+      "size": 1544915
     },
     {
       "url": "https://arxiv.org/pdf/2512.09549",
@@ -1028,7 +1226,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2512.09549\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2512.09549.pdf",
+      "size": 1025693
     },
     {
       "url": "https://jaehanwork.github.io/files/moevil.pdf",
@@ -1037,7 +1237,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='jaehanwork.github.io', port=443): Max retries exceeded"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://jaehanwork.github.io/files/moev",
+      "file": "raw/papers/security_for_ai/llm_security/moevil.pdf",
+      "size": 802866
     },
     {
       "url": "https://arxiv.org/pdf/2511.10287",
@@ -1046,7 +1248,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2511.10287\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2511.10287.pdf",
+      "size": 4757649
     },
     {
       "url": "https://arxiv.org/pdf/2510.26418",
@@ -1055,7 +1259,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2510.26418\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2510.26418.pdf",
+      "size": 41106587
     },
     {
       "url": "https://arxiv.org/pdf/2510.07192",
@@ -1064,7 +1270,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2510.07192\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2510.07192.pdf",
+      "size": 1688317
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-882-kim-hanna.pdf",
@@ -1073,7 +1281,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-882-kim-hanna.pdf",
+      "size": 1992723
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-746-villa.pdf",
@@ -1082,7 +1292,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-746-villa.pdf",
+      "size": 1653336
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-606-wu-yixin-auditing.pdf",
@@ -1091,7 +1303,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-606-wu-yixin-auditing.pdf",
+      "size": 1760263
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-590-wu-yixin-generation.pdf",
@@ -1100,7 +1314,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-590-wu-yixin-generation.pdf",
+      "size": 23800223
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-541-wang-xunguang.pdf",
@@ -1109,7 +1325,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-541-wang-xunguang.pdf",
+      "size": 1360048
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-469-pasquini.pdf",
@@ -1118,7 +1336,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-469-pasquini.pdf",
+      "size": 1888139
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-464-liu-yupei_0.pdf",
@@ -1127,7 +1347,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-464-liu-yupei_0.pdf",
+      "size": 434273
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-341-zhang-shenyi.pdf",
@@ -1136,16 +1358,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
-    },
-    {
-      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1176-wang-yining.pdf",
-      "text": "Paper",
-      "source_file": "security_for_ai/llm_security/README.md",
-      "sources": [
-        "security_for_ai/llm_security/README.md"
-      ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/llm_security/sec25cycle1-prepub-341-zhang-shenyi.pdf",
+      "size": 478268
     },
     {
       "url": "https://arxiv.org/pdf/2410.15645",
@@ -1154,7 +1369,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2410.15645\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2410.15645.pdf",
+      "size": 613118
     },
     {
       "url": "https://arxiv.org/pdf/2506.12913",
@@ -1163,7 +1380,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.12913\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2506.12913.pdf",
+      "size": 1599049
     },
     {
       "url": "https://www.arxiv.org/pdf/2506.07330",
@@ -1172,7 +1391,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.arxiv.org/pdf/2506.07330\", ",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2506.07330.pdf",
+      "size": 914458
     },
     {
       "url": "https://arxiv.org/pdf/2502.17424",
@@ -1181,16 +1402,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
-    },
-    {
-      "url": "https://csdl-downloads.ieeecomputer.org/proceedings/sp/2025/2236/00/223600a392.pdf",
-      "text": "Paper",
-      "source_file": "security_for_ai/llm_security/README.md",
-      "sources": [
-        "security_for_ai/llm_security/README.md"
-      ],
-      "error": "HTTPSConnectionPool(host='csdl-downloads.ieeecomputer.org', port=443): Max retri"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.17424\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2502.17424.pdf",
+      "size": 8672157
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714624",
@@ -1199,7 +1413,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3696",
+      "file": "raw/papers/security_for_ai/llm_security/acm_3696410.3714624.pdf",
+      "size": 22325812
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714654",
@@ -1208,7 +1424,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3696",
+      "file": "raw/papers/security_for_ai/llm_security/acm_3696410.3714654.pdf",
+      "size": 1914186
     },
     {
       "url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714632",
@@ -1217,7 +1435,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='dl.acm.org', port=443): Max retries exceeded with url:"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://dl.acm.org/doi/pdf/10.1145/3696",
+      "file": "raw/papers/security_for_ai/llm_security/acm_3696410.3714632.pdf",
+      "size": 1539594
     },
     {
       "url": "https://arxiv.org/pdf/2504.17004",
@@ -1226,16 +1446,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
-    },
-    {
-      "url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.2365-6/494149131_1055202283127335_8271555569134498093_n.pdf",
-      "text": "Paper",
-      "source_file": "security_for_ai/llm_security/README.md",
-      "sources": [
-        "security_for_ai/llm_security/README.md"
-      ],
-      "error": "HTTPSConnectionPool(host='scontent-lax3-2.xx.fbcdn.net', port=443): Max retries "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.17004\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2504.17004.pdf",
+      "size": 339652
     },
     {
       "url": "https://arxiv.org/pdf/2504.10337",
@@ -1244,7 +1457,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.10337\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2504.10337.pdf",
+      "size": 598301
     },
     {
       "url": "https://arxiv.org/pdf/2503.02574",
@@ -1253,7 +1468,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2503.02574\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2503.02574.pdf",
+      "size": 693451
     },
     {
       "url": "https://arxiv.org/pdf/2402.18649",
@@ -1262,7 +1479,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2402.18649\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2402.18649.pdf",
+      "size": 3919773
     },
     {
       "url": "https://arxiv.org/pdf/2502.07557",
@@ -1271,7 +1490,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.07557\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2502.07557.pdf",
+      "size": 588694
     },
     {
       "url": "https://arxiv.org/pdf/2502.01822",
@@ -1280,7 +1501,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2502.01822\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2502.01822.pdf",
+      "size": 1387147
     },
     {
       "url": "https://arxiv.org/pdf/2503.16431?",
@@ -1289,7 +1512,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2503.16431?\", wai",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2503.16431.pdf",
+      "size": 971648
     },
     {
       "url": "https://arxiv.org/pdf/2412.07724",
@@ -1298,7 +1523,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2412.07724\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2412.07724.pdf",
+      "size": 781618
     },
     {
       "url": "https://arxiv.org/pdf/2412.03556",
@@ -1307,7 +1534,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2412.03556\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2412.03556.pdf",
+      "size": 9156508
     },
     {
       "url": "https://arxiv.org/pdf/2403.04783",
@@ -1316,7 +1545,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2403.04783\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2403.04783.pdf",
+      "size": 851236
     },
     {
       "url": "https://arxiv.org/pdf/2410.02644",
@@ -1325,7 +1556,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2410.02644\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2410.02644.pdf",
+      "size": 922877
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-lin-zilong.pdf",
@@ -1334,7 +1567,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/security_for_ai/llm_security/usenixsecurity24-lin-zilong.pdf",
+      "size": 1029204
     },
     {
       "url": "https://arxiv.org/pdf/2310.08419",
@@ -1344,7 +1579,9 @@
         "security_for_ai/llm_security/README.md",
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2310.08419\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2310.08419.pdf",
+      "size": 5353023
     },
     {
       "url": "https://arxiv.org/pdf/2404.13208",
@@ -1353,7 +1590,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2404.13208\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2404.13208.pdf",
+      "size": 488381
     },
     {
       "url": "https://arxiv.org/pdf/2403.04957",
@@ -1362,7 +1601,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2403.04957\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2403.04957.pdf",
+      "size": 1086738
     },
     {
       "url": "https://arxiv.org/pdf/2307.15043",
@@ -1372,7 +1613,9 @@
         "security_for_ai/llm_security/README.md",
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2307.15043\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2307.15043.pdf",
+      "size": 4656473
     },
     {
       "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/fd6613131889a4b656206c50a8bd7790-Paper-Conference.pdf",
@@ -1381,7 +1624,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='proceedings.neurips.cc', port=443): Max retries exceed"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://proceedings.neurips.cc/paper_fi",
+      "file": "raw/papers/security_for_ai/llm_security/fd6613131889a4b656206c50a8bd7790-Paper-Conference.pdf",
+      "size": 341955
     },
     {
       "url": "https://www-cdn.anthropic.com/f21d93f21602ead5cdbecb8c8e1c765759d9e232.pdf",
@@ -1390,7 +1635,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www-cdn.anthropic.com', port=443): Max retries exceede"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www-cdn.anthropic.com/f21d93f21",
+      "file": "raw/papers/security_for_ai/llm_security/f21d93f21602ead5cdbecb8c8e1c765759d9e232.pdf",
+      "size": 999747
     },
     {
       "url": "https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf",
@@ -1399,7 +1646,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='assets.anthropic.com', port=443): Max retries exceeded"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://assets.anthropic.com/m/ec212e65",
+      "file": "raw/papers/security_for_ai/llm_security/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf",
+      "size": 686793
     },
     {
       "url": "https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf",
@@ -1408,7 +1657,9 @@
       "sources": [
         "security_for_ai/llm_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www-cdn.anthropic.com', port=443): Max retries exceede"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www-cdn.anthropic.com/b2a76c6f6",
+      "file": "raw/papers/security_for_ai/llm_security/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf",
+      "size": 1427827
     },
     {
       "url": "https://arxiv.org/pdf/2211.14719",
@@ -1417,7 +1668,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2211.14719\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2211.14719.pdf",
+      "size": 626735
     },
     {
       "url": "https://arxiv.org/pdf/2304.12298",
@@ -1426,7 +1679,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2304.12298\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2304.12298.pdf",
+      "size": 338739
     },
     {
       "url": "https://arxiv.org/pdf/2305.01219",
@@ -1435,7 +1690,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2305.01219\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2305.01219.pdf",
+      "size": 7847880
     },
     {
       "url": "https://arxiv.org/pdf/2310.18603",
@@ -1444,7 +1701,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2310.18603\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2310.18603.pdf",
+      "size": 1040039
     },
     {
       "url": "https://arxiv.org/pdf/2304.14475",
@@ -1453,7 +1712,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2304.14475\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2304.14475.pdf",
+      "size": 534871
     },
     {
       "url": "https://arxiv.org/pdf/2301.02496",
@@ -1462,7 +1723,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2301.02496\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2301.02496.pdf",
+      "size": 1280851
     },
     {
       "url": "https://arxiv.org/pdf/2406.03007",
@@ -1471,7 +1734,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2406.03007\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2406.03007.pdf",
+      "size": 1322201
     },
     {
       "url": "https://arxiv.org/pdf/2401.12242",
@@ -1480,7 +1745,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2401.12242\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2401.12242.pdf",
+      "size": 5251703
     },
     {
       "url": "https://arxiv.org/pdf/2403.13355",
@@ -1489,7 +1756,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2403.13355\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2403.13355.pdf",
+      "size": 1228993
     },
     {
       "url": "https://arxiv.org/pdf/2401.05566",
@@ -1498,7 +1767,9 @@
       "sources": [
         "security_for_ai/llm_security/backdoor.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2401.05566\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2401.05566.pdf",
+      "size": 3696766
     },
     {
       "url": "https://arxiv.org/pdf/2504.17550",
@@ -1507,7 +1778,9 @@
       "sources": [
         "security_for_ai/llm_security/hallucination.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.17550\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2504.17550.pdf",
+      "size": 2461128
     },
     {
       "url": "https://arxiv.org/pdf/2401.11817",
@@ -1516,7 +1789,9 @@
       "sources": [
         "security_for_ai/llm_security/hallucination.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2401.11817\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2401.11817.pdf",
+      "size": 811862
     },
     {
       "url": "https://arxiv.org/pdf/2401.01301",
@@ -1525,7 +1800,9 @@
       "sources": [
         "security_for_ai/llm_security/hallucination.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2401.01301\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2401.01301.pdf",
+      "size": 2577422
     },
     {
       "url": "https://arxiv.org/pdf/2310.04451",
@@ -1534,7 +1811,9 @@
       "sources": [
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2310.04451\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2310.04451.pdf",
+      "size": 611538
     },
     {
       "url": "https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf",
@@ -1543,7 +1822,9 @@
       "sources": [
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='www-cdn.anthropic.com', port=443): Max retries exceede"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www-cdn.anthropic.com/af5633c94",
+      "file": "raw/papers/security_for_ai/llm_security/Many_Shot_Jailbreaking__2024_04_02_0936.pdf",
+      "size": 1378636
     },
     {
       "url": "https://arxiv.org/pdf/2402.11753",
@@ -1552,7 +1833,9 @@
       "sources": [
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2402.11753\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2402.11753.pdf",
+      "size": 940368
     },
     {
       "url": "https://arxiv.org/pdf/2311.03191",
@@ -1561,7 +1844,9 @@
       "sources": [
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2311.03191\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2311.03191.pdf",
+      "size": 8487153
     },
     {
       "url": "https://arxiv.org/pdf/2404.01833",
@@ -1570,7 +1855,9 @@
       "sources": [
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2404.01833\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2404.01833.pdf",
+      "size": 9185259
     },
     {
       "url": "https://arxiv.org/pdf/2308.03825",
@@ -1579,7 +1866,9 @@
       "sources": [
         "security_for_ai/llm_security/jailbreak.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2308.03825\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2308.03825.pdf",
+      "size": 2624350
     },
     {
       "url": "https://arxiv.org/pdf/2511.20597",
@@ -1588,7 +1877,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2511.20597\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2511.20597.pdf",
+      "size": 2068515
     },
     {
       "url": "https://arxiv.org/pdf/2510.01354",
@@ -1597,7 +1888,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2510.01354\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2510.01354.pdf",
+      "size": 5873974
     },
     {
       "url": "https://arxiv.org/pdf/2510.09023",
@@ -1606,7 +1899,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2510.09023\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2510.09023.pdf",
+      "size": 2134469
     },
     {
       "url": "https://arxiv.org/pdf/2507.02735",
@@ -1615,7 +1910,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2507.02735\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2507.02735.pdf",
+      "size": 463846
     },
     {
       "url": "https://arxiv.org/pdf/2506.09956v1",
@@ -1624,7 +1921,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.09956v1\", wa",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2506.09956v1.pdf",
+      "size": 5908192
     },
     {
       "url": "https://arxiv.org/pdf/2506.08837",
@@ -1633,7 +1932,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.08837\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2506.08837.pdf",
+      "size": 1358691
     },
     {
       "url": "https://arxiv.org/pdf/2504.18575",
@@ -1642,7 +1943,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.18575\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2504.18575.pdf",
+      "size": 1194682
     },
     {
       "url": "https://arxiv.org/pdf/2503.18813",
@@ -1651,7 +1954,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2503.18813\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2503.18813.pdf",
+      "size": 5531468
     },
     {
       "url": "https://arxiv.org/pdf/2312.14197",
@@ -1660,7 +1965,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2312.14197\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2312.14197.pdf",
+      "size": 1236869
     },
     {
       "url": "https://arxiv.org/pdf/2501.18837",
@@ -1669,7 +1976,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2501.18837\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2501.18837.pdf",
+      "size": 1339179
     },
     {
       "url": "https://arxiv.org/pdf/2406.13352",
@@ -1678,7 +1987,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2406.13352\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2406.13352.pdf",
+      "size": 1042076
     },
     {
       "url": "https://arxiv.org/pdf/2403.02691",
@@ -1687,7 +1998,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2403.02691\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2403.02691.pdf",
+      "size": 3183277
     },
     {
       "url": "https://www.usenix.org/system/files/usenixsecurity24-liu-yupei.pdf",
@@ -1696,7 +2009,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/use",
+      "file": "raw/papers/security_for_ai/llm_security/usenixsecurity24-liu-yupei.pdf",
+      "size": 2751929
     },
     {
       "url": "https://arxiv.org/pdf/2306.05499",
@@ -1705,7 +2020,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2306.05499\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2306.05499.pdf",
+      "size": 693898
     },
     {
       "url": "https://arxiv.org/pdf/2403.14720",
@@ -1714,7 +2031,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2403.14720\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2403.14720.pdf",
+      "size": 383223
     },
     {
       "url": "https://arxiv.org/pdf/2302.12173",
@@ -1723,7 +2042,9 @@
       "sources": [
         "security_for_ai/llm_security/prompt_injection_pub.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2302.12173\", wait",
+      "file": "raw/papers/security_for_ai/llm_security/arxiv_2302.12173.pdf",
+      "size": 7306999
     },
     {
       "url": "https://arxiv.org/pdf/2503.23278?",
@@ -1732,7 +2053,9 @@
       "sources": [
         "security_for_ai/mcp_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2503.23278?\", wai",
+      "file": "raw/papers/security_for_ai/mcp_security/arxiv_2503.23278.pdf",
+      "size": 1939128
     },
     {
       "url": "https://arxiv.org/pdf/2504.12757",
@@ -1741,7 +2064,9 @@
       "sources": [
         "security_for_ai/mcp_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.12757\", wait",
+      "file": "raw/papers/security_for_ai/mcp_security/arxiv_2504.12757.pdf",
+      "size": 564783
     },
     {
       "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-980-shafran.pdf",
@@ -1750,7 +2075,9 @@
       "sources": [
         "security_for_ai/rag_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.usenix.org', port=443): Max retries exceeded with "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.usenix.org/system/files/con",
+      "file": "raw/papers/security_for_ai/rag_security/sec25cycle1-prepub-980-shafran.pdf",
+      "size": 1626879
     },
     {
       "url": "https://arxiv.org/pdf/2501.02968",
@@ -1759,7 +2086,9 @@
       "sources": [
         "security_for_ai/rag_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2501.02968\", wait",
+      "file": "raw/papers/security_for_ai/rag_security/arxiv_2501.02968.pdf",
+      "size": 2317578
     },
     {
       "url": "https://arxiv.org/pdf/2504.16429",
@@ -1768,7 +2097,9 @@
       "sources": [
         "security_for_ai/rag_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.16429\", wait",
+      "file": "raw/papers/security_for_ai/rag_security/arxiv_2504.16429.pdf",
+      "size": 1218157
     },
     {
       "url": "https://arxiv.org/pdf/2501.18636",
@@ -1777,7 +2108,9 @@
       "sources": [
         "security_for_ai/rag_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2501.18636\", wait",
+      "file": "raw/papers/security_for_ai/rag_security/arxiv_2501.18636.pdf",
+      "size": 2759430
     },
     {
       "url": "https://arxiv.org/pdf/2405.13401",
@@ -1786,7 +2119,9 @@
       "sources": [
         "security_for_ai/rag_security/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2405.13401\", wait",
+      "file": "raw/papers/security_for_ai/rag_security/arxiv_2405.13401.pdf",
+      "size": 16038855
     },
     {
       "url": "https://arxiv.org/pdf/2509.06703",
@@ -1795,7 +2130,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2509.06703\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2509.06703.pdf",
+      "size": 461114
     },
     {
       "url": "https://arxiv.org/pdf/2601.11516",
@@ -1804,7 +2141,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2601.11516\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2601.11516.pdf",
+      "size": 1258093
     },
     {
       "url": "https://arxiv.org/pdf/2601.04603",
@@ -1813,7 +2152,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2601.04603\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2601.04603.pdf",
+      "size": 457385
     },
     {
       "url": "https://arxiv.org/pdf/2512.09882v1",
@@ -1822,7 +2163,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2512.09882v1\", wa",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2512.09882v1.pdf",
+      "size": 903324
     },
     {
       "url": "https://www.arxiv.org/pdf/2511.17666",
@@ -1831,7 +2174,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='www.arxiv.org', port=443): Max retries exceeded with u"
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.arxiv.org/pdf/2511.17666\", ",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2511.17666.pdf",
+      "size": 172469
     },
     {
       "url": "https://arxiv.org/pdf/2506.14682",
@@ -1840,7 +2185,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2506.14682\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2506.14682.pdf",
+      "size": 1143885
     },
     {
       "url": "https://arxiv.org/pdf/2403.03593",
@@ -1849,7 +2196,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2403.03593\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2403.03593.pdf",
+      "size": 8654164
     },
     {
       "url": "https://arxiv.org/pdf/2402.04249",
@@ -1858,7 +2207,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2402.04249\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2402.04249.pdf",
+      "size": 3233876
     },
     {
       "url": "https://arxiv.org/pdf/2311.07689",
@@ -1867,7 +2218,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2311.07689\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2311.07689.pdf",
+      "size": 540908
     },
     {
       "url": "https://arxiv.org/pdf/2308.14367",
@@ -1876,7 +2229,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2308.14367\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2308.14367.pdf",
+      "size": 857628
     },
     {
       "url": "https://arxiv.org/pdf/2109.04344",
@@ -1885,7 +2240,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2109.04344\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2109.04344.pdf",
+      "size": 4364420
     },
     {
       "url": "https://arxiv.org/pdf/2107.08590",
@@ -1894,7 +2251,9 @@
       "sources": [
         "security_for_ai/red_teaming/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2107.08590\", wait",
+      "file": "raw/papers/security_for_ai/red_teaming/arxiv_2107.08590.pdf",
+      "size": 765021
     },
     {
       "url": "https://arxiv.org/pdf/2601.10527",
@@ -1903,7 +2262,9 @@
       "sources": [
         "security_for_ai/safety_bias_fairness/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2601.10527\", wait",
+      "file": "raw/papers/security_for_ai/safety_bias_fairness/arxiv_2601.10527.pdf",
+      "size": 27339264
     },
     {
       "url": "https://arxiv.org/pdf/2601.11886",
@@ -1912,7 +2273,9 @@
       "sources": [
         "security_for_ai/safety_bias_fairness/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2601.11886\", wait",
+      "file": "raw/papers/security_for_ai/safety_bias_fairness/arxiv_2601.11886.pdf",
+      "size": 2863011
     },
     {
       "url": "https://arxiv.org/pdf/2505.00174",
@@ -1921,7 +2284,9 @@
       "sources": [
         "security_for_ai/safety_bias_fairness/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2505.00174\", wait",
+      "file": "raw/papers/security_for_ai/safety_bias_fairness/arxiv_2505.00174.pdf",
+      "size": 611623
     },
     {
       "url": "https://arxiv.org/pdf/2412.14093",
@@ -1930,7 +2295,9 @@
       "sources": [
         "security_for_ai/safety_bias_fairness/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2412.14093\", wait",
+      "file": "raw/papers/security_for_ai/safety_bias_fairness/arxiv_2412.14093.pdf",
+      "size": 3236586
     },
     {
       "url": "https://arxiv.org/pdf/2411.18895",
@@ -1939,7 +2306,9 @@
       "sources": [
         "security_for_ai/safety_bias_fairness/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2411.18895\", wait",
+      "file": "raw/papers/security_for_ai/safety_bias_fairness/arxiv_2411.18895.pdf",
+      "size": 1057447
     },
     {
       "url": "https://arxiv.org/pdf/2410.02089v1",
@@ -1948,7 +2317,9 @@
       "sources": [
         "security_for_ai/safety_bias_fairness/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2410.02089v1\", wa",
+      "file": "raw/papers/security_for_ai/safety_bias_fairness/arxiv_2410.02089v1.pdf",
+      "size": 541564
     },
     {
       "url": "https://arxiv.org/pdf/2408.17285",
@@ -1957,7 +2328,9 @@
       "sources": [
         "security_for_ai/safety_bias_fairness/README.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2408.17285\", wait",
+      "file": "raw/papers/security_for_ai/safety_bias_fairness/arxiv_2408.17285.pdf",
+      "size": 40242456
     },
     {
       "url": "https://arxiv.org/pdf/2504.21205v1",
@@ -1966,7 +2339,9 @@
       "sources": [
         "security_for_ai/vibe_coding/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2504.21205v1\", wa",
+      "file": "raw/papers/security_for_ai/vibe_coding/arxiv_2504.21205v1.pdf",
+      "size": 4712116
     },
     {
       "url": "https://arxiv.org/pdf/2503.13654v1",
@@ -1975,7 +2350,9 @@
       "sources": [
         "security_for_ai/vibe_coding/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2503.13654v1\", wa",
+      "file": "raw/papers/security_for_ai/vibe_coding/arxiv_2503.13654v1.pdf",
+      "size": 3901483
     },
     {
       "url": "https://arxiv.org/pdf/2409.07368v3",
@@ -1984,7 +2361,56 @@
       "sources": [
         "security_for_ai/vibe_coding/readme.md"
       ],
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: "
+      "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/2409.07368v3\", wa",
+      "file": "raw/papers/security_for_ai/vibe_coding/arxiv_2409.07368v3.pdf",
+      "size": 618328
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://openreview.net/forum?id=MQ6NAXJyqg",
+      "text": "Paper",
+      "source_file": "ai_for_security/dns_security/README.md",
+      "sources": [
+        "ai_for_security/dns_security/README.md"
+      ],
+      "error": "Not a PDF (ct=text/html; charset=utf-8, 62153B)"
+    },
+    {
+      "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zheng",
+      "text": "Paper",
+      "source_file": "ai_for_security/web_security/README.md",
+      "sources": [
+        "ai_for_security/web_security/README.md"
+      ],
+      "error": "Not a PDF (ct=text/html; charset=utf-8, 45405B)"
+    },
+    {
+      "url": "https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1176-wang-yining.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "Download timeout"
+    },
+    {
+      "url": "https://csdl-downloads.ieeecomputer.org/proceedings/sp/2025/2236/00/223600a392.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.2365-6/494149131_1055202283127335_8271555569134498093_n.pdf",
+      "text": "Paper",
+      "source_file": "security_for_ai/llm_security/README.md",
+      "sources": [
+        "security_for_ai/llm_security/README.md"
+      ],
+      "error": "HTTP 403"
     }
   ],
   "skipped": []
